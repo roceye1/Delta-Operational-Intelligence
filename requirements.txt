@@ -1,1 +1,10 @@
-
+pandas
+numpy
+matplotlib
+scikit-learn
+jupyter
+ipykernel
+sqlalchemy
+psycopg2-binary
+duckdb
+python-dotenv
