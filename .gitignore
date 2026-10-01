@@ -1,1 +1,48 @@
+# macOS
+.DS_Store
 
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+
+# Environment / credentials
+.env
+.env.*
+!.env.example
+
+# Jupyter
+.ipynb_checkpoints/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs / temp files
+*.log
+*.tmp
+*.temp
+
+# Raw and generated datasets are kept out of Git by default.
+# Source URLs and filenames are documented in docs/source_register.md.
+data/raw/*
+!data/raw/**/
+!data/raw/**/.gitkeep
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated model artifacts
+outputs/model/*
+!outputs/model/.gitkeep
+
+# Keep SQL results/predictions out until intentionally selected for portfolio publishing
+outputs/sql_results/*
+!outputs/sql_results/.gitkeep
+outputs/predictions/*
+!outputs/predictions/.gitkeep
