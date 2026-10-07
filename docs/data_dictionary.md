@@ -1,6 +1,6 @@
 # Data Dictionary
 
-> **Status:** Provisional schema. Exact source column names, data types, null rules, and accepted values will be confirmed after the raw datasets are downloaded and inspected.
+> **Status:** Financial schema confirmed. Flight, airport, fuel-price, and calendar fields will be finalized after raw source inspection and cleaning.
 
 ## Planned Table: `flights`
 
@@ -46,22 +46,29 @@
 | latitude | Latitude, if available from approved source | numeric |
 | longitude | Longitude, if available from approved source | numeric |
 
-## Planned Table: `financials`
+## Confirmed Table: `financials`
 
-| Field | Description | Planned Type | Source |
+Cleaned file: `data/processed/financials_clean.csv`
+
+| Field | Description | Type | Source |
 |---|---|---|---|
 | fiscal_year | Delta fiscal year | integer | Delta / SEC |
-| operating_revenue | Reported operating revenue | numeric | Delta / SEC |
-| operating_income | Reported operating income | numeric | Delta / SEC |
-| net_income | Reported net income | numeric | Delta / SEC |
-| operating_margin | Operating income / operating revenue | numeric | Calculated unless directly reported |
-| fuel_expense | Reported aircraft fuel and related tax expense | numeric | Delta / SEC |
-| salaries_related | Salaries and related costs where consistently reported | numeric | Delta / SEC |
-| operating_cash_flow | Net cash provided by operating activities | numeric | Delta / SEC |
-| passenger_revenue | Passenger revenue where consistently reported | numeric | Delta / SEC |
-| rpm | Revenue passenger miles where consistently reported | numeric | Delta / SEC |
-| asm | Available seat miles where consistently reported | numeric | Delta / SEC |
-| load_factor | Passenger load factor where consistently reported | numeric | Delta / SEC |
+| passenger_revenue_usd_millions | Reported passenger revenue | numeric | Delta / SEC |
+| total_operating_revenue_usd_millions | Reported total operating revenue | numeric | Delta / SEC |
+| total_operating_expense_usd_millions | Reported total operating expense | numeric | Delta / SEC |
+| salaries_related_costs_usd_millions | Reported salaries and related costs | numeric | Delta / SEC |
+| fuel_expense_usd_millions | Reported aircraft fuel and related tax expense | numeric | Delta / SEC |
+| operating_income_usd_millions | Reported operating income | numeric | Delta / SEC |
+| net_income_usd_millions | Reported net income | numeric | Delta / SEC |
+| operating_cash_flow_usd_millions | Net cash provided by operating activities | numeric | Delta / SEC |
+| operating_margin_pct | Operating income / total operating revenue × 100 | numeric | Calculated |
+| rpm_millions | Revenue passenger miles | numeric | Delta / SEC operating statistics |
+| asm_millions | Available seat miles | numeric | Delta / SEC operating statistics |
+| passenger_load_factor_pct | Passenger load factor | numeric | Delta / SEC operating statistics |
+| fuel_gallons_consumed_millions | Fuel gallons consumed | numeric | Delta / SEC operating statistics |
+| average_fuel_price_usd_per_gallon | Reported average price per fuel gallon | numeric | Delta / SEC operating statistics |
+| source_financials_10k_year | 10-K used for financial-statement values | integer | Data lineage |
+| source_operating_stats_10k_year | 10-K used for operating-statistics values | integer | Data lineage |
 
 ## Planned Table: `fuel_prices`
 
@@ -106,4 +113,4 @@ Total relevant delay minutes divided by scheduled flights, multiplied by 100.
 ## Notes
 - Cancelled and diverted records require explicit treatment when calculating arrival metrics.
 - Exact BTS field names will be mapped to these standardized analytical names during cleaning.
-- Final data types and null-handling rules will be documented after source inspection.
+- Financial values are consolidated Delta Air Lines values and are not route-level profitability measures.
