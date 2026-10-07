@@ -1,0 +1,6 @@
+fiscal_year,passenger_revenue_usd_millions,total_operating_revenue_usd_millions,total_operating_expense_usd_millions,salaries_related_costs_usd_millions,fuel_expense_usd_millions,operating_income_usd_millions,net_income_usd_millions,operating_cash_flow_usd_millions,operating_margin_pct,rpm_millions,asm_millions,passenger_load_factor_pct,fuel_gallons_consumed_millions,average_fuel_price_usd_per_gallon,source_financials_10k_year,source_operating_stats_10k_year
+2021,22519,29899,28013,9728,5633,1886,280,3264,6.31,134692,194474,69,2778,2.02,2023,2022
+2022,40218,50582,46921,11902,11482,3661,1318,6363,7.24,195480,233226,84,3412,3.36,2023,2023
+2023,48909,58048,52527,14607,11069,5521,4609,6464,9.51,232241,272033,85,3926,2.82,2025,2023
+2024,50894,61643,55648,16161,10566,5995,3457,8025,9.73,246145,288394,85,4114,2.57,2025,2025
+2025,51768,63364,57542,17520,9819,5822,5005,8342,9.19,249578,298045,84,4269,2.30,2025,2025
