@@ -5,7 +5,7 @@ This document records all external datasets used in the project. Raw source file
 | ID | Source | Dataset / Document | Period | Purpose | Raw File Location | Download Date | Status |
 |---|---|---|---|---|---|---|---|
 | DS01 | Bureau of Transportation Statistics | Marketing Carrier On-Time Performance | Jan–Dec 2025 | Flight operations, delays, cancellations, routes and delay causes | `data/raw/flights/` | 2026-10-01 | Downloaded locally |
-| DS02 | Delta Air Lines / SEC | Delta Air Lines Form 10-K filings (2025 and 2023 comparative filings) | 2021–2025 | Revenue, income, expenses, cash flow and operating metrics | `data/raw/financials/` | 2026-10-01 | Downloaded locally |
+| DS02 | Delta Air Lines / SEC | Delta Air Lines Form 10-K filings (2025, 2023 and 2022 comparative filings) | 2021–2025 | Revenue, income, expenses, cash flow and operating metrics | `data/raw/financials/` | 2026-10-01 to 2026-10-07 | Downloaded locally |
 | DS03 | U.S. Energy Information Administration | U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB | 2021–2025 monthly | Jet-fuel market-price analysis | `data/raw/fuel/` | 2026-10-01 | Downloaded locally |
 
 ## Files Collected
@@ -19,7 +19,8 @@ This document records all external datasets used in the project. Raw source file
 ### DS02 — Delta Air Lines / SEC
 - Delta Air Lines 2025 Form 10-K Excel workbook.
 - Delta Air Lines 2023 Form 10-K Excel workbook.
-- Together, the comparative financial statements are intended to cover the main 2021–2025 financial metrics required by the project.
+- Delta Air Lines 2022 Form 10-K Excel workbook.
+- The 2025 and 2023 filings provide the core 2021–2025 financial statements; the 2022 filing is retained to complete and validate 2021 operating statistics such as RPM, ASM, passenger load factor, fuel gallons consumed and average fuel price.
 - Original workbooks are stored unchanged in `data/raw/financials/`.
 
 ### DS03 — U.S. Energy Information Administration
