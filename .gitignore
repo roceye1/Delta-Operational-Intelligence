@@ -27,11 +27,11 @@ env/
 *.tmp
 *.temp
 
-# Raw and generated datasets are kept out of Git by default.
-# Source URLs and filenames are documented in docs/source_register.md.
-data/raw/*
-!data/raw/**/
-!data/raw/**/.gitkeep
+# Raw source data stays local only.
+# The source register documents where each raw dataset came from.
+/data/raw/
+
+# Temporary and generated datasets stay local unless deliberately published.
 data/interim/*
 !data/interim/.gitkeep
 data/processed/*
