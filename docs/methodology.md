@@ -1090,10 +1090,20 @@ Python and SQL implementation.
 The original large BTS flight datasets
 are not included in the GitHub repository.
 
-The reporting workbook and full
-Power BI service model have also
-not been published as reusable
-project artifacts.
+The Power BI reporting workbook is available
+in the repository at:
+
+powerBI/Delta_Operational_Intelligence_PowerBI_Data.xlsx
+
+It contains the seven reporting datasets
+used to develop the Power BI dashboards.
+
+However, the complete Power BI semantic model,
+including exported DAX measure definitions,
+has not yet been published as a reusable artifact.
+
+This limits independent reproduction of the
+complete interactive Power BI reports.
 
 A complete automated rebuild from
 an empty environment has not yet
