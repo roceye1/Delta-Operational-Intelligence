@@ -1,0 +1,6 @@
+"fiscal_year","months_available","gallons_consumed_millions","delta_avg_fuel_price","eia_avg_spot_price","fuel_expense_millions","consumption_growth_yoy_pct","fuel_price_change_yoy_pct","fuel_expense_change_yoy_pct"
+2021,12,2778.0,2.02,1.854,5633.0,NULL,NULL,NULL
+2022,12,3412.0,3.36,3.368,11482.0,22.82,66.34,103.83
+2023,12,3926.0,2.82,2.701,11069.0,15.06,-16.07,-3.60
+2024,12,4114.0,2.57,2.337,10566.0,4.79,-8.87,-4.54
+2025,12,4269.0,2.3,2.118,9819.0,3.77,-10.51,-7.07

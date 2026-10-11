@@ -1,0 +1,2521 @@
+"month_start","airport_code","city","state","total_flights","eligible_arrivals","delayed_arrivals","cancelled_flights","diverted_flights"
+"2025-01-01","ABE","Allentown/Bethlehem/Easton, PA","PA",88,84,12,4,0
+"2025-01-01","ABQ","Albuquerque, NM","NM",248,246,25,2,0
+"2025-01-01","ABR","Aberdeen, SD","SD",61,61,8,0,0
+"2025-01-01","ABY","Albany, GA","GA",84,71,19,12,1
+"2025-01-01","AEX","Alexandria, LA","LA",84,76,8,7,1
+"2025-01-01","AGS","Augusta, GA","GA",202,186,34,16,0
+"2025-01-01","ALB","Albany, NY","NY",227,223,55,4,0
+"2025-01-01","ANC","Anchorage, AK","AK",118,117,26,0,1
+"2025-01-01","APN","Alpena, MI","MI",54,53,14,0,1
+"2025-01-01","ASE","Aspen, CO","CO",93,83,39,1,9
+"2025-01-01","ATL","Atlanta, GA","GA",21367,20216,3881,1125,26
+"2025-01-01","ATW","Appleton, WI","WI",199,197,47,2,0
+"2025-01-01","AUS","Austin, TX","TX",1125,1099,199,25,1
+"2025-01-01","AVL","Asheville, NC","NC",195,185,29,10,0
+"2025-01-01","AZO","Kalamazoo, MI","MI",84,83,25,1,0
+"2025-01-01","BDL","Hartford, CT","CT",311,303,54,8,0
+"2025-01-01","BGM","Binghamton, NY","NY",31,30,8,0,1
+"2025-01-01","BGR","Bangor, ME","ME",85,84,11,1,0
+"2025-01-01","BHM","Birmingham, AL","AL",326,314,63,12,0
+"2025-01-01","BIL","Billings, MT","MT",119,119,18,0,0
+"2025-01-01","BIS","Bismarck/Mandan, ND","ND",134,134,23,0,0
+"2025-01-01","BJI","Bemidji, MN","MN",61,61,8,0,0
+"2025-01-01","BMI","Bloomington/Normal, IL","IL",62,59,6,3,0
+"2025-01-01","BNA","Nashville, TN","TN",1020,993,167,27,0
+"2025-01-01","BOI","Boise, ID","ID",449,444,51,4,1
+"2025-01-01","BOS","Boston, MA","MA",3581,3503,546,76,2
+"2025-01-01","BQK","Brunswick, GA","GA",84,76,3,8,0
+"2025-01-01","BRD","Brainerd, MN","MN",54,54,12,0,0
+"2025-01-01","BTM","Butte, MT","MT",29,29,3,0,0
+"2025-01-01","BTR","Baton Rouge, LA","LA",133,117,19,16,0
+"2025-01-01","BTV","Burlington, VT","VT",204,200,53,3,1
+"2025-01-01","BUF","Buffalo, NY","NY",391,380,93,11,0
+"2025-01-01","BUR","Burbank, CA","CA",115,110,17,2,3
+"2025-01-01","BWI","Baltimore, MD","MD",474,466,106,8,0
+"2025-01-01","BZN","Bozeman, MT","MT",226,221,42,2,3
+"2025-01-01","CAE","Columbia, SC","SC",265,253,48,12,0
+"2025-01-01","CDC","Cedar City, UT","UT",54,54,3,0,0
+"2025-01-01","CHA","Chattanooga, TN","TN",279,268,67,11,0
+"2025-01-01","CHO","Charlottesville, VA","VA",156,148,30,7,1
+"2025-01-01","CHS","Charleston, SC","SC",515,475,107,39,1
+"2025-01-01","CID","Cedar Rapids/Iowa City, IA","IA",115,114,22,1,0
+"2025-01-01","CIU","Sault Ste. Marie, MI","MI",61,61,14,0,0
+"2025-01-01","CLE","Cleveland, OH","OH",694,682,139,11,1
+"2025-01-01","CLT","Charlotte, NC","NC",905,884,180,21,0
+"2025-01-01","CMH","Columbus, OH","OH",716,706,110,9,1
+"2025-01-01","COS","Colorado Springs, CO","CO",63,61,19,2,0
+"2025-01-01","CRW","Charleston/Dunbar, WV","WV",97,86,26,11,0
+"2025-01-01","CSG","Columbus, GA","GA",84,73,9,10,1
+"2025-01-01","CVG","Cincinnati, OH","KY",1223,1183,261,40,0
+"2025-01-01","CWA","Mosinee, WI","WI",62,62,11,0,0
+"2025-01-01","DAB","Daytona Beach, FL","FL",112,110,22,2,0
+"2025-01-01","DAL","Dallas, TX","TX",136,133,33,3,0
+"2025-01-01","DAY","Dayton, OH","OH",132,127,29,5,0
+"2025-01-01","DCA","Washington, DC","VA",1586,1476,305,102,8
+"2025-01-01","DEN","Denver, CO","CO",918,908,189,10,0
+"2025-01-01","DFW","Dallas/Fort Worth, TX","TX",995,955,225,39,1
+"2025-01-01","DHN","Dothan, AL","AL",84,75,19,9,0
+"2025-01-01","DLH","Duluth, MN","MN",114,114,25,0,0
+"2025-01-01","DSM","Des Moines, IA","IA",294,290,56,4,0
+"2025-01-01","DTW","Detroit, MI","MI",7722,7620,1622,97,5
+"2025-01-01","ECP","Panama City, FL","FL",159,142,21,16,1
+"2025-01-01","EGE","Eagle, CO","CO",84,81,20,3,0
+"2025-01-01","EKO","Elko, NV","NV",31,30,0,0,1
+"2025-01-01","ELM","Elmira/Corning, NY","NY",57,57,14,0,0
+"2025-01-01","ELP","El Paso, TX","TX",58,55,18,3,0
+"2025-01-01","ESC","Escanaba, MI","MI",55,55,10,0,0
+"2025-01-01","EUG","Eugene, OR","OR",146,146,16,0,0
+"2025-01-01","EVV","Evansville, IN","IN",84,73,22,11,0
+"2025-01-01","EWR","Newark, NJ","NJ",740,721,173,17,2
+"2025-01-01","EYW","Key West, FL","FL",139,134,28,4,1
+"2025-01-01","FAI","Fairbanks, AK","AK",31,31,4,0,0
+"2025-01-01","FAR","Fargo, ND","ND",150,150,26,0,0
+"2025-01-01","FAT","Fresno, CA","CA",107,106,9,1,0
+"2025-01-01","FAY","Fayetteville, NC","NC",100,96,17,4,0
+"2025-01-01","FCA","Kalispell, MT","MT",119,117,13,1,1
+"2025-01-01","FLL","Fort Lauderdale, FL","FL",1139,1116,312,22,1
+"2025-01-01","FSD","Sioux Falls, SD","SD",169,167,31,2,0
+"2025-01-01","FWA","Fort Wayne, IN","IN",145,140,49,5,0
+"2025-01-01","GEG","Spokane, WA","WA",479,478,67,1,0
+"2025-01-01","GFK","Grand Forks, ND","ND",92,91,16,1,0
+"2025-01-01","GJT","Grand Junction, CO","CO",55,55,6,0,0
+"2025-01-01","GNV","Gainesville, FL","FL",140,133,18,6,1
+"2025-01-01","GPT","Gulfport/Biloxi, MS","MS",101,90,11,11,0
+"2025-01-01","GRB","Green Bay, WI","WI",199,197,41,1,1
+"2025-01-01","GRR","Grand Rapids, MI","MI",409,404,77,4,1
+"2025-01-01","GSO","Greensboro/High Point, NC","NC",308,297,52,11,0
+"2025-01-01","GSP","Greer, SC","SC",336,321,67,15,0
+"2025-01-01","GTF","Great Falls, MT","MT",115,115,13,0,0
+"2025-01-01","GTR","Columbus, MS","MS",62,59,9,3,0
+"2025-01-01","HDN","Hayden, CO","CO",43,40,7,2,1
+"2025-01-01","HIB","Hibbing, MN","MN",54,54,4,0,0
+"2025-01-01","HLN","Helena, MT","MT",61,58,5,1,2
+"2025-01-01","HNL","Honolulu, HI","HI",359,349,62,6,4
+"2025-01-01","HOU","Houston, TX","TX",103,93,21,9,1
+"2025-01-01","HPN","White Plains, NY","NY",226,216,51,9,1
+"2025-01-01","HRL","Harlingen/San Benito, TX","TX",54,53,6,1,0
+"2025-01-01","HSV","Huntsville, AL","AL",228,218,31,10,0
+"2025-01-01","IAD","Washington, DC","VA",425,416,106,9,0
+"2025-01-01","IAH","Houston, TX","TX",602,565,149,32,5
+"2025-01-01","ICT","Wichita, KS","KS",119,112,22,5,2
+"2025-01-01","IDA","Idaho Falls, ID","ID",88,87,16,1,0
+"2025-01-01","ILM","Wilmington, NC","NC",138,129,18,8,1
+"2025-01-01","IMT","Iron Mountain/Kingsfd, MI","MI",61,60,17,1,0
+"2025-01-01","IND","Indianapolis, IN","IN",759,733,135,26,0
+"2025-01-01","INL","International Falls, MN","MN",54,54,8,0,0
+"2025-01-01","ITH","Ithaca/Cortland, NY","NY",61,60,13,1,0
+"2025-01-01","JAC","Jackson, WY","WY",146,140,28,2,4
+"2025-01-01","JAN","Jackson/Vicksburg, MS","MS",198,188,39,10,0
+"2025-01-01","JAX","Jacksonville, FL","FL",590,563,137,26,1
+"2025-01-01","JFK","New York, NY","NY",4586,4489,862,89,8
+"2025-01-01","KOA","Kona, HI","HI",62,59,13,1,2
+"2025-01-01","LAN","Lansing, MI","MI",84,83,26,0,1
+"2025-01-01","LAS","Las Vegas, NV","NV",1570,1557,291,12,1
+"2025-01-01","LAX","Los Angeles, CA","CA",3768,3725,562,39,4
+"2025-01-01","LEX","Lexington, KY","KY",293,270,52,21,2
+"2025-01-01","LFT","Lafayette, LA","LA",101,90,13,11,0
+"2025-01-01","LGA","New York, NY","NY",6268,6093,1289,161,14
+"2025-01-01","LGB","Long Beach, CA","CA",92,91,12,0,1
+"2025-01-01","LIH","Lihue, HI","HI",62,59,18,3,0
+"2025-01-01","LIT","Little Rock, AR","AR",205,197,37,8,0
+"2025-01-01","LWS","Lewiston, ID","ID",62,62,3,0,0
+"2025-01-01","MAF","Midland/Odessa, TX","TX",62,60,9,2,0
+"2025-01-01","MBS","Saginaw/Bay City/Midland, MI","MI",87,86,24,1,0
+"2025-01-01","MCI","Kansas City, MO","MO",670,620,115,46,4
+"2025-01-01","MCO","Orlando, FL","FL",1861,1833,492,28,0
+"2025-01-01","MDT","Harrisburg, PA","PA",122,117,26,5,0
+"2025-01-01","MDW","Chicago, IL","IL",276,270,58,5,1
+"2025-01-01","MEM","Memphis, TN","TN",498,482,88,16,0
+"2025-01-01","MFE","Mission/McAllen/Edinburg, TX","TX",84,81,19,3,0
+"2025-01-01","MFR","Medford, OR","OR",146,128,22,15,3
+"2025-01-01","MGM","Montgomery, AL","AL",130,120,22,10,0
+"2025-01-01","MIA","Miami, FL","FL",1036,1020,278,15,1
+"2025-01-01","MKE","Milwaukee, WI","WI",588,575,122,12,1
+"2025-01-01","MLB","Melbourne, FL","FL",104,97,17,6,1
+"2025-01-01","MLI","Moline, IL","IL",62,59,12,3,0
+"2025-01-01","MLU","Monroe, LA","LA",84,79,20,5,0
+"2025-01-01","MOB","Mobile, AL","AL",159,140,24,19,0
+"2025-01-01","MOT","Minot, ND","ND",119,115,13,4,0
+"2025-01-01","MQT","Marquette, MI","MI",60,60,13,0,0
+"2025-01-01","MSN","Madison, WI","WI",401,395,81,6,0
+"2025-01-01","MSO","Missoula, MT","MT",119,116,9,0,3
+"2025-01-01","MSP","Minneapolis, MN","MN",7971,7888,1296,79,4
+"2025-01-01","MSY","New Orleans, LA","LA",613,543,103,70,0
+"2025-01-01","MTJ","Montrose/Delta, CO","CO",27,25,7,2,0
+"2025-01-01","MYR","Myrtle Beach, SC","SC",176,168,23,8,0
+"2025-01-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",103,96,18,7,0
+"2025-01-01","OAK","Oakland, CA","CA",88,87,8,0,1
+"2025-01-01","OGG","Kahului, HI","HI",121,116,18,4,1
+"2025-01-01","OKC","Oklahoma City, OK","OK",252,245,48,7,0
+"2025-01-01","OMA","Omaha, NE","NE",472,461,93,9,2
+"2025-01-01","ONT","Ontario, CA","CA",216,206,22,4,6
+"2025-01-01","ORD","Chicago, IL","IL",1019,1004,225,13,2
+"2025-01-01","ORF","Norfolk, VA","VA",405,385,89,16,4
+"2025-01-01","ORH","Worcester, MA","MA",23,22,4,1,0
+"2025-01-01","PBI","West Palm Beach/Palm Beach, FL","FL",612,601,194,11,0
+"2025-01-01","PDX","Portland, OR","OR",645,641,107,4,0
+"2025-01-01","PHL","Philadelphia, PA","PA",552,542,113,10,0
+"2025-01-01","PHX","Phoenix, AZ","AZ",981,971,165,9,1
+"2025-01-01","PIH","Pocatello, ID","ID",61,61,2,0,0
+"2025-01-01","PIT","Pittsburgh, PA","PA",728,714,128,14,0
+"2025-01-01","PLN","Pellston, MI","MI",54,50,12,4,0
+"2025-01-01","PNS","Pensacola, FL","FL",200,178,28,21,1
+"2025-01-01","PSC","Pasco/Kennewick/Richland, WA","WA",207,207,32,0,0
+"2025-01-01","PSP","Palm Springs, CA","CA",210,209,17,1,0
+"2025-01-01","PVD","Providence, RI","RI",141,136,42,5,0
+"2025-01-01","PWM","Portland, ME","ME",207,205,34,2,0
+"2025-01-01","RAP","Rapid City, SD","SD",92,91,11,1,0
+"2025-01-01","RDM","Bend/Redmond, OR","OR",146,144,15,0,2
+"2025-01-01","RDU","Raleigh/Durham, NC","NC",1469,1436,284,33,0
+"2025-01-01","RHI","Rhinelander, WI","WI",61,61,10,0,0
+"2025-01-01","RIC","Richmond, VA","VA",516,503,96,13,0
+"2025-01-01","RNO","Reno, NV","NV",206,204,27,1,1
+"2025-01-01","ROA","Roanoke, VA","VA",127,119,29,7,1
+"2025-01-01","ROC","Rochester, NY","NY",337,333,76,4,0
+"2025-01-01","RST","Rochester, MN","MN",88,88,24,0,0
+"2025-01-01","RSW","Fort Myers, FL","FL",720,703,158,17,0
+"2025-01-01","SAN","San Diego, CA","CA",878,865,154,6,7
+"2025-01-01","SAT","San Antonio, TX","TX",480,467,100,13,0
+"2025-01-01","SAV","Savannah, GA","GA",437,393,80,44,0
+"2025-01-01","SBA","Santa Barbara, CA","CA",93,89,17,2,2
+"2025-01-01","SBN","South Bend, IN","IN",154,152,50,2,0
+"2025-01-01","SDF","Louisville, KY","KY",424,404,67,20,0
+"2025-01-01","SEA","Seattle, WA","WA",3715,3663,506,37,15
+"2025-01-01","SFO","San Francisco, CA","CA",1007,1000,137,7,0
+"2025-01-01","SGF","Springfield, MO","MO",88,83,23,5,0
+"2025-01-01","SGU","St. George, UT","UT",92,92,10,0,0
+"2025-01-01","SHV","Shreveport, LA","LA",136,127,26,8,1
+"2025-01-01","SJC","San Jose, CA","CA",493,491,45,2,0
+"2025-01-01","SJU","San Juan, PR","PR",357,346,95,8,3
+"2025-01-01","SLC","Salt Lake City, UT","UT",6576,6514,803,60,2
+"2025-01-01","SMF","Sacramento, CA","CA",577,574,67,2,1
+"2025-01-01","SNA","Santa Ana, CA","CA",419,410,80,3,6
+"2025-01-01","SRQ","Sarasota/Bradenton, FL","FL",308,300,63,7,1
+"2025-01-01","STL","St. Louis, MO","MO",537,520,114,14,3
+"2025-01-01","STT","Charlotte Amalie, VI","VI",101,100,26,1,0
+"2025-01-01","STX","Christiansted, VI","VI",27,26,9,1,0
+"2025-01-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",100,98,6,2,0
+"2025-01-01","SYR","Syracuse, NY","NY",345,336,86,6,3
+"2025-01-01","TLH","Tallahassee, FL","FL",169,153,30,15,1
+"2025-01-01","TPA","Tampa, FL","FL",1053,1032,269,21,0
+"2025-01-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",141,134,21,7,0
+"2025-01-01","TUL","Tulsa, OK","OK",190,183,37,7,0
+"2025-01-01","TUS","Tucson, AZ","AZ",314,311,47,3,0
+"2025-01-01","TVC","Traverse City, MI","MI",89,89,24,0,0
+"2025-01-01","TWF","Twin Falls, ID","ID",61,61,4,0,0
+"2025-01-01","TYS","Knoxville, TN","TN",389,377,79,12,0
+"2025-01-01","VLD","Valdosta, GA","GA",84,75,8,9,0
+"2025-01-01","VPS","Valparaiso, FL","FL",175,154,20,18,3
+"2025-01-01","XNA","Fayetteville, AR","AR",251,239,60,11,1
+"2025-01-01","XWA","Williston, ND","ND",67,67,23,0,0
+"2025-02-01","ABE","Allentown/Bethlehem/Easton, PA","PA",78,78,9,0,0
+"2025-02-01","ABQ","Albuquerque, NM","NM",226,225,29,0,1
+"2025-02-01","ABR","Aberdeen, SD","SD",56,55,6,0,1
+"2025-02-01","ABY","Albany, GA","GA",78,78,14,0,0
+"2025-02-01","AEX","Alexandria, LA","LA",78,78,12,0,0
+"2025-02-01","AGS","Augusta, GA","GA",184,184,31,0,0
+"2025-02-01","ALB","Albany, NY","NY",217,213,67,2,2
+"2025-02-01","ANC","Anchorage, AK","AK",107,107,15,0,0
+"2025-02-01","APN","Alpena, MI","MI",48,48,14,0,0
+"2025-02-01","ASE","Aspen, CO","CO",84,75,35,1,8
+"2025-02-01","ATL","Atlanta, GA","GA",20034,19956,3513,65,13
+"2025-02-01","ATW","Appleton, WI","WI",184,183,42,1,0
+"2025-02-01","AUS","Austin, TX","TX",1065,1062,193,2,1
+"2025-02-01","AVL","Asheville, NC","NC",181,181,26,0,0
+"2025-02-01","AZO","Kalamazoo, MI","MI",78,75,24,3,0
+"2025-02-01","BDL","Hartford, CT","CT",276,275,40,0,1
+"2025-02-01","BGM","Binghamton, NY","NY",28,27,5,1,0
+"2025-02-01","BGR","Bangor, ME","ME",80,78,18,2,0
+"2025-02-01","BHM","Birmingham, AL","AL",299,297,54,2,0
+"2025-02-01","BIL","Billings, MT","MT",106,104,14,2,0
+"2025-02-01","BIS","Bismarck/Mandan, ND","ND",129,125,20,4,0
+"2025-02-01","BJI","Bemidji, MN","MN",56,55,8,1,0
+"2025-02-01","BMI","Bloomington/Normal, IL","IL",56,56,5,0,0
+"2025-02-01","BNA","Nashville, TN","TN",940,933,200,5,2
+"2025-02-01","BOI","Boise, ID","ID",409,409,88,0,0
+"2025-02-01","BOS","Boston, MA","MA",3319,3254,639,63,2
+"2025-02-01","BQK","Brunswick, GA","GA",78,77,15,0,1
+"2025-02-01","BRD","Brainerd, MN","MN",48,46,7,0,2
+"2025-02-01","BTM","Butte, MT","MT",24,24,3,0,0
+"2025-02-01","BTR","Baton Rouge, LA","LA",133,133,17,0,0
+"2025-02-01","BTV","Burlington, VT","VT",186,181,45,4,1
+"2025-02-01","BUF","Buffalo, NY","NY",369,355,96,12,2
+"2025-02-01","BUR","Burbank, CA","CA",108,107,17,0,1
+"2025-02-01","BWI","Baltimore, MD","MD",437,434,76,3,0
+"2025-02-01","BZN","Bozeman, MT","MT",208,207,36,0,1
+"2025-02-01","CAE","Columbia, SC","SC",257,255,57,2,0
+"2025-02-01","CDC","Cedar City, UT","UT",48,48,1,0,0
+"2025-02-01","CHA","Chattanooga, TN","TN",280,280,54,0,0
+"2025-02-01","CHO","Charlottesville, VA","VA",158,153,30,4,1
+"2025-02-01","CHS","Charleston, SC","SC",474,466,111,6,2
+"2025-02-01","CID","Cedar Rapids/Iowa City, IA","IA",106,106,27,0,0
+"2025-02-01","CIU","Sault Ste. Marie, MI","MI",56,53,12,1,2
+"2025-02-01","CLE","Cleveland, OH","OH",644,635,147,9,0
+"2025-02-01","CLT","Charlotte, NC","NC",844,832,169,11,1
+"2025-02-01","CMH","Columbus, OH","OH",660,656,128,3,1
+"2025-02-01","COS","Colorado Springs, CO","CO",56,56,15,0,0
+"2025-02-01","CRW","Charleston/Dunbar, WV","WV",106,105,21,0,1
+"2025-02-01","CSG","Columbus, GA","GA",78,73,13,4,1
+"2025-02-01","CVG","Cincinnati, OH","KY",1148,1134,281,14,0
+"2025-02-01","CWA","Mosinee, WI","WI",56,56,11,0,0
+"2025-02-01","DAB","Daytona Beach, FL","FL",113,113,19,0,0
+"2025-02-01","DAL","Dallas, TX","TX",126,126,21,0,0
+"2025-02-01","DAY","Dayton, OH","OH",130,130,22,0,0
+"2025-02-01","DCA","Washington, DC","VA",1500,1437,668,51,12
+"2025-02-01","DEN","Denver, CO","CO",842,838,237,3,1
+"2025-02-01","DFW","Dallas/Fort Worth, TX","TX",892,885,194,7,0
+"2025-02-01","DHN","Dothan, AL","AL",78,78,15,0,0
+"2025-02-01","DLH","Duluth, MN","MN",106,106,22,0,0
+"2025-02-01","DSM","Des Moines, IA","IA",268,268,55,0,0
+"2025-02-01","DTW","Detroit, MI","MI",7064,7023,1459,33,8
+"2025-02-01","ECP","Panama City, FL","FL",154,153,29,0,1
+"2025-02-01","EGE","Eagle, CO","CO",80,79,20,0,1
+"2025-02-01","EKO","Elko, NV","NV",29,28,2,0,1
+"2025-02-01","ELM","Elmira/Corning, NY","NY",56,56,16,0,0
+"2025-02-01","ELP","El Paso, TX","TX",50,50,15,0,0
+"2025-02-01","ESC","Escanaba, MI","MI",48,48,4,0,0
+"2025-02-01","EUG","Eugene, OR","OR",134,132,19,2,0
+"2025-02-01","EVV","Evansville, IN","IN",78,78,20,0,0
+"2025-02-01","EWR","Newark, NJ","NJ",689,681,203,7,1
+"2025-02-01","EYW","Key West, FL","FL",120,117,25,2,1
+"2025-02-01","FAI","Fairbanks, AK","AK",28,28,3,0,0
+"2025-02-01","FAR","Fargo, ND","ND",134,134,28,0,0
+"2025-02-01","FAT","Fresno, CA","CA",96,96,9,0,0
+"2025-02-01","FAY","Fayetteville, NC","NC",106,103,13,3,0
+"2025-02-01","FCA","Kalispell, MT","MT",106,106,15,0,0
+"2025-02-01","FLL","Fort Lauderdale, FL","FL",1033,1031,255,2,0
+"2025-02-01","FSD","Sioux Falls, SD","SD",162,162,42,0,0
+"2025-02-01","FWA","Fort Wayne, IN","IN",134,133,29,0,1
+"2025-02-01","GEG","Spokane, WA","WA",431,431,91,0,0
+"2025-02-01","GFK","Grand Forks, ND","ND",84,84,13,0,0
+"2025-02-01","GJT","Grand Junction, CO","CO",48,48,2,0,0
+"2025-02-01","GNV","Gainesville, FL","FL",135,134,24,0,1
+"2025-02-01","GPT","Gulfport/Biloxi, MS","MS",93,93,19,0,0
+"2025-02-01","GRB","Green Bay, WI","WI",184,183,47,0,1
+"2025-02-01","GRR","Grand Rapids, MI","MI",375,372,90,2,1
+"2025-02-01","GSO","Greensboro/High Point, NC","NC",292,289,48,3,0
+"2025-02-01","GSP","Greer, SC","SC",323,319,70,4,0
+"2025-02-01","GTF","Great Falls, MT","MT",106,106,11,0,0
+"2025-02-01","GTR","Columbus, MS","MS",56,56,5,0,0
+"2025-02-01","HDN","Hayden, CO","CO",36,35,9,0,1
+"2025-02-01","HIB","Hibbing, MN","MN",48,48,6,0,0
+"2025-02-01","HLN","Helena, MT","MT",56,56,1,0,0
+"2025-02-01","HNL","Honolulu, HI","HI",320,318,81,0,2
+"2025-02-01","HOU","Houston, TX","TX",97,97,24,0,0
+"2025-02-01","HPN","White Plains, NY","NY",209,205,41,2,2
+"2025-02-01","HRL","Harlingen/San Benito, TX","TX",46,46,11,0,0
+"2025-02-01","HSV","Huntsville, AL","AL",220,219,40,0,1
+"2025-02-01","IAD","Washington, DC","VA",401,398,102,3,0
+"2025-02-01","IAH","Houston, TX","TX",550,549,115,1,0
+"2025-02-01","ICT","Wichita, KS","KS",106,105,15,1,0
+"2025-02-01","IDA","Idaho Falls, ID","ID",78,78,10,0,0
+"2025-02-01","ILM","Wilmington, NC","NC",134,130,12,2,2
+"2025-02-01","IMT","Iron Mountain/Kingsfd, MI","MI",56,56,12,0,0
+"2025-02-01","IND","Indianapolis, IN","IN",701,696,134,5,0
+"2025-02-01","INL","International Falls, MN","MN",48,48,9,0,0
+"2025-02-01","ITH","Ithaca/Cortland, NY","NY",56,52,13,4,0
+"2025-02-01","JAC","Jackson, WY","WY",135,130,30,1,4
+"2025-02-01","JAN","Jackson/Vicksburg, MS","MS",190,188,29,0,2
+"2025-02-01","JAX","Jacksonville, FL","FL",542,535,119,7,0
+"2025-02-01","JFK","New York, NY","NY",4228,4140,859,83,5
+"2025-02-01","KOA","Kona, HI","HI",56,56,12,0,0
+"2025-02-01","LAN","Lansing, MI","MI",78,78,26,0,0
+"2025-02-01","LAS","Las Vegas, NV","NV",1389,1384,355,3,2
+"2025-02-01","LAX","Los Angeles, CA","CA",3468,3456,656,6,6
+"2025-02-01","LEX","Lexington, KY","KY",273,271,57,1,1
+"2025-02-01","LFT","Lafayette, LA","LA",106,105,13,1,0
+"2025-02-01","LGA","New York, NY","NY",5881,5694,1075,149,38
+"2025-02-01","LGB","Long Beach, CA","CA",84,83,14,0,1
+"2025-02-01","LIH","Lihue, HI","HI",56,56,13,0,0
+"2025-02-01","LIT","Little Rock, AR","AR",200,199,38,1,0
+"2025-02-01","LWS","Lewiston, ID","ID",56,52,5,2,2
+"2025-02-01","MAF","Midland/Odessa, TX","TX",56,55,5,1,0
+"2025-02-01","MBS","Saginaw/Bay City/Midland, MI","MI",78,76,25,2,0
+"2025-02-01","MCI","Kansas City, MO","MO",630,628,129,0,2
+"2025-02-01","MCO","Orlando, FL","FL",1686,1676,409,7,3
+"2025-02-01","MDT","Harrisburg, PA","PA",106,106,24,0,0
+"2025-02-01","MDW","Chicago, IL","IL",262,260,58,2,0
+"2025-02-01","MEM","Memphis, TN","TN",445,440,80,3,2
+"2025-02-01","MFE","Mission/McAllen/Edinburg, TX","TX",78,78,10,0,0
+"2025-02-01","MFR","Medford, OR","OR",134,127,17,7,0
+"2025-02-01","MGM","Montgomery, AL","AL",128,127,33,0,1
+"2025-02-01","MIA","Miami, FL","FL",939,936,217,3,0
+"2025-02-01","MKE","Milwaukee, WI","WI",538,534,111,4,0
+"2025-02-01","MLB","Melbourne, FL","FL",106,105,26,0,1
+"2025-02-01","MLI","Moline, IL","IL",56,56,8,0,0
+"2025-02-01","MLU","Monroe, LA","LA",78,76,14,0,2
+"2025-02-01","MOB","Mobile, AL","AL",156,156,24,0,0
+"2025-02-01","MOT","Minot, ND","ND",106,103,16,2,1
+"2025-02-01","MQT","Marquette, MI","MI",56,53,10,3,0
+"2025-02-01","MSN","Madison, WI","WI",366,363,108,3,0
+"2025-02-01","MSO","Missoula, MT","MT",106,106,11,0,0
+"2025-02-01","MSP","Minneapolis, MN","MN",7236,7206,1265,30,0
+"2025-02-01","MSY","New Orleans, LA","LA",633,632,152,0,1
+"2025-02-01","MTJ","Montrose/Delta, CO","CO",26,26,5,0,0
+"2025-02-01","MYR","Myrtle Beach, SC","SC",154,153,27,0,1
+"2025-02-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",106,104,13,2,0
+"2025-02-01","OAK","Oakland, CA","CA",78,78,16,0,0
+"2025-02-01","OGG","Kahului, HI","HI",104,102,25,1,1
+"2025-02-01","OKC","Oklahoma City, OK","OK",233,225,50,4,4
+"2025-02-01","OMA","Omaha, NE","NE",437,436,89,1,0
+"2025-02-01","ONT","Ontario, CA","CA",190,190,37,0,0
+"2025-02-01","ORD","Chicago, IL","IL",966,954,254,12,0
+"2025-02-01","ORF","Norfolk, VA","VA",382,369,88,13,0
+"2025-02-01","ORH","Worcester, MA","MA",24,23,4,1,0
+"2025-02-01","PBI","West Palm Beach/Palm Beach, FL","FL",588,583,197,5,0
+"2025-02-01","PDX","Portland, OR","OR",597,596,147,0,1
+"2025-02-01","PHL","Philadelphia, PA","PA",516,513,113,3,0
+"2025-02-01","PHX","Phoenix, AZ","AZ",880,879,209,1,0
+"2025-02-01","PIH","Pocatello, ID","ID",56,56,8,0,0
+"2025-02-01","PIT","Pittsburgh, PA","PA",686,678,147,7,1
+"2025-02-01","PLN","Pellston, MI","MI",48,45,11,2,1
+"2025-02-01","PNS","Pensacola, FL","FL",199,199,35,0,0
+"2025-02-01","PSC","Pasco/Kennewick/Richland, WA","WA",186,185,45,0,1
+"2025-02-01","PSP","Palm Springs, CA","CA",194,193,30,1,0
+"2025-02-01","PVD","Providence, RI","RI",134,132,44,1,1
+"2025-02-01","PWM","Portland, ME","ME",192,184,41,7,1
+"2025-02-01","RAP","Rapid City, SD","SD",84,81,18,3,0
+"2025-02-01","RDM","Bend/Redmond, OR","OR",134,133,27,0,1
+"2025-02-01","RDU","Raleigh/Durham, NC","NC",1378,1351,280,27,0
+"2025-02-01","RHI","Rhinelander, WI","WI",56,56,6,0,0
+"2025-02-01","RIC","Richmond, VA","VA",485,475,102,9,1
+"2025-02-01","RNO","Reno, NV","NV",192,186,35,3,3
+"2025-02-01","ROA","Roanoke, VA","VA",130,123,26,4,3
+"2025-02-01","ROC","Rochester, NY","NY",319,312,88,6,1
+"2025-02-01","RST","Rochester, MN","MN",78,78,17,0,0
+"2025-02-01","RSW","Fort Myers, FL","FL",658,654,145,3,1
+"2025-02-01","SAN","San Diego, CA","CA",809,807,188,1,1
+"2025-02-01","SAT","San Antonio, TX","TX",434,434,87,0,0
+"2025-02-01","SAV","Savannah, GA","GA",404,399,81,5,0
+"2025-02-01","SBA","Santa Barbara, CA","CA",84,83,18,0,1
+"2025-02-01","SBN","South Bend, IN","IN",134,134,34,0,0
+"2025-02-01","SDF","Louisville, KY","KY",398,396,70,1,1
+"2025-02-01","SEA","Seattle, WA","WA",3391,3374,563,15,2
+"2025-02-01","SFO","San Francisco, CA","CA",951,946,306,5,0
+"2025-02-01","SGF","Springfield, MO","MO",78,75,11,3,0
+"2025-02-01","SGU","St. George, UT","UT",113,113,8,0,0
+"2025-02-01","SHV","Shreveport, LA","LA",128,128,14,0,0
+"2025-02-01","SJC","San Jose, CA","CA",440,440,72,0,0
+"2025-02-01","SJU","San Juan, PR","PR",315,315,78,0,0
+"2025-02-01","SLC","Salt Lake City, UT","UT",6004,5982,937,21,1
+"2025-02-01","SMF","Sacramento, CA","CA",530,529,90,0,1
+"2025-02-01","SNA","Santa Ana, CA","CA",376,372,70,0,4
+"2025-02-01","SRQ","Sarasota/Bradenton, FL","FL",294,290,68,2,2
+"2025-02-01","STL","St. Louis, MO","MO",500,496,101,4,0
+"2025-02-01","STT","Charlotte Amalie, VI","VI",90,86,23,0,4
+"2025-02-01","STX","Christiansted, VI","VI",24,24,8,0,0
+"2025-02-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",95,92,8,2,1
+"2025-02-01","SYR","Syracuse, NY","NY",323,315,69,8,0
+"2025-02-01","TLH","Tallahassee, FL","FL",171,170,25,0,1
+"2025-02-01","TPA","Tampa, FL","FL",975,972,224,2,1
+"2025-02-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",128,128,8,0,0
+"2025-02-01","TUL","Tulsa, OK","OK",176,166,29,10,0
+"2025-02-01","TUS","Tucson, AZ","AZ",288,288,63,0,0
+"2025-02-01","TVC","Traverse City, MI","MI",78,77,25,0,1
+"2025-02-01","TWF","Twin Falls, ID","ID",56,56,8,0,0
+"2025-02-01","TYS","Knoxville, TN","TN",360,358,45,2,0
+"2025-02-01","VLD","Valdosta, GA","GA",78,77,14,0,1
+"2025-02-01","VPS","Valparaiso, FL","FL",168,167,31,1,0
+"2025-02-01","XNA","Fayetteville, AR","AR",245,239,42,4,2
+"2025-02-01","XWA","Williston, ND","ND",56,53,6,3,0
+"2025-03-01","ABE","Allentown/Bethlehem/Easton, PA","PA",91,91,16,0,0
+"2025-03-01","ABQ","Albuquerque, NM","NM",265,262,28,1,2
+"2025-03-01","ABR","Aberdeen, SD","SD",62,61,5,1,0
+"2025-03-01","ABY","Albany, GA","GA",88,88,19,0,0
+"2025-03-01","AEX","Alexandria, LA","LA",91,90,17,0,1
+"2025-03-01","AGS","Augusta, GA","GA",231,230,50,1,0
+"2025-03-01","ALB","Albany, NY","NY",261,259,40,2,0
+"2025-03-01","ANC","Anchorage, AK","AK",138,138,17,0,0
+"2025-03-01","APN","Alpena, MI","MI",54,47,8,7,0
+"2025-03-01","ASE","Aspen, CO","CO",93,80,23,3,10
+"2025-03-01","ATL","Atlanta, GA","GA",23709,23555,3705,135,19
+"2025-03-01","ATW","Appleton, WI","WI",209,204,35,4,1
+"2025-03-01","AUS","Austin, TX","TX",1416,1387,228,16,13
+"2025-03-01","AVL","Asheville, NC","NC",232,230,37,2,0
+"2025-03-01","AZO","Kalamazoo, MI","MI",88,86,20,1,1
+"2025-03-01","BDL","Hartford, CT","CT",316,313,48,3,0
+"2025-03-01","BGM","Binghamton, NY","NY",31,31,8,0,0
+"2025-03-01","BGR","Bangor, ME","ME",91,89,10,2,0
+"2025-03-01","BHM","Birmingham, AL","AL",369,363,71,4,2
+"2025-03-01","BIL","Billings, MT","MT",122,122,12,0,0
+"2025-03-01","BIS","Bismarck/Mandan, ND","ND",149,149,20,0,0
+"2025-03-01","BJI","Bemidji, MN","MN",62,61,9,0,1
+"2025-03-01","BMI","Bloomington/Normal, IL","IL",62,61,14,1,0
+"2025-03-01","BNA","Nashville, TN","TN",1186,1180,194,3,3
+"2025-03-01","BOI","Boise, ID","ID",487,487,69,0,0
+"2025-03-01","BOS","Boston, MA","MA",3977,3952,750,23,2
+"2025-03-01","BQK","Brunswick, GA","GA",91,90,26,0,1
+"2025-03-01","BRD","Brainerd, MN","MN",54,54,8,0,0
+"2025-03-01","BTM","Butte, MT","MT",26,26,3,0,0
+"2025-03-01","BTR","Baton Rouge, LA","LA",151,150,34,1,0
+"2025-03-01","BTV","Burlington, VT","VT",211,207,45,4,0
+"2025-03-01","BUF","Buffalo, NY","NY",436,431,79,5,0
+"2025-03-01","BUR","Burbank, CA","CA",124,123,28,1,0
+"2025-03-01","BWI","Baltimore, MD","MD",505,502,97,1,2
+"2025-03-01","BZN","Bozeman, MT","MT",246,245,46,0,1
+"2025-03-01","CAE","Columbia, SC","SC",296,295,66,1,0
+"2025-03-01","CDC","Cedar City, UT","UT",54,54,11,0,0
+"2025-03-01","CHA","Chattanooga, TN","TN",342,340,64,1,1
+"2025-03-01","CHO","Charlottesville, VA","VA",196,196,46,0,0
+"2025-03-01","CHS","Charleston, SC","SC",563,556,93,7,0
+"2025-03-01","CID","Cedar Rapids/Iowa City, IA","IA",121,120,18,1,0
+"2025-03-01","CIU","Sault Ste. Marie, MI","MI",62,62,16,0,0
+"2025-03-01","CLE","Cleveland, OH","OH",726,721,134,5,0
+"2025-03-01","CLT","Charlotte, NC","NC",958,952,135,6,0
+"2025-03-01","CMH","Columbus, OH","OH",748,745,96,2,1
+"2025-03-01","COS","Colorado Springs, CO","CO",72,72,12,0,0
+"2025-03-01","CRW","Charleston/Dunbar, WV","WV",119,117,25,1,1
+"2025-03-01","CSG","Columbus, GA","GA",88,88,21,0,0
+"2025-03-01","CVG","Cincinnati, OH","KY",1350,1338,293,7,5
+"2025-03-01","CWA","Mosinee, WI","WI",62,59,13,3,0
+"2025-03-01","DAB","Daytona Beach, FL","FL",142,142,26,0,0
+"2025-03-01","DAL","Dallas, TX","TX",142,141,20,1,0
+"2025-03-01","DAY","Dayton, OH","OH",148,146,21,2,0
+"2025-03-01","DCA","Washington, DC","VA",1682,1659,438,13,10
+"2025-03-01","DEN","Denver, CO","CO",999,995,174,1,3
+"2025-03-01","DFW","Dallas/Fort Worth, TX","TX",1004,987,235,9,8
+"2025-03-01","DHN","Dothan, AL","AL",88,88,17,0,0
+"2025-03-01","DLH","Duluth, MN","MN",119,118,13,1,0
+"2025-03-01","DSM","Des Moines, IA","IA",320,307,58,11,2
+"2025-03-01","DTW","Detroit, MI","MI",8424,8356,1342,58,10
+"2025-03-01","ECP","Panama City, FL","FL",225,224,33,1,0
+"2025-03-01","EGE","Eagle, CO","CO",84,84,29,0,0
+"2025-03-01","EKO","Elko, NV","NV",31,31,5,0,0
+"2025-03-01","ELM","Elmira/Corning, NY","NY",62,61,13,0,1
+"2025-03-01","ELP","El Paso, TX","TX",60,60,11,0,0
+"2025-03-01","ESC","Escanaba, MI","MI",53,45,1,8,0
+"2025-03-01","EUG","Eugene, OR","OR",153,153,17,0,0
+"2025-03-01","EVV","Evansville, IN","IN",91,90,16,1,0
+"2025-03-01","EWR","Newark, NJ","NJ",780,773,226,5,2
+"2025-03-01","EYW","Key West, FL","FL",150,144,45,2,4
+"2025-03-01","FAI","Fairbanks, AK","AK",31,30,1,1,0
+"2025-03-01","FAR","Fargo, ND","ND",153,153,24,0,0
+"2025-03-01","FAT","Fresno, CA","CA",120,120,11,0,0
+"2025-03-01","FAY","Fayetteville, NC","NC",119,118,27,0,1
+"2025-03-01","FCA","Kalispell, MT","MT",122,122,15,0,0
+"2025-03-01","FLL","Fort Lauderdale, FL","FL",1199,1177,322,14,8
+"2025-03-01","FSD","Sioux Falls, SD","SD",181,179,38,2,0
+"2025-03-01","FWA","Fort Wayne, IN","IN",153,152,31,1,0
+"2025-03-01","GEG","Spokane, WA","WA",519,519,62,0,0
+"2025-03-01","GFK","Grand Forks, ND","ND",93,91,11,1,1
+"2025-03-01","GJT","Grand Junction, CO","CO",53,53,7,0,0
+"2025-03-01","GNV","Gainesville, FL","FL",155,152,33,2,1
+"2025-03-01","GPT","Gulfport/Biloxi, MS","MS",111,109,23,1,1
+"2025-03-01","GRB","Green Bay, WI","WI",209,206,42,2,1
+"2025-03-01","GRR","Grand Rapids, MI","MI",439,439,82,0,0
+"2025-03-01","GSO","Greensboro/High Point, NC","NC",345,342,49,3,0
+"2025-03-01","GSP","Greer, SC","SC",371,367,64,4,0
+"2025-03-01","GTF","Great Falls, MT","MT",119,119,6,0,0
+"2025-03-01","GTR","Columbus, MS","MS",62,61,6,1,0
+"2025-03-01","HDN","Hayden, CO","CO",39,38,7,0,1
+"2025-03-01","HIB","Hibbing, MN","MN",54,54,5,0,0
+"2025-03-01","HLN","Helena, MT","MT",62,62,1,0,0
+"2025-03-01","HNL","Honolulu, HI","HI",384,381,65,2,1
+"2025-03-01","HOU","Houston, TX","TX",119,118,25,0,1
+"2025-03-01","HPN","White Plains, NY","NY",238,222,55,3,13
+"2025-03-01","HRL","Harlingen/San Benito, TX","TX",59,51,10,8,0
+"2025-03-01","HSV","Huntsville, AL","AL",280,277,56,3,0
+"2025-03-01","IAD","Washington, DC","VA",453,450,89,3,0
+"2025-03-01","IAH","Houston, TX","TX",675,670,110,3,2
+"2025-03-01","ICT","Wichita, KS","KS",119,118,23,1,0
+"2025-03-01","IDA","Idaho Falls, ID","ID",91,91,14,0,0
+"2025-03-01","ILM","Wilmington, NC","NC",164,164,30,0,0
+"2025-03-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,56,5,4,2
+"2025-03-01","IND","Indianapolis, IN","IN",824,818,133,5,1
+"2025-03-01","INL","International Falls, MN","MN",54,53,6,1,0
+"2025-03-01","ITH","Ithaca/Cortland, NY","NY",62,60,6,2,0
+"2025-03-01","JAC","Jackson, WY","WY",162,160,19,1,1
+"2025-03-01","JAN","Jackson/Vicksburg, MS","MS",237,235,46,1,1
+"2025-03-01","JAX","Jacksonville, FL","FL",679,674,156,5,0
+"2025-03-01","JFK","New York, NY","NY",4792,4725,942,49,18
+"2025-03-01","KOA","Kona, HI","HI",62,62,9,0,0
+"2025-03-01","LAN","Lansing, MI","MI",88,88,20,0,0
+"2025-03-01","LAS","Las Vegas, NV","NV",1675,1669,380,6,0
+"2025-03-01","LAX","Los Angeles, CA","CA",4059,4040,616,12,7
+"2025-03-01","LEX","Lexington, KY","KY",322,321,56,1,0
+"2025-03-01","LFT","Lafayette, LA","LA",122,121,20,0,1
+"2025-03-01","LGA","New York, NY","NY",6769,6671,1369,68,30
+"2025-03-01","LGB","Long Beach, CA","CA",93,93,8,0,0
+"2025-03-01","LIH","Lihue, HI","HI",62,62,14,0,0
+"2025-03-01","LIT","Little Rock, AR","AR",228,224,46,3,1
+"2025-03-01","LWS","Lewiston, ID","ID",62,62,5,0,0
+"2025-03-01","MAF","Midland/Odessa, TX","TX",62,62,15,0,0
+"2025-03-01","MBS","Saginaw/Bay City/Midland, MI","MI",88,86,16,2,0
+"2025-03-01","MCI","Kansas City, MO","MO",750,744,134,3,3
+"2025-03-01","MCO","Orlando, FL","FL",1993,1974,486,14,5
+"2025-03-01","MDT","Harrisburg, PA","PA",119,119,16,0,0
+"2025-03-01","MDW","Chicago, IL","IL",295,292,62,1,2
+"2025-03-01","MEM","Memphis, TN","TN",561,559,114,1,1
+"2025-03-01","MFE","Mission/McAllen/Edinburg, TX","TX",88,86,15,2,0
+"2025-03-01","MFR","Medford, OR","OR",150,150,14,0,0
+"2025-03-01","MGM","Montgomery, AL","AL",148,145,41,3,0
+"2025-03-01","MIA","Miami, FL","FL",1065,1055,301,6,4
+"2025-03-01","MKE","Milwaukee, WI","WI",678,676,114,2,0
+"2025-03-01","MLB","Melbourne, FL","FL",119,117,25,2,0
+"2025-03-01","MLI","Moline, IL","IL",62,62,11,0,0
+"2025-03-01","MLU","Monroe, LA","LA",91,91,16,0,0
+"2025-03-01","MOB","Mobile, AL","AL",176,174,48,0,2
+"2025-03-01","MOT","Minot, ND","ND",122,121,16,1,0
+"2025-03-01","MQT","Marquette, MI","MI",62,54,8,8,0
+"2025-03-01","MSN","Madison, WI","WI",409,408,73,1,0
+"2025-03-01","MSO","Missoula, MT","MT",122,122,16,0,0
+"2025-03-01","MSP","Minneapolis, MN","MN",8615,8541,1326,63,11
+"2025-03-01","MSY","New Orleans, LA","LA",776,768,191,3,5
+"2025-03-01","MTJ","Montrose/Delta, CO","CO",30,30,0,0,0
+"2025-03-01","MYR","Myrtle Beach, SC","SC",185,182,34,0,3
+"2025-03-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",119,117,21,0,2
+"2025-03-01","OAK","Oakland, CA","CA",91,91,6,0,0
+"2025-03-01","OGG","Kahului, HI","HI",122,122,21,0,0
+"2025-03-01","OKC","Oklahoma City, OK","OK",269,264,42,5,0
+"2025-03-01","OMA","Omaha, NE","NE",517,496,67,20,1
+"2025-03-01","ONT","Ontario, CA","CA",238,236,31,1,1
+"2025-03-01","ORD","Chicago, IL","IL",1120,1106,214,7,7
+"2025-03-01","ORF","Norfolk, VA","VA",484,480,102,3,1
+"2025-03-01","ORH","Worcester, MA","MA",26,26,2,0,0
+"2025-03-01","PBI","West Palm Beach/Palm Beach, FL","FL",712,702,199,7,3
+"2025-03-01","PDX","Portland, OR","OR",711,711,88,0,0
+"2025-03-01","PHL","Philadelphia, PA","PA",599,596,135,2,1
+"2025-03-01","PHX","Phoenix, AZ","AZ",1089,1086,215,2,1
+"2025-03-01","PIH","Pocatello, ID","ID",62,62,6,0,0
+"2025-03-01","PIT","Pittsburgh, PA","PA",782,775,145,6,1
+"2025-03-01","PLN","Pellston, MI","MI",54,46,10,8,0
+"2025-03-01","PNS","Pensacola, FL","FL",283,278,56,3,2
+"2025-03-01","PSC","Pasco/Kennewick/Richland, WA","WA",210,210,28,0,0
+"2025-03-01","PSP","Palm Springs, CA","CA",221,220,21,0,1
+"2025-03-01","PVD","Providence, RI","RI",150,148,37,2,0
+"2025-03-01","PWM","Portland, ME","ME",235,230,49,3,2
+"2025-03-01","RAP","Rapid City, SD","SD",93,91,10,1,1
+"2025-03-01","RDM","Bend/Redmond, OR","OR",153,153,17,0,0
+"2025-03-01","RDU","Raleigh/Durham, NC","NC",1619,1603,299,14,2
+"2025-03-01","RHI","Rhinelander, WI","WI",62,60,5,2,0
+"2025-03-01","RIC","Richmond, VA","VA",570,567,97,3,0
+"2025-03-01","RNO","Reno, NV","NV",217,213,41,0,4
+"2025-03-01","ROA","Roanoke, VA","VA",148,145,36,1,2
+"2025-03-01","ROC","Rochester, NY","NY",379,372,72,6,1
+"2025-03-01","RST","Rochester, MN","MN",88,83,27,5,0
+"2025-03-01","RSW","Fort Myers, FL","FL",794,777,190,8,9
+"2025-03-01","SAN","San Diego, CA","CA",960,954,199,1,5
+"2025-03-01","SAT","San Antonio, TX","TX",518,516,107,0,2
+"2025-03-01","SAV","Savannah, GA","GA",501,497,85,4,0
+"2025-03-01","SBA","Santa Barbara, CA","CA",93,92,11,0,1
+"2025-03-01","SBN","South Bend, IN","IN",153,152,34,0,1
+"2025-03-01","SDF","Louisville, KY","KY",461,458,65,2,1
+"2025-03-01","SEA","Seattle, WA","WA",4031,3998,447,8,25
+"2025-03-01","SFO","San Francisco, CA","CA",1141,1137,267,2,2
+"2025-03-01","SGF","Springfield, MO","MO",111,111,22,0,0
+"2025-03-01","SGU","St. George, UT","UT",150,150,21,0,0
+"2025-03-01","SHV","Shreveport, LA","LA",149,149,31,0,0
+"2025-03-01","SJC","San Jose, CA","CA",500,500,63,0,0
+"2025-03-01","SJU","San Juan, PR","PR",374,372,92,1,1
+"2025-03-01","SLC","Salt Lake City, UT","UT",7006,6993,827,11,2
+"2025-03-01","SMF","Sacramento, CA","CA",641,640,84,0,1
+"2025-03-01","SNA","Santa Ana, CA","CA",468,463,68,0,5
+"2025-03-01","SRQ","Sarasota/Bradenton, FL","FL",350,347,71,2,1
+"2025-03-01","STL","St. Louis, MO","MO",618,614,100,2,2
+"2025-03-01","STT","Charlotte Amalie, VI","VI",98,98,22,0,0
+"2025-03-01","STX","Christiansted, VI","VI",26,26,5,0,0
+"2025-03-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",112,110,7,0,2
+"2025-03-01","SYR","Syracuse, NY","NY",380,377,62,3,0
+"2025-03-01","TLH","Tallahassee, FL","FL",210,209,40,1,0
+"2025-03-01","TPA","Tampa, FL","FL",1194,1184,311,9,1
+"2025-03-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",148,147,19,1,0
+"2025-03-01","TUL","Tulsa, OK","OK",205,204,36,1,0
+"2025-03-01","TUS","Tucson, AZ","AZ",335,335,66,0,0
+"2025-03-01","TVC","Traverse City, MI","MI",91,90,17,0,1
+"2025-03-01","TWF","Twin Falls, ID","ID",62,62,5,0,0
+"2025-03-01","TYS","Knoxville, TN","TN",408,405,71,1,2
+"2025-03-01","VLD","Valdosta, GA","GA",88,86,25,1,1
+"2025-03-01","VPS","Valparaiso, FL","FL",231,230,39,1,0
+"2025-03-01","XNA","Fayetteville, AR","AR",356,356,61,0,0
+"2025-03-01","XWA","Williston, ND","ND",62,61,11,0,1
+"2025-04-01","ABE","Allentown/Bethlehem/Easton, PA","PA",90,90,17,0,0
+"2025-04-01","ABQ","Albuquerque, NM","NM",262,262,30,0,0
+"2025-04-01","ABR","Aberdeen, SD","SD",60,60,3,0,0
+"2025-04-01","ABY","Albany, GA","GA",86,86,9,0,0
+"2025-04-01","AEX","Alexandria, LA","LA",90,89,15,0,1
+"2025-04-01","AGS","Augusta, GA","GA",278,278,74,0,0
+"2025-04-01","ALB","Albany, NY","NY",262,262,56,0,0
+"2025-04-01","ANC","Anchorage, AK","AK",136,136,23,0,0
+"2025-04-01","APN","Alpena, MI","MI",50,41,2,8,1
+"2025-04-01","ASE","Aspen, CO","CO",73,71,12,0,2
+"2025-04-01","ATL","Atlanta, GA","GA",23186,22871,3684,216,99
+"2025-04-01","ATW","Appleton, WI","WI",207,206,33,1,0
+"2025-04-01","AUS","Austin, TX","TX",1469,1460,296,7,2
+"2025-04-01","AVL","Asheville, NC","NC",247,245,50,1,1
+"2025-04-01","AZO","Kalamazoo, MI","MI",86,86,7,0,0
+"2025-04-01","BDL","Hartford, CT","CT",321,321,74,0,0
+"2025-04-01","BGM","Binghamton, NY","NY",30,30,9,0,0
+"2025-04-01","BGR","Bangor, ME","ME",95,95,21,0,0
+"2025-04-01","BHM","Birmingham, AL","AL",383,379,79,4,0
+"2025-04-01","BIL","Billings, MT","MT",120,120,15,0,0
+"2025-04-01","BIS","Bismarck/Mandan, ND","ND",146,145,27,0,1
+"2025-04-01","BJI","Bemidji, MN","MN",60,60,5,0,0
+"2025-04-01","BMI","Bloomington/Normal, IL","IL",60,58,17,2,0
+"2025-04-01","BNA","Nashville, TN","TN",1209,1195,229,6,8
+"2025-04-01","BOI","Boise, ID","ID",495,495,58,0,0
+"2025-04-01","BOS","Boston, MA","MA",4158,4137,714,17,4
+"2025-04-01","BQK","Brunswick, GA","GA",90,89,21,1,0
+"2025-04-01","BRD","Brainerd, MN","MN",50,50,6,0,0
+"2025-04-01","BTM","Butte, MT","MT",26,25,2,1,0
+"2025-04-01","BTR","Baton Rouge, LA","LA",131,129,25,2,0
+"2025-04-01","BTV","Burlington, VT","VT",208,208,30,0,0
+"2025-04-01","BUF","Buffalo, NY","NY",434,432,78,2,0
+"2025-04-01","BUR","Burbank, CA","CA",120,119,24,0,1
+"2025-04-01","BWI","Baltimore, MD","MD",509,505,98,4,0
+"2025-04-01","BZN","Bozeman, MT","MT",157,155,28,1,1
+"2025-04-01","CAE","Columbia, SC","SC",248,248,64,0,0
+"2025-04-01","CDC","Cedar City, UT","UT",49,49,3,0,0
+"2025-04-01","CHA","Chattanooga, TN","TN",313,312,84,1,0
+"2025-04-01","CHO","Charlottesville, VA","VA",198,197,41,1,0
+"2025-04-01","CHS","Charleston, SC","SC",575,573,99,2,0
+"2025-04-01","CID","Cedar Rapids/Iowa City, IA","IA",118,118,17,0,0
+"2025-04-01","CIU","Sault Ste. Marie, MI","MI",60,59,7,1,0
+"2025-04-01","CLE","Cleveland, OH","OH",737,735,138,1,1
+"2025-04-01","CLT","Charlotte, NC","NC",1006,1006,175,0,0
+"2025-04-01","CMH","Columbus, OH","OH",757,755,138,2,0
+"2025-04-01","COS","Colorado Springs, CO","CO",72,72,14,0,0
+"2025-04-01","CRW","Charleston/Dunbar, WV","WV",116,115,23,1,0
+"2025-04-01","CSG","Columbus, GA","GA",86,84,17,2,0
+"2025-04-01","CVG","Cincinnati, OH","KY",1313,1308,310,4,1
+"2025-04-01","CWA","Mosinee, WI","WI",60,59,17,0,1
+"2025-04-01","DAB","Daytona Beach, FL","FL",146,146,30,0,0
+"2025-04-01","DAL","Dallas, TX","TX",136,134,22,1,1
+"2025-04-01","DAY","Dayton, OH","OH",146,146,23,0,0
+"2025-04-01","DCA","Washington, DC","VA",1666,1657,345,9,0
+"2025-04-01","DEN","Denver, CO","CO",979,972,314,0,7
+"2025-04-01","DFW","Dallas/Fort Worth, TX","TX",995,983,310,2,10
+"2025-04-01","DHN","Dothan, AL","AL",86,84,16,2,0
+"2025-04-01","DLH","Duluth, MN","MN",116,116,15,0,0
+"2025-04-01","DSM","Des Moines, IA","IA",330,329,80,1,0
+"2025-04-01","DTW","Detroit, MI","MI",8532,8484,1282,39,9
+"2025-04-01","ECP","Panama City, FL","FL",230,226,33,1,3
+"2025-04-01","EKO","Elko, NV","NV",30,30,1,0,0
+"2025-04-01","ELM","Elmira/Corning, NY","NY",60,60,5,0,0
+"2025-04-01","ELP","El Paso, TX","TX",60,60,11,0,0
+"2025-04-01","ESC","Escanaba, MI","MI",51,49,7,2,0
+"2025-04-01","EUG","Eugene, OR","OR",150,150,8,0,0
+"2025-04-01","EVV","Evansville, IN","IN",90,89,15,1,0
+"2025-04-01","EWR","Newark, NJ","NJ",719,705,315,6,8
+"2025-04-01","EYW","Key West, FL","FL",152,152,28,0,0
+"2025-04-01","FAI","Fairbanks, AK","AK",30,30,3,0,0
+"2025-04-01","FAR","Fargo, ND","ND",150,150,30,0,0
+"2025-04-01","FAT","Fresno, CA","CA",120,120,11,0,0
+"2025-04-01","FAY","Fayetteville, NC","NC",116,115,24,1,0
+"2025-04-01","FCA","Kalispell, MT","MT",120,120,7,0,0
+"2025-04-01","FLL","Fort Lauderdale, FL","FL",1145,1129,286,12,4
+"2025-04-01","FSD","Sioux Falls, SD","SD",176,175,43,1,0
+"2025-04-01","FWA","Fort Wayne, IN","IN",150,150,36,0,0
+"2025-04-01","GEG","Spokane, WA","WA",514,514,57,0,0
+"2025-04-01","GFK","Grand Forks, ND","ND",90,90,21,0,0
+"2025-04-01","GJT","Grand Junction, CO","CO",51,51,3,0,0
+"2025-04-01","GNV","Gainesville, FL","FL",148,148,26,0,0
+"2025-04-01","GPT","Gulfport/Biloxi, MS","MS",112,112,15,0,0
+"2025-04-01","GRB","Green Bay, WI","WI",215,212,38,3,0
+"2025-04-01","GRR","Grand Rapids, MI","MI",449,447,79,2,0
+"2025-04-01","GSO","Greensboro/High Point, NC","NC",348,348,53,0,0
+"2025-04-01","GSP","Greer, SC","SC",364,364,71,0,0
+"2025-04-01","GTF","Great Falls, MT","MT",118,118,11,0,0
+"2025-04-01","GTR","Columbus, MS","MS",60,60,15,0,0
+"2025-04-01","HHH","Hilton Head, SC","SC",34,34,0,0,0
+"2025-04-01","HIB","Hibbing, MN","MN",50,50,11,0,0
+"2025-04-01","HLN","Helena, MT","MT",60,60,0,0,0
+"2025-04-01","HNL","Honolulu, HI","HI",343,342,53,0,1
+"2025-04-01","HOU","Houston, TX","TX",127,125,17,0,2
+"2025-04-01","HPN","White Plains, NY","NY",232,232,37,0,0
+"2025-04-01","HRL","Harlingen/San Benito, TX","TX",60,60,12,0,0
+"2025-04-01","HSV","Huntsville, AL","AL",281,280,58,0,1
+"2025-04-01","IAD","Washington, DC","VA",481,481,100,0,0
+"2025-04-01","IAH","Houston, TX","TX",671,668,164,2,1
+"2025-04-01","ICT","Wichita, KS","KS",116,116,25,0,0
+"2025-04-01","IDA","Idaho Falls, ID","ID",90,90,13,0,0
+"2025-04-01","ILM","Wilmington, NC","NC",189,187,31,2,0
+"2025-04-01","IMT","Iron Mountain/Kingsfd, MI","MI",60,59,10,0,1
+"2025-04-01","IND","Indianapolis, IN","IN",832,830,133,2,0
+"2025-04-01","INL","International Falls, MN","MN",50,49,8,1,0
+"2025-04-01","ITH","Ithaca/Cortland, NY","NY",60,59,9,0,1
+"2025-04-01","JAC","Jackson, WY","WY",90,88,9,0,2
+"2025-04-01","JAN","Jackson/Vicksburg, MS","MS",200,197,36,2,1
+"2025-04-01","JAX","Jacksonville, FL","FL",682,672,155,9,1
+"2025-04-01","JFK","New York, NY","NY",4790,4755,814,28,7
+"2025-04-01","KOA","Kona, HI","HI",60,60,7,0,0
+"2025-04-01","LAN","Lansing, MI","MI",86,86,14,0,0
+"2025-04-01","LAS","Las Vegas, NV","NV",1663,1656,358,6,1
+"2025-04-01","LAX","Los Angeles, CA","CA",3985,3974,521,6,5
+"2025-04-01","LEX","Lexington, KY","KY",318,318,55,0,0
+"2025-04-01","LFT","Lafayette, LA","LA",120,119,25,1,0
+"2025-04-01","LGA","New York, NY","NY",6898,6856,1213,36,6
+"2025-04-01","LGB","Long Beach, CA","CA",90,90,5,0,0
+"2025-04-01","LIH","Lihue, HI","HI",60,60,3,0,0
+"2025-04-01","LIT","Little Rock, AR","AR",207,203,50,2,2
+"2025-04-01","LWS","Lewiston, ID","ID",60,60,5,0,0
+"2025-04-01","MAF","Midland/Odessa, TX","TX",60,57,4,2,1
+"2025-04-01","MBS","Saginaw/Bay City/Midland, MI","MI",102,101,15,1,0
+"2025-04-01","MCI","Kansas City, MO","MO",752,747,142,4,1
+"2025-04-01","MCO","Orlando, FL","FL",1956,1941,403,12,3
+"2025-04-01","MDT","Harrisburg, PA","PA",131,131,16,0,0
+"2025-04-01","MDW","Chicago, IL","IL",303,301,41,0,2
+"2025-04-01","MEM","Memphis, TN","TN",588,577,112,4,7
+"2025-04-01","MFE","Mission/McAllen/Edinburg, TX","TX",86,86,13,0,0
+"2025-04-01","MFR","Medford, OR","OR",146,146,9,0,0
+"2025-04-01","MGM","Montgomery, AL","AL",146,144,35,2,0
+"2025-04-01","MIA","Miami, FL","FL",1041,1029,201,8,4
+"2025-04-01","MKE","Milwaukee, WI","WI",682,680,117,2,0
+"2025-04-01","MLB","Melbourne, FL","FL",116,116,23,0,0
+"2025-04-01","MLI","Moline, IL","IL",60,60,18,0,0
+"2025-04-01","MLU","Monroe, LA","LA",90,89,26,0,1
+"2025-04-01","MOB","Mobile, AL","AL",158,157,31,1,0
+"2025-04-01","MOT","Minot, ND","ND",118,117,16,0,1
+"2025-04-01","MQT","Marquette, MI","MI",60,59,11,0,1
+"2025-04-01","MSN","Madison, WI","WI",400,400,69,0,0
+"2025-04-01","MSO","Missoula, MT","MT",120,120,7,0,0
+"2025-04-01","MSP","Minneapolis, MN","MN",8539,8511,1496,16,12
+"2025-04-01","MSY","New Orleans, LA","LA",732,727,137,4,1
+"2025-04-01","MYR","Myrtle Beach, SC","SC",201,201,39,0,0
+"2025-04-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",116,115,35,1,0
+"2025-04-01","OAK","Oakland, CA","CA",90,90,10,0,0
+"2025-04-01","OGG","Kahului, HI","HI",103,103,7,0,0
+"2025-04-01","OKC","Oklahoma City, OK","OK",262,258,50,2,2
+"2025-04-01","OMA","Omaha, NE","NE",514,511,80,1,2
+"2025-04-01","ONT","Ontario, CA","CA",274,274,28,0,0
+"2025-04-01","ORD","Chicago, IL","IL",1151,1132,290,14,5
+"2025-04-01","ORF","Norfolk, VA","VA",491,487,106,4,0
+"2025-04-01","ORH","Worcester, MA","MA",26,26,3,0,0
+"2025-04-01","PBI","West Palm Beach/Palm Beach, FL","FL",670,666,145,4,0
+"2025-04-01","PDX","Portland, OR","OR",737,737,78,0,0
+"2025-04-01","PHL","Philadelphia, PA","PA",612,610,125,2,0
+"2025-04-01","PHX","Phoenix, AZ","AZ",1078,1075,192,3,0
+"2025-04-01","PIH","Pocatello, ID","ID",60,60,3,0,0
+"2025-04-01","PIT","Pittsburgh, PA","PA",776,771,141,5,0
+"2025-04-01","PLN","Pellston, MI","MI",50,43,7,6,1
+"2025-04-01","PNS","Pensacola, FL","FL",275,273,53,2,0
+"2025-04-01","PSC","Pasco/Kennewick/Richland, WA","WA",206,206,25,0,0
+"2025-04-01","PSP","Palm Springs, CA","CA",197,197,10,0,0
+"2025-04-01","PVD","Providence, RI","RI",148,147,34,1,0
+"2025-04-01","PWM","Portland, ME","ME",253,253,32,0,0
+"2025-04-01","RAP","Rapid City, SD","SD",90,90,16,0,0
+"2025-04-01","RDM","Bend/Redmond, OR","OR",150,150,7,0,0
+"2025-04-01","RDU","Raleigh/Durham, NC","NC",1605,1598,313,7,0
+"2025-04-01","RHI","Rhinelander, WI","WI",60,56,6,4,0
+"2025-04-01","RIC","Richmond, VA","VA",596,591,122,5,0
+"2025-04-01","RNO","Reno, NV","NV",210,210,23,0,0
+"2025-04-01","ROA","Roanoke, VA","VA",146,146,31,0,0
+"2025-04-01","ROC","Rochester, NY","NY",377,376,81,1,0
+"2025-04-01","RST","Rochester, MN","MN",86,86,33,0,0
+"2025-04-01","RSW","Fort Myers, FL","FL",740,735,155,4,1
+"2025-04-01","SAN","San Diego, CA","CA",964,962,201,2,0
+"2025-04-01","SAT","San Antonio, TX","TX",560,557,132,3,0
+"2025-04-01","SAV","Savannah, GA","GA",515,512,97,3,0
+"2025-04-01","SBA","Santa Barbara, CA","CA",90,90,15,0,0
+"2025-04-01","SBN","South Bend, IN","IN",150,149,33,1,0
+"2025-04-01","SDF","Louisville, KY","KY",500,496,71,4,0
+"2025-04-01","SEA","Seattle, WA","WA",4045,4038,391,6,1
+"2025-04-01","SFO","San Francisco, CA","CA",1154,1152,188,2,0
+"2025-04-01","SGF","Springfield, MO","MO",116,115,32,0,1
+"2025-04-01","SGU","St. George, UT","UT",146,146,18,0,0
+"2025-04-01","SHV","Shreveport, LA","LA",146,143,34,0,3
+"2025-04-01","SJC","San Jose, CA","CA",494,494,50,0,0
+"2025-04-01","SJU","San Juan, PR","PR",322,322,61,0,0
+"2025-04-01","SLC","Salt Lake City, UT","UT",6800,6791,776,6,3
+"2025-04-01","SMF","Sacramento, CA","CA",659,659,72,0,0
+"2025-04-01","SNA","Santa Ana, CA","CA",486,479,95,3,4
+"2025-04-01","SRQ","Sarasota/Bradenton, FL","FL",320,318,58,2,0
+"2025-04-01","STL","St. Louis, MO","MO",627,624,123,2,1
+"2025-04-01","STT","Charlotte Amalie, VI","VI",88,87,22,0,1
+"2025-04-01","STX","Christiansted, VI","VI",14,14,5,0,0
+"2025-04-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",90,90,2,0,0
+"2025-04-01","SYR","Syracuse, NY","NY",395,393,86,2,0
+"2025-04-01","TLH","Tallahassee, FL","FL",194,194,40,0,0
+"2025-04-01","TPA","Tampa, FL","FL",1181,1168,227,13,0
+"2025-04-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",133,132,30,1,0
+"2025-04-01","TUL","Tulsa, OK","OK",204,204,36,0,0
+"2025-04-01","TUS","Tucson, AZ","AZ",313,310,32,2,1
+"2025-04-01","TVC","Traverse City, MI","MI",90,90,12,0,0
+"2025-04-01","TWF","Twin Falls, ID","ID",60,60,2,0,0
+"2025-04-01","TYS","Knoxville, TN","TN",394,392,106,2,0
+"2025-04-01","VLD","Valdosta, GA","GA",86,84,16,2,0
+"2025-04-01","VPS","Valparaiso, FL","FL",230,225,35,3,2
+"2025-04-01","XNA","Fayetteville, AR","AR",336,333,100,2,1
+"2025-04-01","XWA","Williston, ND","ND",60,59,11,1,0
+"2025-05-01","ABE","Allentown/Bethlehem/Easton, PA","PA",92,86,17,4,2
+"2025-05-01","ABQ","Albuquerque, NM","NM",312,312,46,0,0
+"2025-05-01","ABR","Aberdeen, SD","SD",62,62,6,0,0
+"2025-05-01","ABY","Albany, GA","GA",87,87,22,0,0
+"2025-05-01","ACK","Nantucket, MA","MA",30,30,2,0,0
+"2025-05-01","AEX","Alexandria, LA","LA",92,89,24,2,1
+"2025-05-01","AGS","Augusta, GA","GA",236,231,66,4,1
+"2025-05-01","ALB","Albany, NY","NY",266,261,76,4,1
+"2025-05-01","ANC","Anchorage, AK","AK",227,227,37,0,0
+"2025-05-01","APN","Alpena, MI","MI",54,54,7,0,0
+"2025-05-01","ASE","Aspen, CO","CO",8,8,0,0,0
+"2025-05-01","ATL","Atlanta, GA","GA",24658,24503,5127,85,70
+"2025-05-01","ATW","Appleton, WI","WI",216,216,43,0,0
+"2025-05-01","AUS","Austin, TX","TX",1645,1634,568,5,6
+"2025-05-01","AVL","Asheville, NC","NC",269,263,58,5,1
+"2025-05-01","AZO","Kalamazoo, MI","MI",87,87,9,0,0
+"2025-05-01","BDL","Hartford, CT","CT",391,391,92,0,0
+"2025-05-01","BGM","Binghamton, NY","NY",31,30,3,0,1
+"2025-05-01","BGR","Bangor, ME","ME",94,93,20,1,0
+"2025-05-01","BHM","Birmingham, AL","AL",402,395,107,5,2
+"2025-05-01","BIL","Billings, MT","MT",124,124,18,0,0
+"2025-05-01","BIS","Bismarck/Mandan, ND","ND",149,149,28,0,0
+"2025-05-01","BJI","Bemidji, MN","MN",62,62,9,0,0
+"2025-05-01","BMI","Bloomington/Normal, IL","IL",62,61,22,1,0
+"2025-05-01","BNA","Nashville, TN","TN",1335,1320,297,9,6
+"2025-05-01","BOI","Boise, ID","ID",531,531,66,0,0
+"2025-05-01","BOS","Boston, MA","MA",4323,4283,1306,32,8
+"2025-05-01","BQK","Brunswick, GA","GA",93,93,27,0,0
+"2025-05-01","BRD","Brainerd, MN","MN",54,54,5,0,0
+"2025-05-01","BTM","Butte, MT","MT",30,30,1,0,0
+"2025-05-01","BTR","Baton Rouge, LA","LA",137,136,39,1,0
+"2025-05-01","BTV","Burlington, VT","VT",212,205,39,7,0
+"2025-05-01","BUF","Buffalo, NY","NY",446,437,101,9,0
+"2025-05-01","BUR","Burbank, CA","CA",144,144,38,0,0
+"2025-05-01","BWI","Baltimore, MD","MD",575,573,129,0,2
+"2025-05-01","BZN","Bozeman, MT","MT",180,180,22,0,0
+"2025-05-01","CAE","Columbia, SC","SC",280,274,71,6,0
+"2025-05-01","CDC","Cedar City, UT","UT",54,54,3,0,0
+"2025-05-01","CHA","Chattanooga, TN","TN",346,344,113,2,0
+"2025-05-01","CHO","Charlottesville, VA","VA",200,194,58,6,0
+"2025-05-01","CHS","Charleston, SC","SC",617,611,164,6,0
+"2025-05-01","CID","Cedar Rapids/Iowa City, IA","IA",124,122,25,2,0
+"2025-05-01","CIU","Sault Ste. Marie, MI","MI",62,62,13,0,0
+"2025-05-01","CLE","Cleveland, OH","OH",858,850,212,8,0
+"2025-05-01","CLT","Charlotte, NC","NC",1071,1056,265,13,2
+"2025-05-01","CMH","Columbus, OH","OH",835,832,196,3,0
+"2025-05-01","COS","Colorado Springs, CO","CO",78,78,13,0,0
+"2025-05-01","CRW","Charleston/Dunbar, WV","WV",118,117,29,0,1
+"2025-05-01","CSG","Columbus, GA","GA",87,86,24,1,0
+"2025-05-01","CVG","Cincinnati, OH","KY",1343,1328,340,15,0
+"2025-05-01","CWA","Mosinee, WI","WI",62,62,18,0,0
+"2025-05-01","DAB","Daytona Beach, FL","FL",149,147,32,0,2
+"2025-05-01","DAL","Dallas, TX","TX",166,163,51,1,2
+"2025-05-01","DAY","Dayton, OH","OH",145,145,37,0,0
+"2025-05-01","DCA","Washington, DC","VA",1713,1675,529,25,13
+"2025-05-01","DEN","Denver, CO","CO",1038,1031,324,2,5
+"2025-05-01","DFW","Dallas/Fort Worth, TX","TX",1052,1028,344,7,17
+"2025-05-01","DHN","Dothan, AL","AL",87,85,21,2,0
+"2025-05-01","DLH","Duluth, MN","MN",122,121,17,1,0
+"2025-05-01","DSM","Des Moines, IA","IA",378,372,80,6,0
+"2025-05-01","DTW","Detroit, MI","MI",9128,9092,1563,34,2
+"2025-05-01","ECP","Panama City, FL","FL",234,233,59,1,0
+"2025-05-01","EKO","Elko, NV","NV",45,45,1,0,0
+"2025-05-01","ELM","Elmira/Corning, NY","NY",62,62,9,0,0
+"2025-05-01","ELP","El Paso, TX","TX",62,62,16,0,0
+"2025-05-01","ESC","Escanaba, MI","MI",53,52,8,1,0
+"2025-05-01","EUG","Eugene, OR","OR",155,155,12,0,0
+"2025-05-01","EVV","Evansville, IN","IN",114,113,24,1,0
+"2025-05-01","EWR","Newark, NJ","NJ",711,676,433,34,1
+"2025-05-01","EYW","Key West, FL","FL",132,132,27,0,0
+"2025-05-01","FAI","Fairbanks, AK","AK",31,30,13,1,0
+"2025-05-01","FAR","Fargo, ND","ND",150,148,21,2,0
+"2025-05-01","FAT","Fresno, CA","CA",144,143,17,0,1
+"2025-05-01","FAY","Fayetteville, NC","NC",111,110,26,1,0
+"2025-05-01","FCA","Kalispell, MT","MT",144,142,12,0,2
+"2025-05-01","FLL","Fort Lauderdale, FL","FL",1076,1070,261,3,3
+"2025-05-01","FSD","Sioux Falls, SD","SD",180,180,35,0,0
+"2025-05-01","FWA","Fort Wayne, IN","IN",155,154,33,1,0
+"2025-05-01","GEG","Spokane, WA","WA",578,575,76,1,2
+"2025-05-01","GFK","Grand Forks, ND","ND",93,92,7,1,0
+"2025-05-01","GJT","Grand Junction, CO","CO",53,52,0,1,0
+"2025-05-01","GNV","Gainesville, FL","FL",148,148,26,0,0
+"2025-05-01","GPT","Gulfport/Biloxi, MS","MS",118,117,30,0,1
+"2025-05-01","GRB","Green Bay, WI","WI",211,210,35,1,0
+"2025-05-01","GRR","Grand Rapids, MI","MI",492,489,93,3,0
+"2025-05-01","GSO","Greensboro/High Point, NC","NC",395,390,97,5,0
+"2025-05-01","GSP","Greer, SC","SC",420,414,96,6,0
+"2025-05-01","GTF","Great Falls, MT","MT",124,124,13,0,0
+"2025-05-01","GTR","Columbus, MS","MS",62,61,9,0,1
+"2025-05-01","HHH","Hilton Head, SC","SC",62,62,8,0,0
+"2025-05-01","HIB","Hibbing, MN","MN",54,53,8,0,1
+"2025-05-01","HLN","Helena, MT","MT",62,62,3,0,0
+"2025-05-01","HNL","Honolulu, HI","HI",310,308,35,1,1
+"2025-05-01","HOU","Houston, TX","TX",141,141,40,0,0
+"2025-05-01","HPN","White Plains, NY","NY",232,228,64,1,3
+"2025-05-01","HRL","Harlingen/San Benito, TX","TX",37,37,13,0,0
+"2025-05-01","HSV","Huntsville, AL","AL",314,311,79,2,1
+"2025-05-01","IAD","Washington, DC","VA",527,522,124,3,2
+"2025-05-01","IAH","Houston, TX","TX",687,677,205,4,6
+"2025-05-01","ICT","Wichita, KS","KS",118,116,25,1,1
+"2025-05-01","IDA","Idaho Falls, ID","ID",93,93,19,0,0
+"2025-05-01","ILM","Wilmington, NC","NC",214,212,64,2,0
+"2025-05-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,61,12,0,1
+"2025-05-01","IND","Indianapolis, IN","IN",918,905,197,13,0
+"2025-05-01","INL","International Falls, MN","MN",54,53,3,1,0
+"2025-05-01","ITH","Ithaca/Cortland, NY","NY",62,55,14,6,1
+"2025-05-01","JAC","Jackson, WY","WY",106,105,14,0,1
+"2025-05-01","JAN","Jackson/Vicksburg, MS","MS",226,224,60,1,1
+"2025-05-01","JAX","Jacksonville, FL","FL",744,729,208,10,5
+"2025-05-01","JFK","New York, NY","NY",5069,4963,1247,92,14
+"2025-05-01","KOA","Kona, HI","HI",62,62,3,0,0
+"2025-05-01","LAN","Lansing, MI","MI",87,87,8,0,0
+"2025-05-01","LAS","Las Vegas, NV","NV",1741,1739,320,2,0
+"2025-05-01","LAX","Los Angeles, CA","CA",4309,4300,648,6,3
+"2025-05-01","LEX","Lexington, KY","KY",345,343,92,2,0
+"2025-05-01","LFT","Lafayette, LA","LA",119,116,39,3,0
+"2025-05-01","LGA","New York, NY","NY",7036,6857,1914,138,41
+"2025-05-01","LGB","Long Beach, CA","CA",93,93,8,0,0
+"2025-05-01","LIH","Lihue, HI","HI",62,62,10,0,0
+"2025-05-01","LIT","Little Rock, AR","AR",223,223,69,0,0
+"2025-05-01","LWS","Lewiston, ID","ID",62,62,6,0,0
+"2025-05-01","MAF","Midland/Odessa, TX","TX",62,61,14,1,0
+"2025-05-01","MBS","Saginaw/Bay City/Midland, MI","MI",118,118,9,0,0
+"2025-05-01","MCI","Kansas City, MO","MO",841,837,196,2,2
+"2025-05-01","MCO","Orlando, FL","FL",1861,1826,550,3,32
+"2025-05-01","MDT","Harrisburg, PA","PA",143,142,27,0,1
+"2025-05-01","MDW","Chicago, IL","IL",327,326,56,0,1
+"2025-05-01","MEM","Memphis, TN","TN",668,664,165,3,1
+"2025-05-01","MFE","Mission/McAllen/Edinburg, TX","TX",87,87,31,0,0
+"2025-05-01","MFR","Medford, OR","OR",155,155,14,0,0
+"2025-05-01","MGM","Montgomery, AL","AL",149,149,52,0,0
+"2025-05-01","MIA","Miami, FL","FL",1013,1010,240,1,2
+"2025-05-01","MKE","Milwaukee, WI","WI",726,720,155,3,3
+"2025-05-01","MLB","Melbourne, FL","FL",118,118,29,0,0
+"2025-05-01","MLI","Moline, IL","IL",62,62,16,0,0
+"2025-05-01","MLU","Monroe, LA","LA",93,90,21,2,1
+"2025-05-01","MOB","Mobile, AL","AL",174,172,59,1,1
+"2025-05-01","MOT","Minot, ND","ND",118,118,21,0,0
+"2025-05-01","MQT","Marquette, MI","MI",62,62,12,0,0
+"2025-05-01","MSN","Madison, WI","WI",406,403,88,1,2
+"2025-05-01","MSO","Missoula, MT","MT",124,123,11,0,1
+"2025-05-01","MSP","Minneapolis, MN","MN",9024,8983,1624,29,12
+"2025-05-01","MSY","New Orleans, LA","LA",751,747,181,1,3
+"2025-05-01","MVY","Martha's Vineyard, MA","MA",30,29,2,0,1
+"2025-05-01","MYR","Myrtle Beach, SC","SC",242,242,51,0,0
+"2025-05-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",118,113,24,4,1
+"2025-05-01","OAK","Oakland, CA","CA",93,93,9,0,0
+"2025-05-01","OGG","Kahului, HI","HI",93,93,5,0,0
+"2025-05-01","OKC","Oklahoma City, OK","OK",271,266,71,1,4
+"2025-05-01","OMA","Omaha, NE","NE",526,522,93,3,1
+"2025-05-01","ONT","Ontario, CA","CA",318,318,39,0,0
+"2025-05-01","ORD","Chicago, IL","IL",1244,1228,301,13,3
+"2025-05-01","ORF","Norfolk, VA","VA",530,519,132,11,0
+"2025-05-01","ORH","Worcester, MA","MA",26,25,8,1,0
+"2025-05-01","PBI","West Palm Beach/Palm Beach, FL","FL",616,609,194,4,3
+"2025-05-01","PDX","Portland, OR","OR",850,850,109,0,0
+"2025-05-01","PHL","Philadelphia, PA","PA",661,660,161,0,1
+"2025-05-01","PHX","Phoenix, AZ","AZ",1061,1059,186,0,2
+"2025-05-01","PIH","Pocatello, ID","ID",62,62,5,0,0
+"2025-05-01","PIT","Pittsburgh, PA","PA",858,852,207,5,1
+"2025-05-01","PLN","Pellston, MI","MI",62,61,9,0,1
+"2025-05-01","PNS","Pensacola, FL","FL",288,288,76,0,0
+"2025-05-01","PSC","Pasco/Kennewick/Richland, WA","WA",236,236,24,0,0
+"2025-05-01","PSP","Palm Springs, CA","CA",116,116,7,0,0
+"2025-05-01","PVD","Providence, RI","RI",169,165,44,3,1
+"2025-05-01","PWM","Portland, ME","ME",291,286,71,5,0
+"2025-05-01","RAP","Rapid City, SD","SD",95,94,14,0,1
+"2025-05-01","RDM","Bend/Redmond, OR","OR",155,155,5,0,0
+"2025-05-01","RDU","Raleigh/Durham, NC","NC",1709,1683,430,23,3
+"2025-05-01","RHI","Rhinelander, WI","WI",62,62,7,0,0
+"2025-05-01","RIC","Richmond, VA","VA",657,653,155,4,0
+"2025-05-01","RNO","Reno, NV","NV",217,217,29,0,0
+"2025-05-01","ROA","Roanoke, VA","VA",146,144,40,0,2
+"2025-05-01","ROC","Rochester, NY","NY",384,378,124,6,0
+"2025-05-01","RST","Rochester, MN","MN",87,87,11,0,0
+"2025-05-01","RSW","Fort Myers, FL","FL",627,624,118,2,1
+"2025-05-01","SAN","San Diego, CA","CA",1056,1053,195,1,2
+"2025-05-01","SAT","San Antonio, TX","TX",618,615,163,2,1
+"2025-05-01","SAV","Savannah, GA","GA",570,557,154,8,5
+"2025-05-01","SBA","Santa Barbara, CA","CA",93,93,16,0,0
+"2025-05-01","SBN","South Bend, IN","IN",155,150,53,3,2
+"2025-05-01","SDF","Louisville, KY","KY",600,595,130,4,1
+"2025-05-01","SEA","Seattle, WA","WA",4376,4369,529,7,0
+"2025-05-01","SFO","San Francisco, CA","CA",1220,1217,237,1,2
+"2025-05-01","SGF","Springfield, MO","MO",118,118,31,0,0
+"2025-05-01","SGU","St. George, UT","UT",175,175,9,0,0
+"2025-05-01","SHV","Shreveport, LA","LA",149,147,42,1,1
+"2025-05-01","SJC","San Jose, CA","CA",627,627,83,0,0
+"2025-05-01","SJU","San Juan, PR","PR",312,312,74,0,0
+"2025-05-01","SLC","Salt Lake City, UT","UT",7230,7224,839,4,2
+"2025-05-01","SMF","Sacramento, CA","CA",725,724,104,1,0
+"2025-05-01","SNA","Santa Ana, CA","CA",545,541,110,2,2
+"2025-05-01","SRQ","Sarasota/Bradenton, FL","FL",253,252,61,1,0
+"2025-05-01","STL","St. Louis, MO","MO",658,654,126,4,0
+"2025-05-01","STT","Charlotte Amalie, VI","VI",92,92,16,0,0
+"2025-05-01","STX","Christiansted, VI","VI",5,5,3,0,0
+"2025-05-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",93,93,3,0,0
+"2025-05-01","SYR","Syracuse, NY","NY",414,406,101,8,0
+"2025-05-01","TLH","Tallahassee, FL","FL",210,210,50,0,0
+"2025-05-01","TPA","Tampa, FL","FL",1168,1164,281,1,3
+"2025-05-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",147,145,28,2,0
+"2025-05-01","TUL","Tulsa, OK","OK",232,231,53,1,0
+"2025-05-01","TUS","Tucson, AZ","AZ",285,285,33,0,0
+"2025-05-01","TVC","Traverse City, MI","MI",105,105,18,0,0
+"2025-05-01","TWF","Twin Falls, ID","ID",62,62,2,0,0
+"2025-05-01","TYS","Knoxville, TN","TN",422,411,115,8,3
+"2025-05-01","VLD","Valdosta, GA","GA",87,87,20,0,0
+"2025-05-01","VPS","Valparaiso, FL","FL",259,258,62,1,0
+"2025-05-01","WYS","West Yellowstone, MT","MT",14,14,0,0,0
+"2025-05-01","XNA","Fayetteville, AR","AR",377,366,107,7,4
+"2025-05-01","XWA","Williston, ND","ND",62,62,6,0,0
+"2025-06-01","ABE","Allentown/Bethlehem/Easton, PA","PA",90,86,26,4,0
+"2025-06-01","ABQ","Albuquerque, NM","NM",316,313,44,1,2
+"2025-06-01","ABR","Aberdeen, SD","SD",60,59,4,0,1
+"2025-06-01","ABY","Albany, GA","GA",86,86,34,0,0
+"2025-06-01","ACK","Nantucket, MA","MA",90,84,11,4,2
+"2025-06-01","AEX","Alexandria, LA","LA",87,85,27,2,0
+"2025-06-01","AGS","Augusta, GA","GA",228,219,67,9,0
+"2025-06-01","ALB","Albany, NY","NY",263,256,86,5,2
+"2025-06-01","ANC","Anchorage, AK","AK",336,334,82,1,1
+"2025-06-01","APN","Alpena, MI","MI",52,52,7,0,0
+"2025-06-01","ASE","Aspen, CO","CO",57,46,19,0,11
+"2025-06-01","ATL","Atlanta, GA","GA",24585,23771,5792,649,165
+"2025-06-01","ATW","Appleton, WI","WI",208,208,50,0,0
+"2025-06-01","AUS","Austin, TX","TX",1657,1636,511,16,5
+"2025-06-01","AVL","Asheville, NC","NC",283,270,90,10,3
+"2025-06-01","AZO","Kalamazoo, MI","MI",86,85,19,0,1
+"2025-06-01","BDL","Hartford, CT","CT",391,385,107,6,0
+"2025-06-01","BGM","Binghamton, NY","NY",30,30,5,0,0
+"2025-06-01","BGR","Bangor, ME","ME",105,97,24,8,0
+"2025-06-01","BHM","Birmingham, AL","AL",428,406,139,20,2
+"2025-06-01","BIL","Billings, MT","MT",120,120,24,0,0
+"2025-06-01","BIS","Bismarck/Mandan, ND","ND",146,146,24,0,0
+"2025-06-01","BJI","Bemidji, MN","MN",60,57,4,3,0
+"2025-06-01","BMI","Bloomington/Normal, IL","IL",60,58,24,2,0
+"2025-06-01","BNA","Nashville, TN","TN",1354,1305,353,39,10
+"2025-06-01","BOI","Boise, ID","ID",548,543,89,4,1
+"2025-06-01","BOS","Boston, MA","MA",4325,4266,1061,56,3
+"2025-06-01","BQK","Brunswick, GA","GA",90,85,29,4,1
+"2025-06-01","BRD","Brainerd, MN","MN",52,50,8,0,2
+"2025-06-01","BTM","Butte, MT","MT",30,30,0,0,0
+"2025-06-01","BTR","Baton Rouge, LA","LA",142,140,51,2,0
+"2025-06-01","BTV","Burlington, VT","VT",232,218,73,14,0
+"2025-06-01","BUF","Buffalo, NY","NY",500,472,149,28,0
+"2025-06-01","BUR","Burbank, CA","CA",147,147,34,0,0
+"2025-06-01","BWI","Baltimore, MD","MD",578,568,184,8,2
+"2025-06-01","BZN","Bozeman, MT","MT",250,249,48,0,1
+"2025-06-01","CAE","Columbia, SC","SC",276,267,89,9,0
+"2025-06-01","CDC","Cedar City, UT","UT",52,52,1,0,0
+"2025-06-01","CHA","Chattanooga, TN","TN",339,329,120,10,0
+"2025-06-01","CHO","Charlottesville, VA","VA",176,164,51,11,1
+"2025-06-01","CHS","Charleston, SC","SC",663,638,189,23,2
+"2025-06-01","CID","Cedar Rapids/Iowa City, IA","IA",118,113,32,4,1
+"2025-06-01","CIU","Sault Ste. Marie, MI","MI",60,59,8,0,1
+"2025-06-01","CLE","Cleveland, OH","OH",871,840,257,28,3
+"2025-06-01","CLT","Charlotte, NC","NC",962,924,256,36,2
+"2025-06-01","CMH","Columbus, OH","OH",868,839,237,26,3
+"2025-06-01","COS","Colorado Springs, CO","CO",107,107,25,0,0
+"2025-06-01","CRW","Charleston/Dunbar, WV","WV",114,111,35,3,0
+"2025-06-01","CSG","Columbus, GA","GA",86,81,28,5,0
+"2025-06-01","CVG","Cincinnati, OH","KY",1375,1338,397,34,3
+"2025-06-01","CWA","Mosinee, WI","WI",60,60,15,0,0
+"2025-06-01","DAB","Daytona Beach, FL","FL",144,139,39,4,1
+"2025-06-01","DAL","Dallas, TX","TX",166,155,50,11,0
+"2025-06-01","DAY","Dayton, OH","OH",138,130,45,8,0
+"2025-06-01","DCA","Washington, DC","VA",1662,1585,557,61,16
+"2025-06-01","DEN","Denver, CO","CO",1075,1055,397,13,7
+"2025-06-01","DFW","Dallas/Fort Worth, TX","TX",1025,998,356,16,11
+"2025-06-01","DHN","Dothan, AL","AL",86,81,33,5,0
+"2025-06-01","DLH","Duluth, MN","MN",116,114,18,1,1
+"2025-06-01","DSM","Des Moines, IA","IA",371,358,103,11,2
+"2025-06-01","DTW","Detroit, MI","MI",9509,9386,1999,117,6
+"2025-06-01","ECP","Panama City, FL","FL",249,242,81,6,1
+"2025-06-01","EKO","Elko, NV","NV",48,48,3,0,0
+"2025-06-01","ELM","Elmira/Corning, NY","NY",78,78,21,0,0
+"2025-06-01","ELP","El Paso, TX","TX",60,60,19,0,0
+"2025-06-01","ESC","Escanaba, MI","MI",52,52,8,0,0
+"2025-06-01","EUG","Eugene, OR","OR",150,150,15,0,0
+"2025-06-01","EVV","Evansville, IN","IN",114,109,31,4,1
+"2025-06-01","EWR","Newark, NJ","NJ",726,692,239,29,5
+"2025-06-01","EYW","Key West, FL","FL",120,119,33,1,0
+"2025-06-01","FAI","Fairbanks, AK","AK",99,99,26,0,0
+"2025-06-01","FAR","Fargo, ND","ND",144,142,30,1,1
+"2025-06-01","FAT","Fresno, CA","CA",149,148,19,1,0
+"2025-06-01","FAY","Fayetteville, NC","NC",112,108,33,3,1
+"2025-06-01","FCA","Kalispell, MT","MT",161,159,24,2,0
+"2025-06-01","FLL","Fort Lauderdale, FL","FL",986,965,316,18,3
+"2025-06-01","FSD","Sioux Falls, SD","SD",174,171,42,3,0
+"2025-06-01","FWA","Fort Wayne, IN","IN",170,169,53,0,1
+"2025-06-01","GEG","Spokane, WA","WA",604,603,97,1,0
+"2025-06-01","GFK","Grand Forks, ND","ND",90,90,14,0,0
+"2025-06-01","GJT","Grand Junction, CO","CO",53,53,5,0,0
+"2025-06-01","GNV","Gainesville, FL","FL",144,141,35,3,0
+"2025-06-01","GPT","Gulfport/Biloxi, MS","MS",114,110,39,4,0
+"2025-06-01","GRB","Green Bay, WI","WI",206,204,50,2,0
+"2025-06-01","GRR","Grand Rapids, MI","MI",527,517,145,10,0
+"2025-06-01","GSO","Greensboro/High Point, NC","NC",423,404,139,19,0
+"2025-06-01","GSP","Greer, SC","SC",427,411,143,15,1
+"2025-06-01","GTF","Great Falls, MT","MT",120,120,8,0,0
+"2025-06-01","GTR","Columbus, MS","MS",60,57,26,3,0
+"2025-06-01","HHH","Hilton Head, SC","SC",60,60,6,0,0
+"2025-06-01","HIB","Hibbing, MN","MN",52,51,4,0,1
+"2025-06-01","HLN","Helena, MT","MT",60,60,1,0,0
+"2025-06-01","HNL","Honolulu, HI","HI",300,298,52,1,1
+"2025-06-01","HOU","Houston, TX","TX",136,131,39,4,1
+"2025-06-01","HPN","White Plains, NY","NY",232,224,53,3,5
+"2025-06-01","HRL","Harlingen/San Benito, TX","TX",7,7,0,0,0
+"2025-06-01","HSV","Huntsville, AL","AL",328,318,114,9,1
+"2025-06-01","IAD","Washington, DC","VA",510,489,139,20,1
+"2025-06-01","IAH","Houston, TX","TX",689,666,204,14,9
+"2025-06-01","ICT","Wichita, KS","KS",139,134,42,2,3
+"2025-06-01","IDA","Idaho Falls, ID","ID",110,110,12,0,0
+"2025-06-01","ILM","Wilmington, NC","NC",219,207,66,12,0
+"2025-06-01","IMT","Iron Mountain/Kingsfd, MI","MI",60,59,10,0,1
+"2025-06-01","IND","Indianapolis, IN","IN",948,919,248,28,1
+"2025-06-01","INL","International Falls, MN","MN",53,53,1,0,0
+"2025-06-01","ITH","Ithaca/Cortland, NY","NY",60,57,15,3,0
+"2025-06-01","JAC","Jackson, WY","WY",147,146,27,1,0
+"2025-06-01","JAN","Jackson/Vicksburg, MS","MS",220,212,77,8,0
+"2025-06-01","JAX","Jacksonville, FL","FL",740,712,260,25,3
+"2025-06-01","JFK","New York, NY","NY",4944,4688,1373,239,17
+"2025-06-01","JNU","Juneau, AK","AK",23,23,8,0,0
+"2025-06-01","KOA","Kona, HI","HI",60,60,6,0,0
+"2025-06-01","LAN","Lansing, MI","MI",84,84,23,0,0
+"2025-06-01","LAS","Las Vegas, NV","NV",1676,1657,394,13,6
+"2025-06-01","LAX","Los Angeles, CA","CA",4293,4258,726,32,3
+"2025-06-01","LEX","Lexington, KY","KY",344,333,119,11,0
+"2025-06-01","LFT","Lafayette, LA","LA",114,112,38,2,0
+"2025-06-01","LGA","New York, NY","NY",7058,6645,1991,360,53
+"2025-06-01","LGB","Long Beach, CA","CA",90,89,4,1,0
+"2025-06-01","LIH","Lihue, HI","HI",60,60,16,0,0
+"2025-06-01","LIT","Little Rock, AR","AR",222,215,75,6,1
+"2025-06-01","LWS","Lewiston, ID","ID",60,60,5,0,0
+"2025-06-01","MAF","Midland/Odessa, TX","TX",78,77,20,0,1
+"2025-06-01","MBS","Saginaw/Bay City/Midland, MI","MI",114,113,23,1,0
+"2025-06-01","MCI","Kansas City, MO","MO",881,861,209,12,8
+"2025-06-01","MCO","Orlando, FL","FL",1792,1760,666,25,7
+"2025-06-01","MDT","Harrisburg, PA","PA",169,166,46,3,0
+"2025-06-01","MDW","Chicago, IL","IL",313,305,75,8,0
+"2025-06-01","MEM","Memphis, TN","TN",692,666,169,24,2
+"2025-06-01","MFE","Mission/McAllen/Edinburg, TX","TX",84,84,21,0,0
+"2025-06-01","MFR","Medford, OR","OR",150,150,9,0,0
+"2025-06-01","MGM","Montgomery, AL","AL",144,144,51,0,0
+"2025-06-01","MIA","Miami, FL","FL",969,949,329,14,6
+"2025-06-01","MKE","Milwaukee, WI","WI",712,699,187,13,0
+"2025-06-01","MLB","Melbourne, FL","FL",119,114,33,5,0
+"2025-06-01","MLI","Moline, IL","IL",60,58,20,2,0
+"2025-06-01","MLU","Monroe, LA","LA",90,87,31,3,0
+"2025-06-01","MOB","Mobile, AL","AL",162,158,65,4,0
+"2025-06-01","MOT","Minot, ND","ND",116,116,23,0,0
+"2025-06-01","MQT","Marquette, MI","MI",60,60,6,0,0
+"2025-06-01","MSN","Madison, WI","WI",419,407,109,11,1
+"2025-06-01","MSO","Missoula, MT","MT",143,143,33,0,0
+"2025-06-01","MSP","Minneapolis, MN","MN",9344,9262,1740,74,8
+"2025-06-01","MSY","New Orleans, LA","LA",677,652,178,14,11
+"2025-06-01","MVY","Martha's Vineyard, MA","MA",90,88,10,1,1
+"2025-06-01","MYR","Myrtle Beach, SC","SC",250,241,63,7,2
+"2025-06-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",114,113,34,1,0
+"2025-06-01","OAK","Oakland, CA","CA",90,90,8,0,0
+"2025-06-01","OGG","Kahului, HI","HI",90,90,9,0,0
+"2025-06-01","OKC","Oklahoma City, OK","OK",264,255,82,7,2
+"2025-06-01","OMA","Omaha, NE","NE",558,545,152,11,2
+"2025-06-01","ONT","Ontario, CA","CA",318,315,64,3,0
+"2025-06-01","ORD","Chicago, IL","IL",1214,1182,383,30,2
+"2025-06-01","ORF","Norfolk, VA","VA",587,565,200,20,2
+"2025-06-01","ORH","Worcester, MA","MA",26,24,4,2,0
+"2025-06-01","PBI","West Palm Beach/Palm Beach, FL","FL",593,578,226,14,1
+"2025-06-01","PDX","Portland, OR","OR",907,898,160,8,1
+"2025-06-01","PHL","Philadelphia, PA","PA",691,678,205,12,1
+"2025-06-01","PHX","Phoenix, AZ","AZ",1019,1013,230,5,1
+"2025-06-01","PIH","Pocatello, ID","ID",60,60,4,0,0
+"2025-06-01","PIT","Pittsburgh, PA","PA",863,830,214,32,1
+"2025-06-01","PLN","Pellston, MI","MI",60,60,8,0,0
+"2025-06-01","PNS","Pensacola, FL","FL",277,271,80,6,0
+"2025-06-01","PSC","Pasco/Kennewick/Richland, WA","WA",239,238,32,1,0
+"2025-06-01","PSP","Palm Springs, CA","CA",91,91,9,0,0
+"2025-06-01","PVD","Providence, RI","RI",201,193,62,7,1
+"2025-06-01","PWM","Portland, ME","ME",344,330,102,13,1
+"2025-06-01","RAP","Rapid City, SD","SD",92,91,20,1,0
+"2025-06-01","RDM","Bend/Redmond, OR","OR",150,150,11,0,0
+"2025-06-01","RDU","Raleigh/Durham, NC","NC",1742,1689,497,49,4
+"2025-06-01","RHI","Rhinelander, WI","WI",60,60,5,0,0
+"2025-06-01","RIC","Richmond, VA","VA",690,655,182,34,1
+"2025-06-01","RNO","Reno, NV","NV",233,230,56,3,0
+"2025-06-01","ROA","Roanoke, VA","VA",142,132,44,9,1
+"2025-06-01","ROC","Rochester, NY","NY",379,354,112,25,0
+"2025-06-01","RST","Rochester, MN","MN",84,84,25,0,0
+"2025-06-01","RSW","Fort Myers, FL","FL",569,554,147,12,3
+"2025-06-01","SAN","San Diego, CA","CA",1036,1032,246,4,0
+"2025-06-01","SAT","San Antonio, TX","TX",600,583,158,11,6
+"2025-06-01","SAV","Savannah, GA","GA",565,543,173,21,1
+"2025-06-01","SBA","Santa Barbara, CA","CA",113,109,17,1,3
+"2025-06-01","SBN","South Bend, IN","IN",170,168,47,1,1
+"2025-06-01","SDF","Louisville, KY","KY",592,576,146,13,3
+"2025-06-01","SEA","Seattle, WA","WA",4447,4420,703,18,9
+"2025-06-01","SFO","San Francisco, CA","CA",1279,1269,302,8,2
+"2025-06-01","SGF","Springfield, MO","MO",114,111,35,3,0
+"2025-06-01","SGU","St. George, UT","UT",130,130,11,0,0
+"2025-06-01","SHV","Shreveport, LA","LA",141,137,47,4,0
+"2025-06-01","SJC","San Jose, CA","CA",640,638,100,2,0
+"2025-06-01","SJU","San Juan, PR","PR",304,302,69,2,0
+"2025-06-01","SLC","Salt Lake City, UT","UT",7241,7207,937,27,7
+"2025-06-01","SMF","Sacramento, CA","CA",728,726,116,2,0
+"2025-06-01","SNA","Santa Ana, CA","CA",542,539,124,2,1
+"2025-06-01","SRQ","Sarasota/Bradenton, FL","FL",238,230,67,7,1
+"2025-06-01","STL","St. Louis, MO","MO",687,668,172,19,0
+"2025-06-01","STT","Charlotte Amalie, VI","VI",94,94,21,0,0
+"2025-06-01","STX","Christiansted, VI","VI",4,3,0,1,0
+"2025-06-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",90,90,4,0,0
+"2025-06-01","SYR","Syracuse, NY","NY",409,388,110,21,0
+"2025-06-01","TLH","Tallahassee, FL","FL",193,187,67,6,0
+"2025-06-01","TPA","Tampa, FL","FL",1151,1120,382,14,17
+"2025-06-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",141,136,38,4,1
+"2025-06-01","TUL","Tulsa, OK","OK",230,219,64,8,3
+"2025-06-01","TUS","Tucson, AZ","AZ",264,262,42,2,0
+"2025-06-01","TVC","Traverse City, MI","MI",207,203,58,4,0
+"2025-06-01","TWF","Twin Falls, ID","ID",60,60,1,0,0
+"2025-06-01","TYS","Knoxville, TN","TN",460,439,178,21,0
+"2025-06-01","VLD","Valdosta, GA","GA",86,84,32,2,0
+"2025-06-01","VPS","Valparaiso, FL","FL",256,249,67,6,1
+"2025-06-01","WYS","West Yellowstone, MT","MT",31,30,0,0,1
+"2025-06-01","XNA","Fayetteville, AR","AR",369,353,101,15,1
+"2025-06-01","XWA","Williston, ND","ND",60,59,6,0,1
+"2025-07-01","ABE","Allentown/Bethlehem/Easton, PA","PA",91,89,25,2,0
+"2025-07-01","ABQ","Albuquerque, NM","NM",323,320,39,2,1
+"2025-07-01","ABR","Aberdeen, SD","SD",62,62,7,0,0
+"2025-07-01","ABY","Albany, GA","GA",88,88,32,0,0
+"2025-07-01","ACK","Nantucket, MA","MA",93,90,17,3,0
+"2025-07-01","AEX","Alexandria, LA","LA",88,88,24,0,0
+"2025-07-01","AGS","Augusta, GA","GA",231,230,63,1,0
+"2025-07-01","ALB","Albany, NY","NY",268,257,97,9,2
+"2025-07-01","ANC","Anchorage, AK","AK",361,360,91,0,1
+"2025-07-01","APN","Alpena, MI","MI",52,50,5,1,1
+"2025-07-01","ASE","Aspen, CO","CO",62,56,15,0,6
+"2025-07-01","ATL","Atlanta, GA","GA",25158,24789,5119,242,127
+"2025-07-01","ATW","Appleton, WI","WI",212,211,64,1,0
+"2025-07-01","AUS","Austin, TX","TX",1706,1681,518,15,10
+"2025-07-01","AVL","Asheville, NC","NC",293,284,89,9,0
+"2025-07-01","AZO","Kalamazoo, MI","MI",88,86,26,2,0
+"2025-07-01","BDL","Hartford, CT","CT",396,387,125,3,6
+"2025-07-01","BGM","Binghamton, NY","NY",31,31,12,0,0
+"2025-07-01","BGR","Bangor, ME","ME",144,132,29,12,0
+"2025-07-01","BHM","Birmingham, AL","AL",457,444,127,13,0
+"2025-07-01","BIL","Billings, MT","MT",123,122,21,1,0
+"2025-07-01","BIS","Bismarck/Mandan, ND","ND",148,147,37,0,1
+"2025-07-01","BJI","Bemidji, MN","MN",62,62,13,0,0
+"2025-07-01","BMI","Bloomington/Normal, IL","IL",62,61,26,0,1
+"2025-07-01","BNA","Nashville, TN","TN",1391,1332,342,45,14
+"2025-07-01","BOI","Boise, ID","ID",568,567,97,1,0
+"2025-07-01","BOS","Boston, MA","MA",4463,4287,1206,170,6
+"2025-07-01","BQK","Brunswick, GA","GA",91,90,28,1,0
+"2025-07-01","BRD","Brainerd, MN","MN",53,53,11,0,0
+"2025-07-01","BTM","Butte, MT","MT",31,30,2,0,1
+"2025-07-01","BTR","Baton Rouge, LA","LA",146,145,29,1,0
+"2025-07-01","BTV","Burlington, VT","VT",247,227,45,18,2
+"2025-07-01","BUF","Buffalo, NY","NY",532,498,122,33,1
+"2025-07-01","BUR","Burbank, CA","CA",149,149,38,0,0
+"2025-07-01","BWI","Baltimore, MD","MD",589,576,177,11,2
+"2025-07-01","BZN","Bozeman, MT","MT",366,365,50,1,0
+"2025-07-01","CAE","Columbia, SC","SC",281,272,73,9,0
+"2025-07-01","CDC","Cedar City, UT","UT",53,53,2,0,0
+"2025-07-01","CHA","Chattanooga, TN","TN",331,319,80,11,1
+"2025-07-01","CHO","Charlottesville, VA","VA",174,169,49,5,0
+"2025-07-01","CHS","Charleston, SC","SC",692,668,198,23,1
+"2025-07-01","CID","Cedar Rapids/Iowa City, IA","IA",119,119,46,0,0
+"2025-07-01","CIU","Sault Ste. Marie, MI","MI",62,60,13,0,2
+"2025-07-01","CLE","Cleveland, OH","OH",894,852,229,42,0
+"2025-07-01","CLT","Charlotte, NC","NC",964,914,229,48,2
+"2025-07-01","CMH","Columbus, OH","OH",896,861,234,34,1
+"2025-07-01","COS","Colorado Springs, CO","CO",144,143,34,1,0
+"2025-07-01","CRW","Charleston/Dunbar, WV","WV",116,115,39,0,1
+"2025-07-01","CSG","Columbus, GA","GA",88,88,26,0,0
+"2025-07-01","CVG","Cincinnati, OH","KY",1460,1405,435,51,4
+"2025-07-01","CWA","Mosinee, WI","WI",62,62,16,0,0
+"2025-07-01","DAB","Daytona Beach, FL","FL",146,145,35,1,0
+"2025-07-01","DAL","Dallas, TX","TX",170,165,37,2,3
+"2025-07-01","DAY","Dayton, OH","OH",142,138,44,4,0
+"2025-07-01","DCA","Washington, DC","VA",1719,1546,549,141,32
+"2025-07-01","DEN","Denver, CO","CO",1122,1076,399,26,20
+"2025-07-01","DFW","Dallas/Fort Worth, TX","TX",1054,1020,331,27,7
+"2025-07-01","DHN","Dothan, AL","AL",88,88,25,0,0
+"2025-07-01","DLH","Duluth, MN","MN",119,119,13,0,0
+"2025-07-01","DSM","Des Moines, IA","IA",377,369,96,8,0
+"2025-07-01","DTW","Detroit, MI","MI",9860,9685,2241,126,49
+"2025-07-01","ECP","Panama City, FL","FL",263,261,67,2,0
+"2025-07-01","EKO","Elko, NV","NV",48,48,0,0,0
+"2025-07-01","ELM","Elmira/Corning, NY","NY",84,83,23,1,0
+"2025-07-01","ELP","El Paso, TX","TX",61,60,17,1,0
+"2025-07-01","ESC","Escanaba, MI","MI",53,52,8,0,1
+"2025-07-01","EUG","Eugene, OR","OR",154,154,16,0,0
+"2025-07-01","EVV","Evansville, IN","IN",116,115,31,1,0
+"2025-07-01","EWR","Newark, NJ","NJ",770,706,272,56,8
+"2025-07-01","EYW","Key West, FL","FL",123,123,40,0,0
+"2025-07-01","FAI","Fairbanks, AK","AK",124,123,32,1,0
+"2025-07-01","FAR","Fargo, ND","ND",170,170,39,0,0
+"2025-07-01","FAT","Fresno, CA","CA",154,154,20,0,0
+"2025-07-01","FAY","Fayetteville, NC","NC",115,113,27,1,1
+"2025-07-01","FCA","Kalispell, MT","MT",181,181,28,0,0
+"2025-07-01","FLL","Fort Lauderdale, FL","FL",1001,960,328,30,11
+"2025-07-01","FSD","Sioux Falls, SD","SD",176,175,52,0,1
+"2025-07-01","FWA","Fort Wayne, IN","IN",179,179,66,0,0
+"2025-07-01","GEG","Spokane, WA","WA",628,624,96,3,1
+"2025-07-01","GFK","Grand Forks, ND","ND",91,91,19,0,0
+"2025-07-01","GJT","Grand Junction, CO","CO",54,54,4,0,0
+"2025-07-01","GNV","Gainesville, FL","FL",146,145,35,1,0
+"2025-07-01","GPT","Gulfport/Biloxi, MS","MS",116,116,25,0,0
+"2025-07-01","GRB","Green Bay, WI","WI",210,207,48,3,0
+"2025-07-01","GRR","Grand Rapids, MI","MI",552,537,151,14,1
+"2025-07-01","GSO","Greensboro/High Point, NC","NC",448,428,138,17,3
+"2025-07-01","GSP","Greer, SC","SC",444,422,110,21,1
+"2025-07-01","GTF","Great Falls, MT","MT",123,122,12,0,1
+"2025-07-01","GTR","Columbus, MS","MS",62,62,21,0,0
+"2025-07-01","HHH","Hilton Head, SC","SC",60,59,11,1,0
+"2025-07-01","HIB","Hibbing, MN","MN",52,50,7,1,1
+"2025-07-01","HLN","Helena, MT","MT",62,62,2,0,0
+"2025-07-01","HNL","Honolulu, HI","HI",310,302,51,6,2
+"2025-07-01","HOU","Houston, TX","TX",139,138,38,1,0
+"2025-07-01","HPN","White Plains, NY","NY",228,222,65,5,1
+"2025-07-01","HSV","Huntsville, AL","AL",338,331,95,7,0
+"2025-07-01","IAD","Washington, DC","VA",518,496,149,20,2
+"2025-07-01","IAH","Houston, TX","TX",717,701,215,8,8
+"2025-07-01","ICT","Wichita, KS","KS",168,165,24,1,2
+"2025-07-01","IDA","Idaho Falls, ID","ID",119,119,15,0,0
+"2025-07-01","ILM","Wilmington, NC","NC",227,214,48,13,0
+"2025-07-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,61,11,0,1
+"2025-07-01","IND","Indianapolis, IN","IN",980,943,226,35,2
+"2025-07-01","INL","International Falls, MN","MN",64,64,7,0,0
+"2025-07-01","ITH","Ithaca/Cortland, NY","NY",62,51,8,11,0
+"2025-07-01","JAC","Jackson, WY","WY",162,162,29,0,0
+"2025-07-01","JAN","Jackson/Vicksburg, MS","MS",223,220,53,1,2
+"2025-07-01","JAX","Jacksonville, FL","FL",758,723,251,29,6
+"2025-07-01","JFK","New York, NY","NY",5095,4645,1317,414,36
+"2025-07-01","JNU","Juneau, AK","AK",31,31,8,0,0
+"2025-07-01","KOA","Kona, HI","HI",62,61,10,1,0
+"2025-07-01","LAN","Lansing, MI","MI",85,84,16,1,0
+"2025-07-01","LAS","Las Vegas, NV","NV",1651,1633,379,12,6
+"2025-07-01","LAX","Los Angeles, CA","CA",4380,4347,781,32,1
+"2025-07-01","LEX","Lexington, KY","KY",339,328,99,11,0
+"2025-07-01","LFT","Lafayette, LA","LA",115,114,34,1,0
+"2025-07-01","LGA","New York, NY","NY",7377,6630,1878,683,64
+"2025-07-01","LGB","Long Beach, CA","CA",92,92,11,0,0
+"2025-07-01","LIH","Lihue, HI","HI",62,62,11,0,0
+"2025-07-01","LIT","Little Rock, AR","AR",225,219,55,5,1
+"2025-07-01","LWS","Lewiston, ID","ID",62,62,5,0,0
+"2025-07-01","MAF","Midland/Odessa, TX","TX",85,85,28,0,0
+"2025-07-01","MBS","Saginaw/Bay City/Midland, MI","MI",115,114,34,1,0
+"2025-07-01","MCI","Kansas City, MO","MO",911,890,222,19,2
+"2025-07-01","MCO","Orlando, FL","FL",1837,1773,635,40,24
+"2025-07-01","MDT","Harrisburg, PA","PA",178,174,51,3,1
+"2025-07-01","MDW","Chicago, IL","IL",319,312,89,2,5
+"2025-07-01","MEM","Memphis, TN","TN",709,689,159,20,0
+"2025-07-01","MFE","Mission/McAllen/Edinburg, TX","TX",85,85,25,0,0
+"2025-07-01","MFR","Medford, OR","OR",154,154,15,0,0
+"2025-07-01","MGM","Montgomery, AL","AL",146,146,34,0,0
+"2025-07-01","MIA","Miami, FL","FL",992,948,331,32,12
+"2025-07-01","MKE","Milwaukee, WI","WI",722,700,149,21,1
+"2025-07-01","MLB","Melbourne, FL","FL",122,119,32,3,0
+"2025-07-01","MLI","Moline, IL","IL",62,60,19,2,0
+"2025-07-01","MLU","Monroe, LA","LA",91,89,32,0,2
+"2025-07-01","MOB","Mobile, AL","AL",164,163,44,1,0
+"2025-07-01","MOT","Minot, ND","ND",119,119,15,0,0
+"2025-07-01","MQT","Marquette, MI","MI",62,62,13,0,0
+"2025-07-01","MSN","Madison, WI","WI",433,419,113,14,0
+"2025-07-01","MSO","Missoula, MT","MT",154,153,31,0,1
+"2025-07-01","MSP","Minneapolis, MN","MN",9764,9668,1954,58,38
+"2025-07-01","MSY","New Orleans, LA","LA",673,664,173,9,0
+"2025-07-01","MVY","Martha's Vineyard, MA","MA",93,91,7,2,0
+"2025-07-01","MYR","Myrtle Beach, SC","SC",261,259,83,1,1
+"2025-07-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",115,114,33,0,1
+"2025-07-01","OAK","Oakland, CA","CA",92,92,6,0,0
+"2025-07-01","OGG","Kahului, HI","HI",93,91,14,2,0
+"2025-07-01","OKC","Oklahoma City, OK","OK",271,258,75,11,2
+"2025-07-01","OMA","Omaha, NE","NE",584,564,163,13,7
+"2025-07-01","ONT","Ontario, CA","CA",326,325,51,1,0
+"2025-07-01","ORD","Chicago, IL","IL",1223,1163,404,47,13
+"2025-07-01","ORF","Norfolk, VA","VA",625,586,183,37,2
+"2025-07-01","ORH","Worcester, MA","MA",27,27,5,0,0
+"2025-07-01","PBI","West Palm Beach/Palm Beach, FL","FL",609,580,170,25,4
+"2025-07-01","PDX","Portland, OR","OR",949,943,198,6,0
+"2025-07-01","PHL","Philadelphia, PA","PA",711,691,226,16,4
+"2025-07-01","PHX","Phoenix, AZ","AZ",1033,1022,227,10,1
+"2025-07-01","PIH","Pocatello, ID","ID",36,36,2,0,0
+"2025-07-01","PIT","Pittsburgh, PA","PA",885,850,210,35,0
+"2025-07-01","PLN","Pellston, MI","MI",62,60,11,1,1
+"2025-07-01","PNS","Pensacola, FL","FL",280,277,64,3,0
+"2025-07-01","PSC","Pasco/Kennewick/Richland, WA","WA",245,244,46,0,1
+"2025-07-01","PSP","Palm Springs, CA","CA",92,92,8,0,0
+"2025-07-01","PVD","Providence, RI","RI",213,208,66,5,0
+"2025-07-01","PWM","Portland, ME","ME",370,350,95,20,0
+"2025-07-01","RAP","Rapid City, SD","SD",117,117,27,0,0
+"2025-07-01","RDM","Bend/Redmond, OR","OR",154,154,18,0,0
+"2025-07-01","RDU","Raleigh/Durham, NC","NC",1795,1714,499,74,7
+"2025-07-01","RHI","Rhinelander, WI","WI",62,61,10,1,0
+"2025-07-01","RIC","Richmond, VA","VA",719,670,186,42,7
+"2025-07-01","RNO","Reno, NV","NV",270,268,48,0,2
+"2025-07-01","ROA","Roanoke, VA","VA",146,138,43,8,0
+"2025-07-01","ROC","Rochester, NY","NY",388,357,98,31,0
+"2025-07-01","RST","Rochester, MN","MN",85,84,30,1,0
+"2025-07-01","RSW","Fort Myers, FL","FL",576,568,138,8,0
+"2025-07-01","SAN","San Diego, CA","CA",1057,1046,250,9,2
+"2025-07-01","SAT","San Antonio, TX","TX",609,603,159,5,1
+"2025-07-01","SAV","Savannah, GA","GA",582,553,157,27,2
+"2025-07-01","SBA","Santa Barbara, CA","CA",124,118,16,4,2
+"2025-07-01","SBN","South Bend, IN","IN",181,181,57,0,0
+"2025-07-01","SDF","Louisville, KY","KY",602,592,129,8,2
+"2025-07-01","SEA","Seattle, WA","WA",4695,4653,679,36,6
+"2025-07-01","SFO","San Francisco, CA","CA",1327,1320,356,7,0
+"2025-07-01","SGF","Springfield, MO","MO",114,113,35,1,0
+"2025-07-01","SGU","St. George, UT","UT",134,134,17,0,0
+"2025-07-01","SHV","Shreveport, LA","LA",142,140,52,2,0
+"2025-07-01","SJC","San Jose, CA","CA",678,677,97,1,0
+"2025-07-01","SJU","San Juan, PR","PR",314,312,77,0,2
+"2025-07-01","SLC","Salt Lake City, UT","UT",7484,7449,1071,29,6
+"2025-07-01","SMF","Sacramento, CA","CA",740,738,119,2,0
+"2025-07-01","SNA","Santa Ana, CA","CA",547,543,117,3,1
+"2025-07-01","SRQ","Sarasota/Bradenton, FL","FL",249,245,53,3,1
+"2025-07-01","STL","St. Louis, MO","MO",718,700,174,15,3
+"2025-07-01","STT","Charlotte Amalie, VI","VI",97,97,22,0,0
+"2025-07-01","STX","Christiansted, VI","VI",4,4,2,0,0
+"2025-07-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",93,91,2,0,2
+"2025-07-01","SYR","Syracuse, NY","NY",419,389,111,30,0
+"2025-07-01","TLH","Tallahassee, FL","FL",191,190,66,1,0
+"2025-07-01","TPA","Tampa, FL","FL",1179,1153,431,21,5
+"2025-07-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",142,139,36,1,2
+"2025-07-01","TUL","Tulsa, OK","OK",235,227,54,8,0
+"2025-07-01","TUS","Tucson, AZ","AZ",270,268,38,1,1
+"2025-07-01","TVC","Traverse City, MI","MI",239,237,53,2,0
+"2025-07-01","TWF","Twin Falls, ID","ID",62,62,6,0,0
+"2025-07-01","TYS","Knoxville, TN","TN",481,466,137,15,0
+"2025-07-01","VLD","Valdosta, GA","GA",88,87,28,1,0
+"2025-07-01","VPS","Valparaiso, FL","FL",262,257,53,5,0
+"2025-07-01","WYS","West Yellowstone, MT","MT",36,36,4,0,0
+"2025-07-01","XNA","Fayetteville, AR","AR",362,354,101,7,1
+"2025-07-01","XWA","Williston, ND","ND",62,61,16,0,1
+"2025-08-01","ABE","Allentown/Bethlehem/Easton, PA","PA",92,92,11,0,0
+"2025-08-01","ABQ","Albuquerque, NM","NM",294,293,26,1,0
+"2025-08-01","ABR","Aberdeen, SD","SD",62,61,4,0,1
+"2025-08-01","ABY","Albany, GA","GA",87,86,28,1,0
+"2025-08-01","ACK","Nantucket, MA","MA",93,93,8,0,0
+"2025-08-01","AEX","Alexandria, LA","LA",91,91,12,0,0
+"2025-08-01","AGS","Augusta, GA","GA",222,222,37,0,0
+"2025-08-01","ALB","Albany, NY","NY",263,260,56,3,0
+"2025-08-01","ANC","Anchorage, AK","AK",351,351,55,0,0
+"2025-08-01","APN","Alpena, MI","MI",53,53,3,0,0
+"2025-08-01","ASE","Aspen, CO","CO",62,61,14,0,1
+"2025-08-01","ATL","Atlanta, GA","GA",24119,23780,3409,238,101
+"2025-08-01","ATW","Appleton, WI","WI",213,213,36,0,0
+"2025-08-01","ATY","Watertown, SD","SD",31,30,1,0,1
+"2025-08-01","AUS","Austin, TX","TX",1697,1686,372,8,3
+"2025-08-01","AVL","Asheville, NC","NC",290,288,48,1,1
+"2025-08-01","AZO","Kalamazoo, MI","MI",87,87,21,0,0
+"2025-08-01","BDL","Hartford, CT","CT",389,386,64,3,0
+"2025-08-01","BGM","Binghamton, NY","NY",31,31,2,0,0
+"2025-08-01","BGR","Bangor, ME","ME",134,132,15,1,1
+"2025-08-01","BHM","Birmingham, AL","AL",428,422,68,4,2
+"2025-08-01","BIL","Billings, MT","MT",124,124,16,0,0
+"2025-08-01","BIS","Bismarck/Mandan, ND","ND",149,149,30,0,0
+"2025-08-01","BJI","Bemidji, MN","MN",62,62,6,0,0
+"2025-08-01","BMI","Bloomington/Normal, IL","IL",62,62,13,0,0
+"2025-08-01","BNA","Nashville, TN","TN",1351,1341,185,9,1
+"2025-08-01","BOI","Boise, ID","ID",533,533,75,0,0
+"2025-08-01","BOS","Boston, MA","MA",4316,4271,682,37,8
+"2025-08-01","BQK","Brunswick, GA","GA",93,93,16,0,0
+"2025-08-01","BRD","Brainerd, MN","MN",53,53,6,0,0
+"2025-08-01","BTM","Butte, MT","MT",31,31,0,0,0
+"2025-08-01","BTR","Baton Rouge, LA","LA",146,146,27,0,0
+"2025-08-01","BTV","Burlington, VT","VT",248,246,45,2,0
+"2025-08-01","BUF","Buffalo, NY","NY",523,514,78,7,2
+"2025-08-01","BUR","Burbank, CA","CA",154,154,26,0,0
+"2025-08-01","BWI","Baltimore, MD","MD",580,574,104,4,2
+"2025-08-01","BZN","Bozeman, MT","MT",355,350,51,0,5
+"2025-08-01","CAE","Columbia, SC","SC",277,273,51,3,1
+"2025-08-01","CDC","Cedar City, UT","UT",52,52,4,0,0
+"2025-08-01","CHA","Chattanooga, TN","TN",337,336,46,1,0
+"2025-08-01","CHO","Charlottesville, VA","VA",169,166,29,1,2
+"2025-08-01","CHS","Charleston, SC","SC",648,638,108,7,3
+"2025-08-01","CID","Cedar Rapids/Iowa City, IA","IA",124,124,20,0,0
+"2025-08-01","CIU","Sault Ste. Marie, MI","MI",62,62,8,0,0
+"2025-08-01","CLE","Cleveland, OH","OH",885,874,143,11,0
+"2025-08-01","CLT","Charlotte, NC","NC",932,922,133,9,1
+"2025-08-01","CMH","Columbus, OH","OH",900,892,158,8,0
+"2025-08-01","COS","Colorado Springs, CO","CO",147,146,26,0,1
+"2025-08-01","CRW","Charleston/Dunbar, WV","WV",113,113,27,0,0
+"2025-08-01","CSG","Columbus, GA","GA",10,10,2,0,0
+"2025-08-01","CVG","Cincinnati, OH","KY",1412,1402,242,7,3
+"2025-08-01","CWA","Mosinee, WI","WI",62,62,8,0,0
+"2025-08-01","DAB","Daytona Beach, FL","FL",130,125,14,2,3
+"2025-08-01","DAL","Dallas, TX","TX",169,164,21,2,3
+"2025-08-01","DAY","Dayton, OH","OH",138,137,22,1,0
+"2025-08-01","DCA","Washington, DC","VA",1708,1678,343,24,6
+"2025-08-01","DEN","Denver, CO","CO",1057,1038,257,8,11
+"2025-08-01","DFW","Dallas/Fort Worth, TX","TX",1050,1022,241,12,16
+"2025-08-01","DHN","Dothan, AL","AL",87,87,15,0,0
+"2025-08-01","DLH","Duluth, MN","MN",120,120,20,0,0
+"2025-08-01","DSM","Des Moines, IA","IA",377,375,48,1,1
+"2025-08-01","DTW","Detroit, MI","MI",9559,9519,1435,34,6
+"2025-08-01","ECP","Panama City, FL","FL",247,245,42,0,2
+"2025-08-01","EKO","Elko, NV","NV",48,48,2,0,0
+"2025-08-01","ELM","Elmira/Corning, NY","NY",82,82,17,0,0
+"2025-08-01","ELP","El Paso, TX","TX",60,59,11,1,0
+"2025-08-01","ESC","Escanaba, MI","MI",52,52,3,0,0
+"2025-08-01","EUG","Eugene, OR","OR",153,153,8,0,0
+"2025-08-01","EVV","Evansville, IN","IN",113,113,26,0,0
+"2025-08-01","EWR","Newark, NJ","NJ",772,762,228,6,4
+"2025-08-01","EYW","Key West, FL","FL",124,123,24,0,1
+"2025-08-01","FAI","Fairbanks, AK","AK",124,124,25,0,0
+"2025-08-01","FAR","Fargo, ND","ND",173,173,34,0,0
+"2025-08-01","FAT","Fresno, CA","CA",145,145,9,0,0
+"2025-08-01","FAY","Fayetteville, NC","NC",112,112,21,0,0
+"2025-08-01","FCA","Kalispell, MT","MT",163,163,14,0,0
+"2025-08-01","FLL","Fort Lauderdale, FL","FL",940,926,197,6,8
+"2025-08-01","FSD","Sioux Falls, SD","SD",180,180,40,0,0
+"2025-08-01","FWA","Fort Wayne, IN","IN",180,180,42,0,0
+"2025-08-01","GEG","Spokane, WA","WA",589,586,76,3,0
+"2025-08-01","GFK","Grand Forks, ND","ND",93,93,11,0,0
+"2025-08-01","GJT","Grand Junction, CO","CO",52,52,5,0,0
+"2025-08-01","GNV","Gainesville, FL","FL",144,142,30,1,1
+"2025-08-01","GPT","Gulfport/Biloxi, MS","MS",113,112,14,0,1
+"2025-08-01","GRB","Green Bay, WI","WI",213,213,41,0,0
+"2025-08-01","GRR","Grand Rapids, MI","MI",525,522,89,3,0
+"2025-08-01","GSO","Greensboro/High Point, NC","NC",433,429,69,3,1
+"2025-08-01","GSP","Greer, SC","SC",450,447,81,3,0
+"2025-08-01","GTF","Great Falls, MT","MT",122,121,12,0,1
+"2025-08-01","GTR","Columbus, MS","MS",62,61,12,1,0
+"2025-08-01","HHH","Hilton Head, SC","SC",62,61,6,0,1
+"2025-08-01","HIB","Hibbing, MN","MN",54,54,11,0,0
+"2025-08-01","HLN","Helena, MT","MT",62,62,1,0,0
+"2025-08-01","HNL","Honolulu, HI","HI",310,309,48,1,0
+"2025-08-01","HOU","Houston, TX","TX",130,130,27,0,0
+"2025-08-01","HPN","White Plains, NY","NY",236,236,38,0,0
+"2025-08-01","HSV","Huntsville, AL","AL",314,312,60,1,1
+"2025-08-01","IAD","Washington, DC","VA",508,504,105,3,1
+"2025-08-01","IAH","Houston, TX","TX",695,690,133,3,2
+"2025-08-01","ICT","Wichita, KS","KS",172,172,18,0,0
+"2025-08-01","IDA","Idaho Falls, ID","ID",122,122,16,0,0
+"2025-08-01","ILM","Wilmington, NC","NC",223,221,34,2,0
+"2025-08-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,62,8,0,0
+"2025-08-01","IND","Indianapolis, IN","IN",994,985,129,9,0
+"2025-08-01","INL","International Falls, MN","MN",67,67,9,0,0
+"2025-08-01","ITH","Ithaca/Cortland, NY","NY",62,61,12,1,0
+"2025-08-01","JAC","Jackson, WY","WY",147,147,19,0,0
+"2025-08-01","JAN","Jackson/Vicksburg, MS","MS",220,220,28,0,0
+"2025-08-01","JAX","Jacksonville, FL","FL",723,712,151,8,3
+"2025-08-01","JFK","New York, NY","NY",5072,5004,798,61,7
+"2025-08-01","JNU","Juneau, AK","AK",31,31,8,0,0
+"2025-08-01","KOA","Kona, HI","HI",62,62,6,0,0
+"2025-08-01","LAN","Lansing, MI","MI",87,87,16,0,0
+"2025-08-01","LAS","Las Vegas, NV","NV",1534,1528,245,6,0
+"2025-08-01","LAX","Los Angeles, CA","CA",4221,4193,517,21,7
+"2025-08-01","LEX","Lexington, KY","KY",343,342,56,0,1
+"2025-08-01","LFT","Lafayette, LA","LA",113,113,26,0,0
+"2025-08-01","LGA","New York, NY","NY",7218,7093,1094,109,16
+"2025-08-01","LGB","Long Beach, CA","CA",93,92,5,0,1
+"2025-08-01","LIH","Lihue, HI","HI",62,62,9,0,0
+"2025-08-01","LIT","Little Rock, AR","AR",226,225,27,1,0
+"2025-08-01","LWS","Lewiston, ID","ID",61,61,7,0,0
+"2025-08-01","MAF","Midland/Odessa, TX","TX",87,87,22,0,0
+"2025-08-01","MBS","Saginaw/Bay City/Midland, MI","MI",118,118,25,0,0
+"2025-08-01","MCI","Kansas City, MO","MO",902,894,162,6,2
+"2025-08-01","MCO","Orlando, FL","FL",1734,1698,457,17,19
+"2025-08-01","MDT","Harrisburg, PA","PA",178,177,32,1,0
+"2025-08-01","MDW","Chicago, IL","IL",305,301,70,3,1
+"2025-08-01","MEM","Memphis, TN","TN",692,684,112,7,1
+"2025-08-01","MFE","Mission/McAllen/Edinburg, TX","TX",87,87,13,0,0
+"2025-08-01","MFR","Medford, OR","OR",153,153,8,0,0
+"2025-08-01","MGM","Montgomery, AL","AL",144,144,33,0,0
+"2025-08-01","MIA","Miami, FL","FL",938,923,247,10,5
+"2025-08-01","MKE","Milwaukee, WI","WI",713,703,137,6,4
+"2025-08-01","MLB","Melbourne, FL","FL",122,122,21,0,0
+"2025-08-01","MLI","Moline, IL","IL",62,61,15,0,1
+"2025-08-01","MLU","Monroe, LA","LA",93,93,22,0,0
+"2025-08-01","MOB","Mobile, AL","AL",147,147,34,0,0
+"2025-08-01","MOT","Minot, ND","ND",118,117,14,0,1
+"2025-08-01","MQT","Marquette, MI","MI",62,62,9,0,0
+"2025-08-01","MSN","Madison, WI","WI",425,423,85,1,1
+"2025-08-01","MSO","Missoula, MT","MT",153,153,14,0,0
+"2025-08-01","MSP","Minneapolis, MN","MN",9544,9508,1662,21,15
+"2025-08-01","MSY","New Orleans, LA","LA",644,636,113,7,1
+"2025-08-01","MVY","Martha's Vineyard, MA","MA",93,93,4,0,0
+"2025-08-01","MYR","Myrtle Beach, SC","SC",208,207,41,0,1
+"2025-08-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",109,109,18,0,0
+"2025-08-01","OAK","Oakland, CA","CA",93,93,5,0,0
+"2025-08-01","OGG","Kahului, HI","HI",72,72,8,0,0
+"2025-08-01","OKC","Oklahoma City, OK","OK",268,266,50,1,1
+"2025-08-01","OMA","Omaha, NE","NE",571,570,117,1,0
+"2025-08-01","ONT","Ontario, CA","CA",303,301,37,2,0
+"2025-08-01","ORD","Chicago, IL","IL",1210,1182,251,14,14
+"2025-08-01","ORF","Norfolk, VA","VA",606,598,109,7,1
+"2025-08-01","ORH","Worcester, MA","MA",26,26,2,0,0
+"2025-08-01","PBI","West Palm Beach/Palm Beach, FL","FL",554,544,123,10,0
+"2025-08-01","PDX","Portland, OR","OR",908,902,113,4,2
+"2025-08-01","PHL","Philadelphia, PA","PA",678,668,137,8,2
+"2025-08-01","PHX","Phoenix, AZ","AZ",988,980,150,1,7
+"2025-08-01","PIH","Pocatello, ID","ID",31,31,2,0,0
+"2025-08-01","PIT","Pittsburgh, PA","PA",874,860,131,13,1
+"2025-08-01","PLN","Pellston, MI","MI",62,61,7,0,1
+"2025-08-01","PNS","Pensacola, FL","FL",265,261,35,4,0
+"2025-08-01","PSC","Pasco/Kennewick/Richland, WA","WA",242,242,22,0,0
+"2025-08-01","PSP","Palm Springs, CA","CA",91,91,8,0,0
+"2025-08-01","PVD","Providence, RI","RI",215,214,46,1,0
+"2025-08-01","PWM","Portland, ME","ME",349,348,51,1,0
+"2025-08-01","RAP","Rapid City, SD","SD",120,120,14,0,0
+"2025-08-01","RDM","Bend/Redmond, OR","OR",153,153,10,0,0
+"2025-08-01","RDU","Raleigh/Durham, NC","NC",1770,1748,320,17,5
+"2025-08-01","RHI","Rhinelander, WI","WI",62,61,5,0,1
+"2025-08-01","RIC","Richmond, VA","VA",692,680,116,6,6
+"2025-08-01","RNO","Reno, NV","NV",262,262,31,0,0
+"2025-08-01","ROA","Roanoke, VA","VA",148,145,26,0,3
+"2025-08-01","ROC","Rochester, NY","NY",382,377,65,5,0
+"2025-08-01","RST","Rochester, MN","MN",87,87,21,0,0
+"2025-08-01","RSW","Fort Myers, FL","FL",509,502,89,7,0
+"2025-08-01","SAN","San Diego, CA","CA",1013,1009,175,2,2
+"2025-08-01","SAT","San Antonio, TX","TX",603,600,100,3,0
+"2025-08-01","SAV","Savannah, GA","GA",552,544,71,7,1
+"2025-08-01","SBA","Santa Barbara, CA","CA",122,122,17,0,0
+"2025-08-01","SBN","South Bend, IN","IN",180,179,44,1,0
+"2025-08-01","SDF","Louisville, KY","KY",577,570,87,2,5
+"2025-08-01","SEA","Seattle, WA","WA",4559,4549,655,10,0
+"2025-08-01","SFO","San Francisco, CA","CA",1297,1292,266,3,2
+"2025-08-01","SGF","Springfield, MO","MO",113,113,30,0,0
+"2025-08-01","SGU","St. George, UT","UT",132,132,7,0,0
+"2025-08-01","SHV","Shreveport, LA","LA",144,143,32,0,1
+"2025-08-01","SJC","San Jose, CA","CA",670,668,84,2,0
+"2025-08-01","SJU","San Juan, PR","PR",259,255,53,3,1
+"2025-08-01","SLC","Salt Lake City, UT","UT",7281,7261,835,13,7
+"2025-08-01","SMF","Sacramento, CA","CA",702,702,101,0,0
+"2025-08-01","SNA","Santa Ana, CA","CA",526,523,104,0,3
+"2025-08-01","SRQ","Sarasota/Bradenton, FL","FL",220,217,42,3,0
+"2025-08-01","STL","St. Louis, MO","MO",705,697,106,5,3
+"2025-08-01","STT","Charlotte Amalie, VI","VI",46,43,14,3,0
+"2025-08-01","STX","Christiansted, VI","VI",5,5,3,0,0
+"2025-08-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",93,92,5,0,1
+"2025-08-01","SYR","Syracuse, NY","NY",414,409,65,5,0
+"2025-08-01","TLH","Tallahassee, FL","FL",193,191,44,0,2
+"2025-08-01","TPA","Tampa, FL","FL",1083,1070,224,5,8
+"2025-08-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",144,144,25,0,0
+"2025-08-01","TUL","Tulsa, OK","OK",230,228,27,1,1
+"2025-08-01","TUS","Tucson, AZ","AZ",268,265,37,1,2
+"2025-08-01","TVC","Traverse City, MI","MI",235,235,39,0,0
+"2025-08-01","TWF","Twin Falls, ID","ID",56,56,1,0,0
+"2025-08-01","TYS","Knoxville, TN","TN",461,459,90,1,1
+"2025-08-01","VLD","Valdosta, GA","GA",87,85,21,0,2
+"2025-08-01","VPS","Valparaiso, FL","FL",240,239,44,1,0
+"2025-08-01","WYS","West Yellowstone, MT","MT",36,36,3,0,0
+"2025-08-01","XNA","Fayetteville, AR","AR",369,368,62,0,1
+"2025-08-01","XWA","Williston, ND","ND",88,87,12,0,1
+"2025-09-01","ABE","Allentown/Bethlehem/Easton, PA","PA",85,85,7,0,0
+"2025-09-01","ABQ","Albuquerque, NM","NM",274,274,23,0,0
+"2025-09-01","ABR","Aberdeen, SD","SD",60,60,3,0,0
+"2025-09-01","ABY","Albany, GA","GA",86,86,13,0,0
+"2025-09-01","ACK","Nantucket, MA","MA",21,21,4,0,0
+"2025-09-01","AEX","Alexandria, LA","LA",90,89,8,0,1
+"2025-09-01","AGS","Augusta, GA","GA",209,209,28,0,0
+"2025-09-01","ALB","Albany, NY","NY",245,245,32,0,0
+"2025-09-01","ANC","Anchorage, AK","AK",241,241,31,0,0
+"2025-09-01","APN","Alpena, MI","MI",53,53,1,0,0
+"2025-09-01","ASE","Aspen, CO","CO",60,59,8,0,1
+"2025-09-01","ATL","Atlanta, GA","GA",22665,22652,1893,7,6
+"2025-09-01","ATW","Appleton, WI","WI",210,209,24,0,1
+"2025-09-01","ATY","Watertown, SD","SD",30,30,0,0,0
+"2025-09-01","AUS","Austin, TX","TX",1638,1634,201,2,2
+"2025-09-01","AVL","Asheville, NC","NC",278,278,39,0,0
+"2025-09-01","AZO","Kalamazoo, MI","MI",86,86,8,0,0
+"2025-09-01","BDL","Hartford, CT","CT",372,369,38,0,3
+"2025-09-01","BGM","Binghamton, NY","NY",30,30,4,0,0
+"2025-09-01","BGR","Bangor, ME","ME",124,119,13,2,3
+"2025-09-01","BHM","Birmingham, AL","AL",422,421,44,1,0
+"2025-09-01","BIL","Billings, MT","MT",120,120,7,0,0
+"2025-09-01","BIS","Bismarck/Mandan, ND","ND",146,146,19,0,0
+"2025-09-01","BJI","Bemidji, MN","MN",60,60,5,0,0
+"2025-09-01","BMI","Bloomington/Normal, IL","IL",60,60,4,0,0
+"2025-09-01","BNA","Nashville, TN","TN",1255,1247,174,3,5
+"2025-09-01","BOI","Boise, ID","ID",501,501,49,0,0
+"2025-09-01","BOS","Boston, MA","MA",4210,4129,1409,76,5
+"2025-09-01","BQK","Brunswick, GA","GA",90,89,9,0,1
+"2025-09-01","BRD","Brainerd, MN","MN",53,53,7,0,0
+"2025-09-01","BTM","Butte, MT","MT",30,30,2,0,0
+"2025-09-01","BTR","Baton Rouge, LA","LA",137,137,17,0,0
+"2025-09-01","BTV","Burlington, VT","VT",232,226,31,2,4
+"2025-09-01","BUF","Buffalo, NY","NY",483,478,44,5,0
+"2025-09-01","BUR","Burbank, CA","CA",143,143,18,0,0
+"2025-09-01","BWI","Baltimore, MD","MD",555,550,66,4,1
+"2025-09-01","BZN","Bozeman, MT","MT",282,282,19,0,0
+"2025-09-01","CAE","Columbia, SC","SC",265,264,33,0,1
+"2025-09-01","CDC","Cedar City, UT","UT",53,53,2,0,0
+"2025-09-01","CHA","Chattanooga, TN","TN",341,341,38,0,0
+"2025-09-01","CHO","Charlottesville, VA","VA",163,160,22,2,1
+"2025-09-01","CHS","Charleston, SC","SC",605,603,74,2,0
+"2025-09-01","CID","Cedar Rapids/Iowa City, IA","IA",120,120,18,0,0
+"2025-09-01","CIU","Sault Ste. Marie, MI","MI",60,60,12,0,0
+"2025-09-01","CLE","Cleveland, OH","OH",845,839,100,5,1
+"2025-09-01","CLT","Charlotte, NC","NC",866,857,116,9,0
+"2025-09-01","CMH","Columbus, OH","OH",858,853,122,4,1
+"2025-09-01","COS","Colorado Springs, CO","CO",116,116,6,0,0
+"2025-09-01","CRW","Charleston/Dunbar, WV","WV",107,107,14,0,0
+"2025-09-01","CVG","Cincinnati, OH","KY",1344,1335,145,9,0
+"2025-09-01","CWA","Mosinee, WI","WI",60,60,9,0,0
+"2025-09-01","DAB","Daytona Beach, FL","FL",120,120,3,0,0
+"2025-09-01","DAL","Dallas, TX","TX",162,161,20,0,1
+"2025-09-01","DAY","Dayton, OH","OH",132,131,13,1,0
+"2025-09-01","DCA","Washington, DC","VA",1661,1639,300,14,8
+"2025-09-01","DEN","Denver, CO","CO",991,986,166,0,5
+"2025-09-01","DFW","Dallas/Fort Worth, TX","TX",1024,1012,200,6,6
+"2025-09-01","DHN","Dothan, AL","AL",86,86,10,0,0
+"2025-09-01","DLH","Duluth, MN","MN",120,120,17,0,0
+"2025-09-01","DSM","Des Moines, IA","IA",364,363,43,1,0
+"2025-09-01","DTW","Detroit, MI","MI",8909,8900,855,3,6
+"2025-09-01","ECP","Panama City, FL","FL",224,223,27,0,1
+"2025-09-01","EKO","Elko, NV","NV",46,46,1,0,0
+"2025-09-01","ELM","Elmira/Corning, NY","NY",77,77,7,0,0
+"2025-09-01","ELP","El Paso, TX","TX",60,59,11,0,1
+"2025-09-01","ESC","Escanaba, MI","MI",53,53,4,0,0
+"2025-09-01","EUG","Eugene, OR","OR",150,150,9,0,0
+"2025-09-01","EVV","Evansville, IN","IN",107,107,12,0,0
+"2025-09-01","EWR","Newark, NJ","NJ",747,740,144,5,2
+"2025-09-01","EYW","Key West, FL","FL",120,119,6,0,1
+"2025-09-01","FAI","Fairbanks, AK","AK",74,74,8,0,0
+"2025-09-01","FAR","Fargo, ND","ND",167,166,19,0,1
+"2025-09-01","FAT","Fresno, CA","CA",115,115,7,0,0
+"2025-09-01","FAY","Fayetteville, NC","NC",102,102,11,0,0
+"2025-09-01","FCA","Kalispell, MT","MT",138,138,9,0,0
+"2025-09-01","FLL","Fort Lauderdale, FL","FL",865,855,147,3,7
+"2025-09-01","FSD","Sioux Falls, SD","SD",176,176,42,0,0
+"2025-09-01","FWA","Fort Wayne, IN","IN",172,172,18,0,0
+"2025-09-01","GEG","Spokane, WA","WA",553,553,61,0,0
+"2025-09-01","GFK","Grand Forks, ND","ND",90,90,21,0,0
+"2025-09-01","GJT","Grand Junction, CO","CO",53,53,2,0,0
+"2025-09-01","GNV","Gainesville, FL","FL",137,137,9,0,0
+"2025-09-01","GPT","Gulfport/Biloxi, MS","MS",107,107,13,0,0
+"2025-09-01","GRB","Green Bay, WI","WI",212,212,27,0,0
+"2025-09-01","GRR","Grand Rapids, MI","MI",501,501,62,0,0
+"2025-09-01","GSO","Greensboro/High Point, NC","NC",411,409,34,2,0
+"2025-09-01","GSP","Greer, SC","SC",427,425,53,1,1
+"2025-09-01","GTF","Great Falls, MT","MT",96,96,6,0,0
+"2025-09-01","GTR","Columbus, MS","MS",60,59,9,0,1
+"2025-09-01","HHH","Hilton Head, SC","SC",60,60,5,0,0
+"2025-09-01","HIB","Hibbing, MN","MN",51,51,9,0,0
+"2025-09-01","HLN","Helena, MT","MT",60,60,1,0,0
+"2025-09-01","HNL","Honolulu, HI","HI",277,274,46,3,0
+"2025-09-01","HOU","Houston, TX","TX",122,122,14,0,0
+"2025-09-01","HPN","White Plains, NY","NY",232,230,29,0,2
+"2025-09-01","HSV","Huntsville, AL","AL",285,283,30,1,1
+"2025-09-01","IAD","Washington, DC","VA",483,483,76,0,0
+"2025-09-01","IAH","Houston, TX","TX",686,686,85,0,0
+"2025-09-01","ICT","Wichita, KS","KS",168,166,16,0,2
+"2025-09-01","IDA","Idaho Falls, ID","ID",97,97,9,0,0
+"2025-09-01","ILM","Wilmington, NC","NC",214,212,24,2,0
+"2025-09-01","IMT","Iron Mountain/Kingsfd, MI","MI",60,60,10,0,0
+"2025-09-01","IND","Indianapolis, IN","IN",962,957,99,4,1
+"2025-09-01","INL","International Falls, MN","MN",56,56,5,0,0
+"2025-09-01","ITH","Ithaca/Cortland, NY","NY",60,58,7,1,1
+"2025-09-01","JAC","Jackson, WY","WY",133,133,12,0,0
+"2025-09-01","JAN","Jackson/Vicksburg, MS","MS",209,209,25,0,0
+"2025-09-01","JAX","Jacksonville, FL","FL",689,684,112,4,1
+"2025-09-01","JFK","New York, NY","NY",4856,4801,586,39,16
+"2025-09-01","JNU","Juneau, AK","AK",30,30,3,0,0
+"2025-09-01","KOA","Kona, HI","HI",60,60,7,0,0
+"2025-09-01","LAN","Lansing, MI","MI",86,86,10,0,0
+"2025-09-01","LAS","Las Vegas, NV","NV",1459,1457,247,1,1
+"2025-09-01","LAX","Los Angeles, CA","CA",3999,3987,473,8,4
+"2025-09-01","LEX","Lexington, KY","KY",334,334,39,0,0
+"2025-09-01","LFT","Lafayette, LA","LA",102,102,12,0,0
+"2025-09-01","LGA","New York, NY","NY",7048,6942,928,69,37
+"2025-09-01","LGB","Long Beach, CA","CA",90,90,1,0,0
+"2025-09-01","LIH","Lihue, HI","HI",60,60,6,0,0
+"2025-09-01","LIT","Little Rock, AR","AR",241,241,20,0,0
+"2025-09-01","LWS","Lewiston, ID","ID",60,60,1,0,0
+"2025-09-01","MAF","Midland/Odessa, TX","TX",84,84,10,0,0
+"2025-09-01","MBS","Saginaw/Bay City/Midland, MI","MI",116,116,13,0,0
+"2025-09-01","MCI","Kansas City, MO","MO",863,857,113,1,5
+"2025-09-01","MCO","Orlando, FL","FL",1615,1615,261,0,0
+"2025-09-01","MDT","Harrisburg, PA","PA",168,168,18,0,0
+"2025-09-01","MDW","Chicago, IL","IL",287,287,32,0,0
+"2025-09-01","MEM","Memphis, TN","TN",678,673,102,2,3
+"2025-09-01","MFE","Mission/McAllen/Edinburg, TX","TX",86,86,7,0,0
+"2025-09-01","MFR","Medford, OR","OR",150,150,5,0,0
+"2025-09-01","MGM","Montgomery, AL","AL",137,137,18,0,0
+"2025-09-01","MIA","Miami, FL","FL",875,866,174,0,9
+"2025-09-01","MKE","Milwaukee, WI","WI",690,688,90,2,0
+"2025-09-01","MLB","Melbourne, FL","FL",120,120,16,0,0
+"2025-09-01","MLI","Moline, IL","IL",60,60,10,0,0
+"2025-09-01","MLU","Monroe, LA","LA",90,90,11,0,0
+"2025-09-01","MOB","Mobile, AL","AL",137,136,17,0,1
+"2025-09-01","MOT","Minot, ND","ND",116,116,15,0,0
+"2025-09-01","MQT","Marquette, MI","MI",60,59,10,0,1
+"2025-09-01","MSN","Madison, WI","WI",408,406,50,2,0
+"2025-09-01","MSO","Missoula, MT","MT",113,113,11,0,0
+"2025-09-01","MSP","Minneapolis, MN","MN",8820,8802,1251,5,13
+"2025-09-01","MSY","New Orleans, LA","LA",627,626,73,1,0
+"2025-09-01","MVY","Martha's Vineyard, MA","MA",21,20,1,0,0
+"2025-09-01","MYR","Myrtle Beach, SC","SC",186,186,20,0,0
+"2025-09-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",102,102,7,0,0
+"2025-09-01","OAK","Oakland, CA","CA",90,90,3,0,0
+"2025-09-01","OGG","Kahului, HI","HI",60,60,11,0,0
+"2025-09-01","OKC","Oklahoma City, OK","OK",265,264,31,1,0
+"2025-09-01","OMA","Omaha, NE","NE",552,550,65,2,0
+"2025-09-01","ONT","Ontario, CA","CA",277,277,29,0,0
+"2025-09-01","ORD","Chicago, IL","IL",1168,1165,230,3,0
+"2025-09-01","ORF","Norfolk, VA","VA",579,574,95,3,2
+"2025-09-01","ORH","Worcester, MA","MA",26,26,3,0,0
+"2025-09-01","PBI","West Palm Beach/Palm Beach, FL","FL",508,506,90,1,1
+"2025-09-01","PDX","Portland, OR","OR",845,845,73,0,0
+"2025-09-01","PHL","Philadelphia, PA","PA",631,629,103,2,0
+"2025-09-01","PHX","Phoenix, AZ","AZ",963,951,136,1,11
+"2025-09-01","PIH","Pocatello, ID","ID",30,30,2,0,0
+"2025-09-01","PIT","Pittsburgh, PA","PA",838,829,125,9,0
+"2025-09-01","PLN","Pellston, MI","MI",60,60,7,0,0
+"2025-09-01","PNS","Pensacola, FL","FL",261,261,25,0,0
+"2025-09-01","PSC","Pasco/Kennewick/Richland, WA","WA",212,212,13,0,0
+"2025-09-01","PSP","Palm Springs, CA","CA",85,85,3,0,0
+"2025-09-01","PVD","Providence, RI","RI",171,171,21,0,0
+"2025-09-01","PWM","Portland, ME","ME",324,320,35,4,0
+"2025-09-01","RAP","Rapid City, SD","SD",109,109,12,0,0
+"2025-09-01","RDM","Bend/Redmond, OR","OR",150,150,6,0,0
+"2025-09-01","RDU","Raleigh/Durham, NC","NC",1671,1663,223,8,0
+"2025-09-01","RHI","Rhinelander, WI","WI",60,60,3,0,0
+"2025-09-01","RIC","Richmond, VA","VA",657,650,114,7,0
+"2025-09-01","RNO","Reno, NV","NV",225,225,13,0,0
+"2025-09-01","ROA","Roanoke, VA","VA",146,143,20,0,3
+"2025-09-01","ROC","Rochester, NY","NY",361,359,46,2,0
+"2025-09-01","RST","Rochester, MN","MN",86,86,7,0,0
+"2025-09-01","RSW","Fort Myers, FL","FL",458,457,51,1,0
+"2025-09-01","SAN","San Diego, CA","CA",953,934,165,8,11
+"2025-09-01","SAT","San Antonio, TX","TX",568,566,90,1,1
+"2025-09-01","SAV","Savannah, GA","GA",520,518,51,2,0
+"2025-09-01","SBA","Santa Barbara, CA","CA",115,113,23,0,2
+"2025-09-01","SBN","South Bend, IN","IN",176,176,27,0,0
+"2025-09-01","SDF","Louisville, KY","KY",561,560,45,1,0
+"2025-09-01","SEA","Seattle, WA","WA",4287,4279,461,3,5
+"2025-09-01","SFO","San Francisco, CA","CA",1224,1223,234,0,1
+"2025-09-01","SGF","Springfield, MO","MO",107,107,20,0,0
+"2025-09-01","SGU","St. George, UT","UT",146,145,6,0,1
+"2025-09-01","SHV","Shreveport, LA","LA",137,137,12,0,0
+"2025-09-01","SJC","San Jose, CA","CA",613,613,58,0,0
+"2025-09-01","SJU","San Juan, PR","PR",237,237,53,0,0
+"2025-09-01","SLC","Salt Lake City, UT","UT",6830,6823,588,6,1
+"2025-09-01","SMF","Sacramento, CA","CA",663,662,55,0,1
+"2025-09-01","SNA","Santa Ana, CA","CA",504,502,102,1,1
+"2025-09-01","SRQ","Sarasota/Bradenton, FL","FL",194,194,18,0,0
+"2025-09-01","STL","St. Louis, MO","MO",684,682,72,1,1
+"2025-09-01","STT","Charlotte Amalie, VI","VI",34,34,5,0,0
+"2025-09-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",90,90,2,0,0
+"2025-09-01","SYR","Syracuse, NY","NY",391,388,58,2,1
+"2025-09-01","TLH","Tallahassee, FL","FL",179,179,19,0,0
+"2025-09-01","TPA","Tampa, FL","FL",977,974,149,1,2
+"2025-09-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",137,136,17,0,1
+"2025-09-01","TUL","Tulsa, OK","OK",200,199,24,1,0
+"2025-09-01","TUS","Tucson, AZ","AZ",257,257,30,0,0
+"2025-09-01","TVC","Traverse City, MI","MI",147,147,18,0,0
+"2025-09-01","TWF","Twin Falls, ID","ID",60,60,0,0,0
+"2025-09-01","TYS","Knoxville, TN","TN",428,426,67,0,2
+"2025-09-01","VLD","Valdosta, GA","GA",86,86,16,0,0
+"2025-09-01","VPS","Valparaiso, FL","FL",202,202,11,0,0
+"2025-09-01","WYS","West Yellowstone, MT","MT",31,31,2,0,0
+"2025-09-01","XNA","Fayetteville, AR","AR",350,347,60,0,3
+"2025-09-01","XWA","Williston, ND","ND",86,86,7,0,0
+"2025-10-01","ABE","Allentown/Bethlehem/Easton, PA","PA",92,92,16,0,0
+"2025-10-01","ABQ","Albuquerque, NM","NM",309,309,24,0,0
+"2025-10-01","ABR","Aberdeen, SD","SD",77,77,4,0,0
+"2025-10-01","ABY","Albany, GA","GA",88,88,12,0,0
+"2025-10-01","AEX","Alexandria, LA","LA",92,92,13,0,0
+"2025-10-01","AGS","Augusta, GA","GA",224,224,29,0,0
+"2025-10-01","ALB","Albany, NY","NY",262,259,50,2,1
+"2025-10-01","ANC","Anchorage, AK","AK",220,219,36,1,0
+"2025-10-01","APN","Alpena, MI","MI",53,53,5,0,0
+"2025-10-01","ASE","Aspen, CO","CO",62,60,15,0,2
+"2025-10-01","ATL","Atlanta, GA","GA",24142,24071,2841,34,37
+"2025-10-01","ATW","Appleton, WI","WI",217,217,22,0,0
+"2025-10-01","ATY","Watertown, SD","SD",31,31,2,0,0
+"2025-10-01","AUS","Austin, TX","TX",1708,1697,282,6,5
+"2025-10-01","AVL","Asheville, NC","NC",294,292,37,2,0
+"2025-10-01","AZO","Kalamazoo, MI","MI",88,87,4,0,1
+"2025-10-01","BDL","Hartford, CT","CT",394,393,49,0,1
+"2025-10-01","BGM","Binghamton, NY","NY",31,31,2,0,0
+"2025-10-01","BGR","Bangor, ME","ME",128,125,25,3,0
+"2025-10-01","BHM","Birmingham, AL","AL",463,460,68,3,0
+"2025-10-01","BIL","Billings, MT","MT",123,123,10,0,0
+"2025-10-01","BIS","Bismarck/Mandan, ND","ND",150,150,6,0,0
+"2025-10-01","BJI","Bemidji, MN","MN",62,62,4,0,0
+"2025-10-01","BMI","Bloomington/Normal, IL","IL",62,62,5,0,0
+"2025-10-01","BNA","Nashville, TN","TN",1320,1308,264,9,3
+"2025-10-01","BOI","Boise, ID","ID",522,521,46,1,0
+"2025-10-01","BOS","Boston, MA","MA",4449,4365,1519,78,6
+"2025-10-01","BQK","Brunswick, GA","GA",92,92,9,0,0
+"2025-10-01","BRD","Brainerd, MN","MN",53,53,5,0,0
+"2025-10-01","BTM","Butte, MT","MT",31,31,1,0,0
+"2025-10-01","BTR","Baton Rouge, LA","LA",148,147,20,0,1
+"2025-10-01","BTV","Burlington, VT","VT",239,230,48,6,3
+"2025-10-01","BUF","Buffalo, NY","NY",506,499,82,7,0
+"2025-10-01","BUR","Burbank, CA","CA",152,151,33,0,1
+"2025-10-01","BWI","Baltimore, MD","MD",590,589,103,1,0
+"2025-10-01","BZN","Bozeman, MT","MT",252,252,22,0,0
+"2025-10-01","CAE","Columbia, SC","SC",281,278,43,3,0
+"2025-10-01","CDC","Cedar City, UT","UT",54,54,3,0,0
+"2025-10-01","CHA","Chattanooga, TN","TN",371,369,55,2,0
+"2025-10-01","CHO","Charlottesville, VA","VA",174,173,38,1,0
+"2025-10-01","CHS","Charleston, SC","SC",649,641,125,7,1
+"2025-10-01","CID","Cedar Rapids/Iowa City, IA","IA",123,123,30,0,0
+"2025-10-01","CIU","Sault Ste. Marie, MI","MI",62,62,8,0,0
+"2025-10-01","CLE","Cleveland, OH","OH",895,887,151,8,0
+"2025-10-01","CLT","Charlotte, NC","NC",900,889,166,11,0
+"2025-10-01","CMH","Columbus, OH","OH",901,892,166,8,1
+"2025-10-01","COS","Colorado Springs, CO","CO",115,114,11,1,0
+"2025-10-01","CRW","Charleston/Dunbar, WV","WV",116,113,18,0,3
+"2025-10-01","CVG","Cincinnati, OH","KY",1426,1415,245,9,2
+"2025-10-01","CWA","Mosinee, WI","WI",62,62,5,0,0
+"2025-10-01","DAB","Daytona Beach, FL","FL",123,123,10,0,0
+"2025-10-01","DAL","Dallas, TX","TX",170,169,23,0,1
+"2025-10-01","DAY","Dayton, OH","OH",146,146,17,0,0
+"2025-10-01","DCA","Washington, DC","VA",1720,1699,391,21,0
+"2025-10-01","DEN","Denver, CO","CO",1023,1013,220,5,5
+"2025-10-01","DFW","Dallas/Fort Worth, TX","TX",1056,1039,262,10,7
+"2025-10-01","DHN","Dothan, AL","AL",88,88,10,0,0
+"2025-10-01","DLH","Duluth, MN","MN",123,123,11,0,0
+"2025-10-01","DSM","Des Moines, IA","IA",384,383,57,1,0
+"2025-10-01","DTW","Detroit, MI","MI",9552,9536,1035,13,3
+"2025-10-01","ECP","Panama City, FL","FL",238,236,35,1,1
+"2025-10-01","EKO","Elko, NV","NV",49,49,2,0,0
+"2025-10-01","ELM","Elmira/Corning, NY","NY",85,85,10,0,0
+"2025-10-01","ELP","El Paso, TX","TX",62,62,7,0,0
+"2025-10-01","ESC","Escanaba, MI","MI",54,53,6,0,1
+"2025-10-01","EUG","Eugene, OR","OR",154,154,8,0,0
+"2025-10-01","EVV","Evansville, IN","IN",115,114,12,0,1
+"2025-10-01","EWR","Newark, NJ","NJ",775,758,231,15,2
+"2025-10-01","EYW","Key West, FL","FL",123,123,14,0,0
+"2025-10-01","FAI","Fairbanks, AK","AK",36,36,8,0,0
+"2025-10-01","FAR","Fargo, ND","ND",177,177,19,0,0
+"2025-10-01","FAT","Fresno, CA","CA",119,118,6,0,1
+"2025-10-01","FAY","Fayetteville, NC","NC",108,107,17,0,1
+"2025-10-01","FCA","Kalispell, MT","MT",123,123,11,0,0
+"2025-10-01","FLL","Fort Lauderdale, FL","FL",966,960,174,5,1
+"2025-10-01","FSD","Sioux Falls, SD","SD",181,181,13,0,0
+"2025-10-01","FWA","Fort Wayne, IN","IN",180,180,17,0,0
+"2025-10-01","GEG","Spokane, WA","WA",572,569,49,2,1
+"2025-10-01","GFK","Grand Forks, ND","ND",93,93,7,0,0
+"2025-10-01","GJT","Grand Junction, CO","CO",54,53,3,0,1
+"2025-10-01","GNV","Gainesville, FL","FL",148,148,17,0,0
+"2025-10-01","GPT","Gulfport/Biloxi, MS","MS",116,116,11,0,0
+"2025-10-01","GRB","Green Bay, WI","WI",220,219,22,0,1
+"2025-10-01","GRR","Grand Rapids, MI","MI",526,523,66,3,0
+"2025-10-01","GSO","Greensboro/High Point, NC","NC",428,425,80,3,0
+"2025-10-01","GSP","Greer, SC","SC",454,448,81,5,1
+"2025-10-01","GTF","Great Falls, MT","MT",92,92,1,0,0
+"2025-10-01","GTR","Columbus, MS","MS",62,62,4,0,0
+"2025-10-01","HHH","Hilton Head, SC","SC",52,52,5,0,0
+"2025-10-01","HIB","Hibbing, MN","MN",53,53,3,0,0
+"2025-10-01","HLN","Helena, MT","MT",62,62,3,0,0
+"2025-10-01","HNL","Honolulu, HI","HI",278,278,48,0,0
+"2025-10-01","HOU","Houston, TX","TX",124,122,19,1,1
+"2025-10-01","HPN","White Plains, NY","NY",239,235,33,2,2
+"2025-10-01","HRL","Harlingen/San Benito, TX","TX",26,26,5,0,0
+"2025-10-01","HSV","Huntsville, AL","AL",307,307,48,0,0
+"2025-10-01","IAD","Washington, DC","VA",519,517,93,2,0
+"2025-10-01","IAH","Houston, TX","TX",746,736,147,7,3
+"2025-10-01","ICT","Wichita, KS","KS",173,173,24,0,0
+"2025-10-01","IDA","Idaho Falls, ID","ID",92,92,10,0,0
+"2025-10-01","ILM","Wilmington, NC","NC",213,210,44,3,0
+"2025-10-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,62,19,0,0
+"2025-10-01","IND","Indianapolis, IN","IN",1014,1010,168,4,0
+"2025-10-01","INL","International Falls, MN","MN",53,53,6,0,0
+"2025-10-01","ITH","Ithaca/Cortland, NY","NY",62,60,11,1,1
+"2025-10-01","JAC","Jackson, WY","WY",112,111,11,0,1
+"2025-10-01","JAN","Jackson/Vicksburg, MS","MS",224,224,34,0,0
+"2025-10-01","JAX","Jacksonville, FL","FL",753,739,157,14,0
+"2025-10-01","JFK","New York, NY","NY",4974,4876,818,83,15
+"2025-10-01","JNU","Juneau, AK","AK",25,24,3,1,0
+"2025-10-01","KOA","Kona, HI","HI",62,62,6,0,0
+"2025-10-01","LAN","Lansing, MI","MI",89,89,9,0,0
+"2025-10-01","LAS","Las Vegas, NV","NV",1573,1566,315,5,2
+"2025-10-01","LAX","Los Angeles, CA","CA",4211,4199,598,6,6
+"2025-10-01","LEX","Lexington, KY","KY",348,345,50,2,1
+"2025-10-01","LFT","Lafayette, LA","LA",115,114,17,0,1
+"2025-10-01","LGA","New York, NY","NY",7324,7072,1789,227,25
+"2025-10-01","LGB","Long Beach, CA","CA",93,93,6,0,0
+"2025-10-01","LIH","Lihue, HI","HI",62,61,7,1,0
+"2025-10-01","LIT","Little Rock, AR","AR",259,258,44,1,0
+"2025-10-01","LWS","Lewiston, ID","ID",62,62,2,0,0
+"2025-10-01","MAF","Midland/Odessa, TX","TX",88,87,16,0,1
+"2025-10-01","MBS","Saginaw/Bay City/Midland, MI","MI",118,118,10,0,0
+"2025-10-01","MCI","Kansas City, MO","MO",913,904,149,8,1
+"2025-10-01","MCO","Orlando, FL","FL",1764,1750,400,8,6
+"2025-10-01","MDT","Harrisburg, PA","PA",176,176,21,0,0
+"2025-10-01","MDW","Chicago, IL","IL",298,298,36,0,0
+"2025-10-01","MEM","Memphis, TN","TN",722,715,122,7,0
+"2025-10-01","MFE","Mission/McAllen/Edinburg, TX","TX",88,88,10,0,0
+"2025-10-01","MFR","Medford, OR","OR",154,154,12,0,0
+"2025-10-01","MGM","Montgomery, AL","AL",146,146,22,0,0
+"2025-10-01","MIA","Miami, FL","FL",936,930,215,6,0
+"2025-10-01","MKE","Milwaukee, WI","WI",714,706,113,8,0
+"2025-10-01","MLB","Melbourne, FL","FL",123,122,17,0,1
+"2025-10-01","MLI","Moline, IL","IL",62,62,10,0,0
+"2025-10-01","MLU","Monroe, LA","LA",92,92,11,0,0
+"2025-10-01","MOB","Mobile, AL","AL",146,146,16,0,0
+"2025-10-01","MOT","Minot, ND","ND",119,119,7,0,0
+"2025-10-01","MQT","Marquette, MI","MI",62,62,9,0,0
+"2025-10-01","MSN","Madison, WI","WI",435,433,61,2,0
+"2025-10-01","MSO","Missoula, MT","MT",123,123,11,0,0
+"2025-10-01","MSP","Minneapolis, MN","MN",9263,9244,969,17,2
+"2025-10-01","MSY","New Orleans, LA","LA",729,726,93,3,0
+"2025-10-01","MYR","Myrtle Beach, SC","SC",189,188,31,1,0
+"2025-10-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",105,105,9,0,0
+"2025-10-01","OAK","Oakland, CA","CA",93,93,7,0,0
+"2025-10-01","OGG","Kahului, HI","HI",76,76,10,0,0
+"2025-10-01","OKC","Oklahoma City, OK","OK",271,268,41,2,1
+"2025-10-01","OMA","Omaha, NE","NE",585,582,88,3,0
+"2025-10-01","ONT","Ontario, CA","CA",292,292,33,0,0
+"2025-10-01","ORD","Chicago, IL","IL",1230,1214,359,11,5
+"2025-10-01","ORF","Norfolk, VA","VA",611,603,132,8,0
+"2025-10-01","ORH","Worcester, MA","MA",27,26,10,1,0
+"2025-10-01","PBI","West Palm Beach/Palm Beach, FL","FL",538,531,124,5,2
+"2025-10-01","PDX","Portland, OR","OR",892,889,105,2,1
+"2025-10-01","PHL","Philadelphia, PA","PA",670,667,132,3,0
+"2025-10-01","PHX","Phoenix, AZ","AZ",1074,1066,200,3,5
+"2025-10-01","PIH","Pocatello, ID","ID",31,31,1,0,0
+"2025-10-01","PIT","Pittsburgh, PA","PA",888,878,150,10,0
+"2025-10-01","PLN","Pellston, MI","MI",54,54,5,0,0
+"2025-10-01","PNS","Pensacola, FL","FL",274,273,33,1,0
+"2025-10-01","PSC","Pasco/Kennewick/Richland, WA","WA",215,215,21,0,0
+"2025-10-01","PSP","Palm Springs, CA","CA",118,118,11,0,0
+"2025-10-01","PVD","Providence, RI","RI",176,175,29,1,0
+"2025-10-01","PWM","Portland, ME","ME",327,322,58,5,0
+"2025-10-01","RAP","Rapid City, SD","SD",115,115,5,0,0
+"2025-10-01","RDM","Bend/Redmond, OR","OR",154,154,13,0,0
+"2025-10-01","RDU","Raleigh/Durham, NC","NC",1738,1719,298,19,0
+"2025-10-01","RHI","Rhinelander, WI","WI",62,62,4,0,0
+"2025-10-01","RIC","Richmond, VA","VA",688,677,136,11,0
+"2025-10-01","RNO","Reno, NV","NV",229,229,30,0,0
+"2025-10-01","ROA","Roanoke, VA","VA",148,147,18,1,0
+"2025-10-01","ROC","Rochester, NY","NY",382,375,69,5,2
+"2025-10-01","RST","Rochester, MN","MN",88,88,8,0,0
+"2025-10-01","RSW","Fort Myers, FL","FL",542,536,84,3,3
+"2025-10-01","SAN","San Diego, CA","CA",1031,1019,194,3,9
+"2025-10-01","SAT","San Antonio, TX","TX",604,604,78,0,0
+"2025-10-01","SAV","Savannah, GA","GA",561,555,93,5,1
+"2025-10-01","SBA","Santa Barbara, CA","CA",123,123,23,0,0
+"2025-10-01","SBN","South Bend, IN","IN",188,188,25,0,0
+"2025-10-01","SDF","Louisville, KY","KY",599,597,78,1,1
+"2025-10-01","SEA","Seattle, WA","WA",4444,4424,561,15,5
+"2025-10-01","SFO","San Francisco, CA","CA",1317,1309,361,6,2
+"2025-10-01","SGF","Springfield, MO","MO",115,115,16,0,0
+"2025-10-01","SGU","St. George, UT","UT",178,178,16,0,0
+"2025-10-01","SHV","Shreveport, LA","LA",146,146,29,0,0
+"2025-10-01","SJC","San Jose, CA","CA",677,677,90,0,0
+"2025-10-01","SJU","San Juan, PR","PR",250,250,56,0,0
+"2025-10-01","SLC","Salt Lake City, UT","UT",7144,7127,708,4,13
+"2025-10-01","SMF","Sacramento, CA","CA",700,700,81,0,0
+"2025-10-01","SNA","Santa Ana, CA","CA",503,502,109,1,0
+"2025-10-01","SRQ","Sarasota/Bradenton, FL","FL",228,228,44,0,0
+"2025-10-01","STL","St. Louis, MO","MO",708,702,109,5,1
+"2025-10-01","STT","Charlotte Amalie, VI","VI",35,35,6,0,0
+"2025-10-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",92,92,5,0,0
+"2025-10-01","SYR","Syracuse, NY","NY",412,406,68,6,0
+"2025-10-01","TLH","Tallahassee, FL","FL",192,191,25,0,1
+"2025-10-01","TPA","Tampa, FL","FL",1110,1104,232,5,1
+"2025-10-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",146,145,20,0,1
+"2025-10-01","TUL","Tulsa, OK","OK",204,203,39,1,0
+"2025-10-01","TUS","Tucson, AZ","AZ",270,270,42,0,0
+"2025-10-01","TVC","Traverse City, MI","MI",97,97,5,0,0
+"2025-10-01","TWF","Twin Falls, ID","ID",61,61,2,0,0
+"2025-10-01","TYS","Knoxville, TN","TN",453,450,83,3,0
+"2025-10-01","VLD","Valdosta, GA","GA",87,86,19,0,1
+"2025-10-01","VPS","Valparaiso, FL","FL",223,223,24,0,0
+"2025-10-01","XNA","Fayetteville, AR","AR",377,377,45,0,0
+"2025-10-01","XWA","Williston, ND","ND",89,89,16,0,0
+"2025-11-01","ABE","Allentown/Bethlehem/Easton, PA","PA",87,80,15,7,0
+"2025-11-01","ABQ","Albuquerque, NM","NM",244,240,24,4,0
+"2025-11-01","ABR","Aberdeen, SD","SD",73,70,5,3,0
+"2025-11-01","ABY","Albany, GA","GA",84,78,13,6,0
+"2025-11-01","AEX","Alexandria, LA","LA",87,80,15,7,0
+"2025-11-01","AGS","Augusta, GA","GA",203,194,45,9,0
+"2025-11-01","ALB","Albany, NY","NY",242,236,58,6,0
+"2025-11-01","ANC","Anchorage, AK","AK",204,203,34,0,1
+"2025-11-01","APN","Alpena, MI","MI",52,47,6,4,1
+"2025-11-01","ASE","Aspen, CO","CO",59,56,4,0,3
+"2025-11-01","ATL","Atlanta, GA","GA",22433,21749,3053,621,63
+"2025-11-01","ATW","Appleton, WI","WI",206,190,33,10,6
+"2025-11-01","ATY","Watertown, SD","SD",30,30,5,0,0
+"2025-11-01","AUS","Austin, TX","TX",1572,1557,297,13,2
+"2025-11-01","AVL","Asheville, NC","NC",240,236,40,4,0
+"2025-11-01","AZO","Kalamazoo, MI","MI",84,77,17,7,0
+"2025-11-01","BDL","Hartford, CT","CT",347,344,69,3,0
+"2025-11-01","BGM","Binghamton, NY","NY",29,27,2,2,0
+"2025-11-01","BGR","Bangor, ME","ME",111,106,25,5,0
+"2025-11-01","BHM","Birmingham, AL","AL",402,386,60,16,0
+"2025-11-01","BIL","Billings, MT","MT",118,115,11,3,0
+"2025-11-01","BIS","Bismarck/Mandan, ND","ND",142,139,27,3,0
+"2025-11-01","BJI","Bemidji, MN","MN",59,59,9,0,0
+"2025-11-01","BMI","Bloomington/Normal, IL","IL",58,55,13,2,1
+"2025-11-01","BNA","Nashville, TN","TN",1195,1170,250,23,2
+"2025-11-01","BOI","Boise, ID","ID",493,481,58,8,4
+"2025-11-01","BOS","Boston, MA","MA",4143,4033,816,103,7
+"2025-11-01","BQK","Brunswick, GA","GA",88,85,19,3,0
+"2025-11-01","BRD","Brainerd, MN","MN",52,49,6,3,0
+"2025-11-01","BTM","Butte, MT","MT",29,28,0,1,0
+"2025-11-01","BTR","Baton Rouge, LA","LA",140,130,23,10,0
+"2025-11-01","BTV","Burlington, VT","VT",198,192,36,6,0
+"2025-11-01","BUF","Buffalo, NY","NY",424,407,80,17,0
+"2025-11-01","BUR","Burbank, CA","CA",141,133,20,6,2
+"2025-11-01","BWI","Baltimore, MD","MD",518,507,75,11,0
+"2025-11-01","BZN","Bozeman, MT","MT",235,226,25,5,4
+"2025-11-01","CAE","Columbia, SC","SC",260,249,49,11,0
+"2025-11-01","CDC","Cedar City, UT","UT",51,48,1,3,0
+"2025-11-01","CHA","Chattanooga, TN","TN",342,330,75,12,0
+"2025-11-01","CHO","Charlottesville, VA","VA",161,153,33,8,0
+"2025-11-01","CHS","Charleston, SC","SC",591,577,111,14,0
+"2025-11-01","CID","Cedar Rapids/Iowa City, IA","IA",122,114,29,7,1
+"2025-11-01","CIU","Sault Ste. Marie, MI","MI",58,58,11,0,0
+"2025-11-01","CLE","Cleveland, OH","OH",787,766,149,21,0
+"2025-11-01","CLT","Charlotte, NC","NC",815,799,147,16,0
+"2025-11-01","CMH","Columbus, OH","OH",797,780,151,15,2
+"2025-11-01","COS","Colorado Springs, CO","CO",109,107,12,2,0
+"2025-11-01","CRW","Charleston/Dunbar, WV","WV",106,101,24,5,0
+"2025-11-01","CSG","Columbus, GA","GA",9,9,2,0,0
+"2025-11-01","CVG","Cincinnati, OH","KY",1286,1265,241,21,0
+"2025-11-01","CWA","Mosinee, WI","WI",59,59,9,0,0
+"2025-11-01","DAB","Daytona Beach, FL","FL",118,114,12,4,0
+"2025-11-01","DAL","Dallas, TX","TX",155,150,28,4,1
+"2025-11-01","DAY","Dayton, OH","OH",135,130,12,5,0
+"2025-11-01","DCA","Washington, DC","VA",1591,1540,455,45,6
+"2025-11-01","DEN","Denver, CO","CO",995,981,176,14,0
+"2025-11-01","DFW","Dallas/Fort Worth, TX","TX",995,975,256,17,3
+"2025-11-01","DHN","Dothan, AL","AL",84,77,12,7,0
+"2025-11-01","DLH","Duluth, MN","MN",116,107,13,9,0
+"2025-11-01","DSM","Des Moines, IA","IA",355,338,72,17,0
+"2025-11-01","DTW","Detroit, MI","MI",8744,8547,1391,194,3
+"2025-11-01","ECP","Panama City, FL","FL",251,241,40,7,3
+"2025-11-01","EKO","Elko, NV","NV",48,47,0,1,0
+"2025-11-01","ELM","Elmira/Corning, NY","NY",76,71,16,5,0
+"2025-11-01","ELP","El Paso, TX","TX",60,60,11,0,0
+"2025-11-01","ESC","Escanaba, MI","MI",51,47,5,4,0
+"2025-11-01","EUG","Eugene, OR","OR",147,143,5,4,0
+"2025-11-01","EVV","Evansville, IN","IN",87,83,8,4,0
+"2025-11-01","EWR","Newark, NJ","NJ",781,738,201,41,2
+"2025-11-01","EYW","Key West, FL","FL",124,118,27,3,3
+"2025-11-01","FAI","Fairbanks, AK","AK",30,30,2,0,0
+"2025-11-01","FAR","Fargo, ND","ND",142,134,22,8,0
+"2025-11-01","FAT","Fresno, CA","CA",109,102,7,5,2
+"2025-11-01","FAY","Fayetteville, NC","NC",102,95,18,7,0
+"2025-11-01","FCA","Kalispell, MT","MT",117,112,15,5,0
+"2025-11-01","FLL","Fort Lauderdale, FL","FL",1041,1018,225,20,3
+"2025-11-01","FSD","Sioux Falls, SD","SD",170,162,24,7,1
+"2025-11-01","FWA","Fort Wayne, IN","IN",171,158,25,13,0
+"2025-11-01","GEG","Spokane, WA","WA",489,482,63,5,2
+"2025-11-01","GFK","Grand Forks, ND","ND",89,84,10,5,0
+"2025-11-01","GJT","Grand Junction, CO","CO",52,52,0,0,0
+"2025-11-01","GNV","Gainesville, FL","FL",138,131,11,7,0
+"2025-11-01","GPT","Gulfport/Biloxi, MS","MS",106,103,19,3,0
+"2025-11-01","GRB","Green Bay, WI","WI",207,197,36,10,0
+"2025-11-01","GRR","Grand Rapids, MI","MI",495,481,92,14,0
+"2025-11-01","GSO","Greensboro/High Point, NC","NC",396,382,81,14,0
+"2025-11-01","GSP","Greer, SC","SC",414,399,81,14,1
+"2025-11-01","GTF","Great Falls, MT","MT",87,83,5,4,0
+"2025-11-01","GTR","Columbus, MS","MS",60,59,12,1,0
+"2025-11-01","HIB","Hibbing, MN","MN",52,47,8,5,0
+"2025-11-01","HLN","Helena, MT","MT",59,57,2,2,0
+"2025-11-01","HNL","Honolulu, HI","HI",287,284,35,0,3
+"2025-11-01","HOU","Houston, TX","TX",118,115,28,3,0
+"2025-11-01","HPN","White Plains, NY","NY",216,204,39,7,5
+"2025-11-01","HRL","Harlingen/San Benito, TX","TX",24,24,5,0,0
+"2025-11-01","HSV","Huntsville, AL","AL",282,278,51,4,0
+"2025-11-01","IAD","Washington, DC","VA",465,452,89,11,2
+"2025-11-01","IAH","Houston, TX","TX",674,664,138,9,1
+"2025-11-01","ICT","Wichita, KS","KS",136,133,29,3,0
+"2025-11-01","IDA","Idaho Falls, ID","ID",88,86,6,2,0
+"2025-11-01","ILM","Wilmington, NC","NC",193,186,43,7,0
+"2025-11-01","IMT","Iron Mountain/Kingsfd, MI","MI",58,56,11,2,0
+"2025-11-01","IND","Indianapolis, IN","IN",919,896,159,21,2
+"2025-11-01","INL","International Falls, MN","MN",52,48,9,4,0
+"2025-11-01","ITH","Ithaca/Cortland, NY","NY",58,52,8,5,1
+"2025-11-01","JAC","Jackson, WY","WY",88,87,11,1,0
+"2025-11-01","JAN","Jackson/Vicksburg, MS","MS",203,190,27,12,1
+"2025-11-01","JAX","Jacksonville, FL","FL",707,699,152,8,0
+"2025-11-01","JFK","New York, NY","NY",4756,4646,837,101,9
+"2025-11-01","KOA","Kona, HI","HI",60,59,15,0,1
+"2025-11-01","LAN","Lansing, MI","MI",85,80,15,5,0
+"2025-11-01","LAS","Las Vegas, NV","NV",1447,1425,267,21,1
+"2025-11-01","LAX","Los Angeles, CA","CA",3896,3822,567,71,3
+"2025-11-01","LEX","Lexington, KY","KY",318,302,62,14,2
+"2025-11-01","LFT","Lafayette, LA","LA",106,103,21,3,0
+"2025-11-01","LGA","New York, NY","NY",6771,6532,1937,225,14
+"2025-11-01","LGB","Long Beach, CA","CA",89,89,10,0,0
+"2025-11-01","LIH","Lihue, HI","HI",60,60,12,0,0
+"2025-11-01","LIT","Little Rock, AR","AR",238,234,39,4,0
+"2025-11-01","LWS","Lewiston, ID","ID",60,60,2,0,0
+"2025-11-01","MAF","Midland/Odessa, TX","TX",21,21,6,0,0
+"2025-11-01","MBS","Saginaw/Bay City/Midland, MI","MI",112,106,19,5,1
+"2025-11-01","MCI","Kansas City, MO","MO",814,801,159,13,0
+"2025-11-01","MCO","Orlando, FL","FL",1711,1678,351,32,1
+"2025-11-01","MDT","Harrisburg, PA","PA",166,164,33,2,0
+"2025-11-01","MDW","Chicago, IL","IL",280,264,40,13,3
+"2025-11-01","MEM","Memphis, TN","TN",670,652,127,18,0
+"2025-11-01","MFE","Mission/McAllen/Edinburg, TX","TX",83,83,8,0,0
+"2025-11-01","MFR","Medford, OR","OR",146,140,18,4,2
+"2025-11-01","MGM","Montgomery, AL","AL",136,128,29,7,1
+"2025-11-01","MIA","Miami, FL","FL",940,924,242,14,2
+"2025-11-01","MKE","Milwaukee, WI","WI",647,624,115,23,0
+"2025-11-01","MLB","Melbourne, FL","FL",117,112,11,5,0
+"2025-11-01","MLI","Moline, IL","IL",58,52,14,6,0
+"2025-11-01","MLU","Monroe, LA","LA",88,78,14,10,0
+"2025-11-01","MOB","Mobile, AL","AL",134,127,22,6,1
+"2025-11-01","MOT","Minot, ND","ND",114,107,20,7,0
+"2025-11-01","MQT","Marquette, MI","MI",60,59,10,1,0
+"2025-11-01","MSN","Madison, WI","WI",383,374,79,9,0
+"2025-11-01","MSO","Missoula, MT","MT",118,112,14,6,0
+"2025-11-01","MSP","Minneapolis, MN","MN",8494,8311,1298,181,2
+"2025-11-01","MSY","New Orleans, LA","LA",672,660,89,11,1
+"2025-11-01","MYR","Myrtle Beach, SC","SC",175,169,23,6,0
+"2025-11-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",101,94,17,7,0
+"2025-11-01","OAK","Oakland, CA","CA",89,86,4,2,1
+"2025-11-01","OGG","Kahului, HI","HI",109,109,11,0,0
+"2025-11-01","OKC","Oklahoma City, OK","OK",260,254,42,6,0
+"2025-11-01","OMA","Omaha, NE","NE",506,495,105,11,0
+"2025-11-01","ONT","Ontario, CA","CA",257,251,28,6,0
+"2025-11-01","ORD","Chicago, IL","IL",1143,1092,368,46,5
+"2025-11-01","ORF","Norfolk, VA","VA",545,529,123,15,1
+"2025-11-01","ORH","Worcester, MA","MA",24,23,6,1,0
+"2025-11-01","PBI","West Palm Beach/Palm Beach, FL","FL",562,552,136,7,3
+"2025-11-01","PDX","Portland, OR","OR",766,756,145,10,0
+"2025-11-01","PHL","Philadelphia, PA","PA",624,607,100,16,1
+"2025-11-01","PHX","Phoenix, AZ","AZ",1013,996,245,16,1
+"2025-11-01","PIH","Pocatello, ID","ID",30,29,1,1,0
+"2025-11-01","PIT","Pittsburgh, PA","PA",765,747,146,17,1
+"2025-11-01","PLN","Pellston, MI","MI",52,50,8,2,0
+"2025-11-01","PNS","Pensacola, FL","FL",254,249,35,5,0
+"2025-11-01","PSC","Pasco/Kennewick/Richland, WA","WA",205,202,25,1,2
+"2025-11-01","PSP","Palm Springs, CA","CA",174,170,23,4,0
+"2025-11-01","PVD","Providence, RI","RI",167,163,34,4,0
+"2025-11-01","PWM","Portland, ME","ME",263,253,55,10,0
+"2025-11-01","RAP","Rapid City, SD","SD",100,94,15,5,1
+"2025-11-01","RDM","Bend/Redmond, OR","OR",146,135,12,7,4
+"2025-11-01","RDU","Raleigh/Durham, NC","NC",1609,1577,312,31,1
+"2025-11-01","RHI","Rhinelander, WI","WI",58,53,8,5,0
+"2025-11-01","RIC","Richmond, VA","VA",634,611,113,23,0
+"2025-11-01","RNO","Reno, NV","NV",196,194,19,2,0
+"2025-11-01","ROA","Roanoke, VA","VA",140,130,32,10,0
+"2025-11-01","ROC","Rochester, NY","NY",354,342,96,12,0
+"2025-11-01","RST","Rochester, MN","MN",84,83,14,1,0
+"2025-11-01","RSW","Fort Myers, FL","FL",571,566,102,5,0
+"2025-11-01","SAN","San Diego, CA","CA",959,940,208,14,5
+"2025-11-01","SAT","San Antonio, TX","TX",563,556,104,7,0
+"2025-11-01","SAV","Savannah, GA","GA",525,514,99,11,0
+"2025-11-01","SBA","Santa Barbara, CA","CA",117,113,6,3,1
+"2025-11-01","SBN","South Bend, IN","IN",178,165,32,13,0
+"2025-11-01","SDF","Louisville, KY","KY",537,523,99,13,1
+"2025-11-01","SEA","Seattle, WA","WA",4096,4032,568,57,7
+"2025-11-01","SFO","San Francisco, CA","CA",1202,1183,349,17,2
+"2025-11-01","SGF","Springfield, MO","MO",106,100,20,5,1
+"2025-11-01","SGU","St. George, UT","UT",152,149,11,3,0
+"2025-11-01","SHV","Shreveport, LA","LA",136,127,31,9,0
+"2025-11-01","SJC","San Jose, CA","CA",604,592,58,12,0
+"2025-11-01","SJU","San Juan, PR","PR",267,264,54,2,1
+"2025-11-01","SLC","Salt Lake City, UT","UT",6701,6599,677,100,2
+"2025-11-01","SMF","Sacramento, CA","CA",643,629,58,14,0
+"2025-11-01","SNA","Santa Ana, CA","CA",476,467,95,8,1
+"2025-11-01","SRQ","Sarasota/Bradenton, FL","FL",247,241,42,6,0
+"2025-11-01","STL","St. Louis, MO","MO",623,606,125,17,0
+"2025-11-01","STT","Charlotte Amalie, VI","VI",39,39,11,0,0
+"2025-11-01","STX","Christiansted, VI","VI",4,4,0,0,0
+"2025-11-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",86,85,4,1,0
+"2025-11-01","SYR","Syracuse, NY","NY",384,368,75,14,2
+"2025-11-01","TLH","Tallahassee, FL","FL",175,168,23,5,2
+"2025-11-01","TPA","Tampa, FL","FL",1113,1092,233,18,3
+"2025-11-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",136,127,21,9,0
+"2025-11-01","TUL","Tulsa, OK","OK",189,183,29,6,0
+"2025-11-01","TUS","Tucson, AZ","AZ",277,266,29,11,0
+"2025-11-01","TVC","Traverse City, MI","MI",87,82,14,5,0
+"2025-11-01","TWF","Twin Falls, ID","ID",57,57,5,0,0
+"2025-11-01","TYS","Knoxville, TN","TN",417,402,92,13,2
+"2025-11-01","VLD","Valdosta, GA","GA",84,78,19,6,0
+"2025-11-01","VPS","Valparaiso, FL","FL",209,201,21,8,0
+"2025-11-01","XNA","Fayetteville, AR","AR",352,344,51,8,0
+"2025-11-01","XWA","Williston, ND","ND",85,81,18,4,0
+"2025-12-01","ABE","Allentown/Bethlehem/Easton, PA","PA",90,87,29,3,0
+"2025-12-01","ABQ","Albuquerque, NM","NM",264,264,36,0,0
+"2025-12-01","ABR","Aberdeen, SD","SD",59,58,19,1,0
+"2025-12-01","ABY","Albany, GA","GA",79,78,27,1,0
+"2025-12-01","AEX","Alexandria, LA","LA",81,81,26,0,0
+"2025-12-01","AGS","Augusta, GA","GA",206,200,45,5,1
+"2025-12-01","ALB","Albany, NY","NY",243,233,89,10,0
+"2025-12-01","ANC","Anchorage, AK","AK",192,184,95,4,4
+"2025-12-01","APN","Alpena, MI","MI",53,47,12,6,0
+"2025-12-01","ASE","Aspen, CO","CO",74,71,23,0,3
+"2025-12-01","ATL","Atlanta, GA","GA",23226,22595,4464,582,49
+"2025-12-01","ATW","Appleton, WI","WI",202,200,87,2,0
+"2025-12-01","ATY","Watertown, SD","SD",31,30,11,1,0
+"2025-12-01","AUS","Austin, TX","TX",1593,1572,354,21,0
+"2025-12-01","AVL","Asheville, NC","NC",244,241,59,3,0
+"2025-12-01","AZO","Kalamazoo, MI","MI",79,78,30,1,0
+"2025-12-01","BDL","Hartford, CT","CT",338,326,103,10,2
+"2025-12-01","BGM","Binghamton, NY","NY",30,29,11,1,0
+"2025-12-01","BGR","Bangor, ME","ME",98,88,29,9,1
+"2025-12-01","BHM","Birmingham, AL","AL",402,388,103,13,1
+"2025-12-01","BIL","Billings, MT","MT",121,120,26,1,0
+"2025-12-01","BIS","Bismarck/Mandan, ND","ND",144,139,58,4,1
+"2025-12-01","BJI","Bemidji, MN","MN",62,60,22,1,1
+"2025-12-01","BMI","Bloomington/Normal, IL","IL",62,62,19,0,0
+"2025-12-01","BNA","Nashville, TN","TN",1188,1156,335,31,1
+"2025-12-01","BOI","Boise, ID","ID",488,481,79,5,2
+"2025-12-01","BOS","Boston, MA","MA",4040,3947,974,87,6
+"2025-12-01","BQK","Brunswick, GA","GA",81,81,24,0,0
+"2025-12-01","BRD","Brainerd, MN","MN",53,50,19,3,0
+"2025-12-01","BTM","Butte, MT","MT",29,28,0,0,1
+"2025-12-01","BTR","Baton Rouge, LA","LA",135,134,27,1,0
+"2025-12-01","BTV","Burlington, VT","VT",191,182,68,8,1
+"2025-12-01","BUF","Buffalo, NY","NY",390,362,122,27,1
+"2025-12-01","BUR","Burbank, CA","CA",153,149,24,0,4
+"2025-12-01","BWI","Baltimore, MD","MD",504,490,133,14,0
+"2025-12-01","BZN","Bozeman, MT","MT",287,283,66,3,1
+"2025-12-01","CAE","Columbia, SC","SC",253,249,73,3,1
+"2025-12-01","CDC","Cedar City, UT","UT",54,54,4,0,0
+"2025-12-01","CHA","Chattanooga, TN","TN",331,326,109,4,1
+"2025-12-01","CHO","Charlottesville, VA","VA",164,157,46,5,2
+"2025-12-01","CHS","Charleston, SC","SC",624,599,180,23,2
+"2025-12-01","CID","Cedar Rapids/Iowa City, IA","IA",112,105,46,3,4
+"2025-12-01","CIU","Sault Ste. Marie, MI","MI",62,56,16,6,0
+"2025-12-01","CLE","Cleveland, OH","OH",752,721,241,31,0
+"2025-12-01","CLT","Charlotte, NC","NC",819,807,229,12,0
+"2025-12-01","CMH","Columbus, OH","OH",763,745,226,18,0
+"2025-12-01","COS","Colorado Springs, CO","CO",91,88,11,2,1
+"2025-12-01","CRW","Charleston/Dunbar, WV","WV",98,97,31,1,0
+"2025-12-01","CSG","Columbus, GA","GA",81,77,28,3,1
+"2025-12-01","CVG","Cincinnati, OH","KY",1288,1253,372,35,0
+"2025-12-01","CWA","Mosinee, WI","WI",62,58,22,4,0
+"2025-12-01","DAB","Daytona Beach, FL","FL",133,129,23,3,1
+"2025-12-01","DAL","Dallas, TX","TX",144,142,24,2,0
+"2025-12-01","DAY","Dayton, OH","OH",118,117,22,1,0
+"2025-12-01","DCA","Washington, DC","VA",1518,1487,464,29,2
+"2025-12-01","DEN","Denver, CO","CO",1056,1032,345,22,2
+"2025-12-01","DFW","Dallas/Fort Worth, TX","TX",979,939,286,40,0
+"2025-12-01","DHN","Dothan, AL","AL",79,78,20,1,0
+"2025-12-01","DLH","Duluth, MN","MN",108,105,43,3,0
+"2025-12-01","DSM","Des Moines, IA","IA",352,329,125,22,1
+"2025-12-01","DTW","Detroit, MI","MI",8827,8564,2762,261,2
+"2025-12-01","ECP","Panama City, FL","FL",238,227,43,9,2
+"2025-12-01","EGE","Eagle, CO","CO",48,48,20,0,0
+"2025-12-01","EKO","Elko, NV","NV",51,51,4,0,0
+"2025-12-01","ELM","Elmira/Corning, NY","NY",76,75,36,1,0
+"2025-12-01","ELP","El Paso, TX","TX",62,60,15,2,0
+"2025-12-01","ESC","Escanaba, MI","MI",53,47,14,5,1
+"2025-12-01","EUG","Eugene, OR","OR",143,143,7,0,0
+"2025-12-01","EVV","Evansville, IN","IN",89,87,22,2,0
+"2025-12-01","EWR","Newark, NJ","NJ",740,703,283,37,0
+"2025-12-01","EYW","Key West, FL","FL",147,144,48,2,1
+"2025-12-01","FAI","Fairbanks, AK","AK",31,28,17,3,0
+"2025-12-01","FAR","Fargo, ND","ND",159,153,60,6,0
+"2025-12-01","FAT","Fresno, CA","CA",119,119,3,0,0
+"2025-12-01","FAY","Fayetteville, NC","NC",99,96,22,2,1
+"2025-12-01","FCA","Kalispell, MT","MT",130,128,33,1,1
+"2025-12-01","FLL","Fort Lauderdale, FL","FL",1197,1158,431,39,0
+"2025-12-01","FSD","Sioux Falls, SD","SD",178,173,74,5,0
+"2025-12-01","FWA","Fort Wayne, IN","IN",167,165,70,1,1
+"2025-12-01","GEG","Spokane, WA","WA",516,510,112,4,2
+"2025-12-01","GFK","Grand Forks, ND","ND",90,80,35,8,2
+"2025-12-01","GJT","Grand Junction, CO","CO",54,54,1,0,0
+"2025-12-01","GNV","Gainesville, FL","FL",148,146,35,2,0
+"2025-12-01","GPT","Gulfport/Biloxi, MS","MS",117,112,20,4,1
+"2025-12-01","GRB","Green Bay, WI","WI",201,196,86,5,0
+"2025-12-01","GRR","Grand Rapids, MI","MI",497,482,186,14,1
+"2025-12-01","GSO","Greensboro/High Point, NC","NC",367,352,88,14,1
+"2025-12-01","GSP","Greer, SC","SC",384,375,104,8,1
+"2025-12-01","GTF","Great Falls, MT","MT",90,89,7,1,0
+"2025-12-01","GTR","Columbus, MS","MS",62,61,17,1,0
+"2025-12-01","HDN","Hayden, CO","CO",22,19,4,2,1
+"2025-12-01","HIB","Hibbing, MN","MN",53,51,23,1,1
+"2025-12-01","HLN","Helena, MT","MT",59,59,0,0,0
+"2025-12-01","HNL","Honolulu, HI","HI",344,337,105,3,4
+"2025-12-01","HOU","Houston, TX","TX",121,118,28,3,0
+"2025-12-01","HPN","White Plains, NY","NY",217,211,76,4,2
+"2025-12-01","HRL","Harlingen/San Benito, TX","TX",22,21,4,1,0
+"2025-12-01","HSV","Huntsville, AL","AL",281,276,70,5,0
+"2025-12-01","IAD","Washington, DC","VA",458,444,153,14,0
+"2025-12-01","IAH","Houston, TX","TX",700,667,208,32,1
+"2025-12-01","ICT","Wichita, KS","KS",135,133,43,1,1
+"2025-12-01","IDA","Idaho Falls, ID","ID",90,88,12,1,1
+"2025-12-01","ILM","Wilmington, NC","NC",181,177,58,4,0
+"2025-12-01","IMT","Iron Mountain/Kingsfd, MI","MI",62,56,23,4,2
+"2025-12-01","IND","Indianapolis, IN","IN",900,874,256,25,1
+"2025-12-01","INL","International Falls, MN","MN",53,52,15,1,0
+"2025-12-01","ITH","Ithaca/Cortland, NY","NY",59,54,21,5,0
+"2025-12-01","JAC","Jackson, WY","WY",124,117,18,4,3
+"2025-12-01","JAN","Jackson/Vicksburg, MS","MS",204,200,37,4,0
+"2025-12-01","JAX","Jacksonville, FL","FL",719,698,201,20,1
+"2025-12-01","JFK","New York, NY","NY",4716,4467,1271,232,17
+"2025-12-01","KOA","Kona, HI","HI",74,71,26,3,0
+"2025-12-01","LAN","Lansing, MI","MI",79,77,33,2,0
+"2025-12-01","LAS","Las Vegas, NV","NV",1505,1487,305,18,0
+"2025-12-01","LAX","Los Angeles, CA","CA",4038,3974,788,55,9
+"2025-12-01","LEX","Lexington, KY","KY",317,308,91,8,1
+"2025-12-01","LFT","Lafayette, LA","LA",107,105,36,1,1
+"2025-12-01","LGA","New York, NY","NY",6434,6012,2077,385,37
+"2025-12-01","LGB","Long Beach, CA","CA",90,90,6,0,0
+"2025-12-01","LIH","Lihue, HI","HI",62,59,24,3,0
+"2025-12-01","LIT","Little Rock, AR","AR",237,231,45,6,0
+"2025-12-01","LWS","Lewiston, ID","ID",62,61,5,0,1
+"2025-12-01","MBS","Saginaw/Bay City/Midland, MI","MI",105,101,42,4,0
+"2025-12-01","MCI","Kansas City, MO","MO",787,763,242,19,5
+"2025-12-01","MCO","Orlando, FL","FL",2004,1951,609,50,3
+"2025-12-01","MDT","Harrisburg, PA","PA",165,158,58,7,0
+"2025-12-01","MDW","Chicago, IL","IL",279,266,98,13,0
+"2025-12-01","MEM","Memphis, TN","TN",656,636,193,20,0
+"2025-12-01","MFE","Mission/McAllen/Edinburg, TX","TX",89,89,16,0,0
+"2025-12-01","MFR","Medford, OR","OR",143,137,20,1,5
+"2025-12-01","MGM","Montgomery, AL","AL",138,136,37,1,1
+"2025-12-01","MIA","Miami, FL","FL",1105,1066,396,38,1
+"2025-12-01","MKE","Milwaukee, WI","WI",619,602,201,17,0
+"2025-12-01","MLB","Melbourne, FL","FL",121,120,26,1,0
+"2025-12-01","MLI","Moline, IL","IL",62,62,25,0,0
+"2025-12-01","MLU","Monroe, LA","LA",81,81,31,0,0
+"2025-12-01","MOB","Mobile, AL","AL",147,143,31,4,0
+"2025-12-01","MOT","Minot, ND","ND",118,107,52,9,2
+"2025-12-01","MQT","Marquette, MI","MI",62,54,21,8,0
+"2025-12-01","MSN","Madison, WI","WI",382,367,127,12,3
+"2025-12-01","MSO","Missoula, MT","MT",121,117,16,2,2
+"2025-12-01","MSP","Minneapolis, MN","MN",8646,8398,2551,242,6
+"2025-12-01","MSY","New Orleans, LA","LA",682,657,135,24,1
+"2025-12-01","MTJ","Montrose/Delta, CO","CO",12,12,1,0,0
+"2025-12-01","MYR","Myrtle Beach, SC","SC",210,208,46,2,0
+"2025-12-01","OAJ","Jacksonville/Camp Lejeune, NC","NC",99,98,25,1,0
+"2025-12-01","OAK","Oakland, CA","CA",90,90,10,0,0
+"2025-12-01","OGG","Kahului, HI","HI",145,143,28,0,2
+"2025-12-01","OKC","Oklahoma City, OK","OK",271,266,67,5,0
+"2025-12-01","OMA","Omaha, NE","NE",509,492,184,17,0
+"2025-12-01","ONT","Ontario, CA","CA",268,264,51,4,0
+"2025-12-01","ORD","Chicago, IL","IL",1106,1052,472,51,3
+"2025-12-01","ORF","Norfolk, VA","VA",538,520,186,18,0
+"2025-12-01","ORH","Worcester, MA","MA",17,16,5,1,0
+"2025-12-01","PBI","West Palm Beach/Palm Beach, FL","FL",637,618,202,18,1
+"2025-12-01","PDX","Portland, OR","OR",731,725,192,6,0
+"2025-12-01","PHL","Philadelphia, PA","PA",620,604,169,16,0
+"2025-12-01","PHX","Phoenix, AZ","AZ",1099,1080,313,19,0
+"2025-12-01","PIH","Pocatello, ID","ID",31,31,1,0,0
+"2025-12-01","PIT","Pittsburgh, PA","PA",743,722,204,20,1
+"2025-12-01","PLN","Pellston, MI","MI",53,42,19,11,0
+"2025-12-01","PNS","Pensacola, FL","FL",270,253,61,11,6
+"2025-12-01","PSC","Pasco/Kennewick/Richland, WA","WA",211,210,39,0,1
+"2025-12-01","PSP","Palm Springs, CA","CA",213,211,30,2,0
+"2025-12-01","PVD","Providence, RI","RI",162,156,58,6,0
+"2025-12-01","PWM","Portland, ME","ME",216,207,75,9,0
+"2025-12-01","RAP","Rapid City, SD","SD",105,98,39,5,2
+"2025-12-01","RDM","Bend/Redmond, OR","OR",143,143,22,0,0
+"2025-12-01","RDU","Raleigh/Durham, NC","NC",1593,1557,418,35,1
+"2025-12-01","RHI","Rhinelander, WI","WI",59,56,12,2,1
+"2025-12-01","RIC","Richmond, VA","VA",604,587,178,17,0
+"2025-12-01","RNO","Reno, NV","NV",205,199,33,2,4
+"2025-12-01","ROA","Roanoke, VA","VA",134,130,44,2,2
+"2025-12-01","ROC","Rochester, NY","NY",350,329,140,21,0
+"2025-12-01","RST","Rochester, MN","MN",88,81,41,7,0
+"2025-12-01","RSW","Fort Myers, FL","FL",709,686,211,21,2
+"2025-12-01","SAN","San Diego, CA","CA",1001,973,281,18,10
+"2025-12-01","SAT","San Antonio, TX","TX",576,562,140,14,0
+"2025-12-01","SAV","Savannah, GA","GA",536,516,136,19,1
+"2025-12-01","SBA","Santa Barbara, CA","CA",119,113,21,3,3
+"2025-12-01","SBN","South Bend, IN","IN",169,168,63,1,0
+"2025-12-01","SDF","Louisville, KY","KY",529,513,145,16,0
+"2025-12-01","SEA","Seattle, WA","WA",4057,3968,997,71,18
+"2025-12-01","SFO","San Francisco, CA","CA",1157,1133,406,23,1
+"2025-12-01","SGF","Springfield, MO","MO",107,106,18,1,0
+"2025-12-01","SGU","St. George, UT","UT",119,119,4,0,0
+"2025-12-01","SHV","Shreveport, LA","LA",134,131,43,3,0
+"2025-12-01","SJC","San Jose, CA","CA",565,558,85,5,2
+"2025-12-01","SJU","San Juan, PR","PR",356,347,98,9,0
+"2025-12-01","SLC","Salt Lake City, UT","UT",7032,6958,1146,72,2
+"2025-12-01","SMF","Sacramento, CA","CA",588,583,97,5,0
+"2025-12-01","SNA","Santa Ana, CA","CA",467,453,122,9,5
+"2025-12-01","SRQ","Sarasota/Bradenton, FL","FL",313,302,72,10,1
+"2025-12-01","STL","St. Louis, MO","MO",636,617,175,18,1
+"2025-12-01","STT","Charlotte Amalie, VI","VI",83,83,21,0,0
+"2025-12-01","STX","Christiansted, VI","VI",14,14,2,0,0
+"2025-12-01","SUN","Sun Valley/Hailey/Ketchum, ID","ID",104,100,6,3,1
+"2025-12-01","SYR","Syracuse, NY","NY",379,360,143,19,0
+"2025-12-01","TLH","Tallahassee, FL","FL",177,172,35,4,1
+"2025-12-01","TPA","Tampa, FL","FL",1239,1194,384,40,5
+"2025-12-01","TRI","Bristol/Johnson City/Kingsport, TN","TN",138,135,28,2,1
+"2025-12-01","TUL","Tulsa, OK","OK",185,179,27,6,0
+"2025-12-01","TUS","Tucson, AZ","AZ",311,308,44,3,0
+"2025-12-01","TVC","Traverse City, MI","MI",93,90,39,2,1
+"2025-12-01","TWF","Twin Falls, ID","ID",59,59,6,0,0
+"2025-12-01","TYS","Knoxville, TN","TN",399,387,130,12,0
+"2025-12-01","VLD","Valdosta, GA","GA",79,78,25,0,1
+"2025-12-01","VPS","Valparaiso, FL","FL",208,205,40,2,1
+"2025-12-01","XNA","Fayetteville, AR","AR",333,329,111,3,1
+"2025-12-01","XWA","Williston, ND","ND",87,84,45,1,2
