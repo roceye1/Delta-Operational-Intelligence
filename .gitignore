@@ -1,7 +1,9 @@
-# macOS
+# OS and editor artifacts
 .DS_Store
+.vscode/
+.idea/
 
-# Python
+# Python environments and caches (recreate rather than back up)
 __pycache__/
 *.py[cod]
 *.pyo
@@ -9,40 +11,21 @@ __pycache__/
 .venv/
 venv/
 env/
+.ipynb_checkpoints/
+.pytest_cache/
 
-# Environment / credentials
+# Never publish credentials
 .env
 .env.*
 !.env.example
+*.pem
+*.key
 
-# Jupyter
-.ipynb_checkpoints/
-
-# IDE
-.vscode/
-.idea/
-
-# Logs / temp files
+# Nonessential transient files
 *.log
 *.tmp
 *.temp
 
-# Raw source data stays local only.
-# The source register documents where each raw dataset came from.
-/data/raw/
-
-# Temporary and generated datasets stay local unless deliberately published.
-data/interim/*
-!data/interim/.gitkeep
-data/processed/*
-!data/processed/.gitkeep
-
-# Generated model artifacts
-outputs/model/*
-!outputs/model/.gitkeep
-
-# Keep SQL results/predictions out until intentionally selected for portfolio publishing
-outputs/sql_results/*
-!outputs/sql_results/.gitkeep
-outputs/predictions/*
-!outputs/predictions/.gitkeep
+# IMPORTANT: Project source data, interim/processed data and outputs ARE NOT
+# ignored. All reproducibility-relevant artifacts should be committed.
+# Large files in those directories are tracked through Git LFS (.gitattributes).

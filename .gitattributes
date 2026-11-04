@@ -1,0 +1,8 @@
+# Preserve raw source datasets and large generated artifacts using Git LFS.
+# Git LFS stores full bytes on GitHub; the Git repository tracks pointers.
+data/raw/** filter=lfs diff=lfs merge=lfs -text
+data/interim/** filter=lfs diff=lfs merge=lfs -text
+data/processed/*.csv filter=lfs diff=lfs merge=lfs -text
+outputs/model/** filter=lfs diff=lfs merge=lfs -text
+outputs/predictions/** filter=lfs diff=lfs merge=lfs -text
+outputs/sql_results/** filter=lfs diff=lfs merge=lfs -text
