@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 import pandas as pd
 import re
@@ -8,7 +9,14 @@ import re
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_DIR = PROJECT_ROOT / "data" / "raw" / "financials"
-OUTPUT_FILE = PROJECT_ROOT / "data" / "processed" / "financials_clean.csv"
+parser = argparse.ArgumentParser(description="Clean Delta financial 10-K workbooks")
+parser.add_argument(
+    "--output",
+    type=Path,
+    default=PROJECT_ROOT / "data" / "processed" / "financials_clean.csv",
+)
+OUTPUT_FILE = parser.parse_args().output
+OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
 
 
 # ---------------------------------------------------------
@@ -424,6 +432,15 @@ for year in range(2021, 2026):
 
 financials = pd.DataFrame(records)
 
+# The source workbooks mix fractions (0.69) and percentages (85) for
+# passenger load factor. Normalize to percentage points.
+mask = financials["passenger_load_factor_pct"] < 1
+financials.loc[mask, "passenger_load_factor_pct"] *= 100
+integer_columns = financials.columns.difference(
+    ["operating_margin_pct", "average_fuel_price_usd_per_gallon"]
+)
+financials[integer_columns] = financials[integer_columns].astype(int)
+
 
 # ---------------------------------------------------------
 # Validation checks before writing
@@ -446,7 +463,8 @@ if financials.isna().any().any():
 
 financials.to_csv(
     OUTPUT_FILE,
-    index=False
+    index=False,
+    float_format="%.2f",
 )
 
 print("\nFINANCIAL CLEANING COMPLETE")
