@@ -21,6 +21,11 @@ env/
 *.pem
 *.key
 
+# EDGAR Online workbooks have unclear redistribution rights.
+# Keep exact originals in the private archive pending rights review.
+/data/raw/financials/*.xls
+/data/raw/financials/*.xlsx
+
 # Nonessential transient files
 *.log
 *.tmp

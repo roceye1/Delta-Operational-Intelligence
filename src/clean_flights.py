@@ -1,3 +1,4 @@
+import argparse
 from pathlib import Path
 import pandas as pd
 import numpy as np
@@ -10,8 +11,6 @@ PROJECT_ROOT = Path(__file__).resolve().parents[1]
 RAW_FLIGHTS_DIR = PROJECT_ROOT / "data" / "raw" / "flights"
 OUTPUT_DIR = PROJECT_ROOT / "data" / "processed"
 OUTPUT_FILE = OUTPUT_DIR / "flights_2025_delta_clean.csv"
-
-OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
 # ---------------------------------------------------------
 # Columns required from the BTS source files
@@ -285,21 +284,23 @@ def clean_chunk(df):
     return df
 
 
-def main():
+def main(source_dir=RAW_FLIGHTS_DIR, output_file=OUTPUT_FILE):
 
     # Search both the flight folder and any monthly subfolders.
-    csv_files = sorted(RAW_FLIGHTS_DIR.rglob("*.csv"))
+    csv_files = sorted(source_dir.rglob("*.csv"))
 
-    if not csv_files:
+    if len(csv_files) != 12:
         raise FileNotFoundError(
-            f"No CSV files found inside: {RAW_FLIGHTS_DIR}"
+            f"Expected 12 monthly BTS CSVs in {source_dir}; found {len(csv_files)}"
         )
+
+    output_file.parent.mkdir(parents=True, exist_ok=True)
 
     print(f"Found {len(csv_files)} CSV files.")
 
     # Start clean each time the script runs.
-    if OUTPUT_FILE.exists():
-        OUTPUT_FILE.unlink()
+    if output_file.exists():
+        output_file.unlink()
 
     total_source_rows = 0
     total_delta_rows = 0
@@ -331,7 +332,7 @@ def main():
             total_delta_rows += len(cleaned)
 
             cleaned.to_csv(
-                OUTPUT_FILE,
+                output_file,
                 mode="w" if first_write else "a",
                 header=first_write,
                 index=False,
@@ -344,9 +345,13 @@ def main():
     print("---------------------------------------")
     print(f"Source rows scanned: {total_source_rows:,}")
     print(f"Delta rows retained: {total_delta_rows:,}")
-    print(f"Output file: {OUTPUT_FILE}")
+    print(f"Output file: {output_file}")
     print("---------------------------------------")
 
 
 if __name__ == "__main__":
-    main()
+    parser = argparse.ArgumentParser(description="Clean the 12 BTS 2025 CSVs")
+    parser.add_argument("--source-dir", type=Path, default=RAW_FLIGHTS_DIR)
+    parser.add_argument("--output", type=Path, default=OUTPUT_FILE)
+    args = parser.parse_args()
+    main(args.source_dir, args.output)

@@ -1,61 +1,13 @@
-# Data Source Register
+# Data source register
 
-This document records all external datasets used in the project. Raw source files are stored unchanged in the `data/raw/` directory and are intentionally excluded from GitHub by `.gitignore`.
+The exact files used by this project are listed with byte counts and SHA-256 hashes in [source_manifest.csv](source_manifest.csv). The 2025 BTS downloads in the local backup are **12 extracted monthly CSV files**, each accompanied by a `readme.html`. No ZIP archive was found in either supplied folder or the backup's reachable Git history. The CSV files are the inputs used by `src/clean_flights.py`; ZIP files are not required to reproduce this analysis.
 
-| ID | Source | Dataset / Document | Period | Purpose | Raw File Location | Download Date | Status |
-|---|---|---|---|---|---|---|---|
-| DS01 | Bureau of Transportation Statistics | Marketing Carrier On-Time Performance | Jan–Dec 2025 | Flight operations, delays, cancellations, routes and delay causes | `data/raw/flights/` | 2026-10-01 | Downloaded locally |
-| DS02 | Delta Air Lines / SEC | Delta Air Lines Form 10-K filings (2025, 2023 and 2022 comparative filings) | 2021–2025 | Revenue, income, expenses, cash flow and operating metrics | `data/raw/financials/` | 2026-10-01 to 2026-10-07 | Downloaded locally |
-| DS03 | U.S. Energy Information Administration | U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB | 2021–2025 monthly | Jet-fuel market-price analysis | `data/raw/fuel/` | 2026-10-01 | Downloaded locally |
+| Source | Files found | Scope | Provenance |
+|---|---:|---|---|
+| U.S. Bureau of Transportation Statistics, Marketing Carrier On-Time Performance | 12 CSVs and 12 identical `readme.html` copies | January–December 2025 | [BTS table](https://www.transtats.bts.gov/TableInfo.asp?QO_fu146_anzr=b0-gvzr&V0s1_b0yB=D&gnoyr_VQ=FGK) |
+| EDGAR Online-derived Delta Air Lines 10-K workbooks | `2022.xls`, `2023.xls`, `2025.xls` | 2021–2025 | Workbooks identify EDGAR Online, Inc. as creator. They are held in the private archive pending redistribution-rights review. |
+| U.S. Energy Information Administration, U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB | `EER_EPJK_PF4_RGC_DPGm.xls` | January 2021–December 2025 | [EIA series](https://www.eia.gov/dnav/pet/hist/eer_epjk_pf4_rgc_dpgM.htm) |
 
-## Files Collected
+The backup also held `flights_2025_delta_clean.csv`, `fuel_prices_clean.csv`, and `financials_clean.csv`. Their exact hashes are in the manifest. The first two were absent from the original clone. `financials_clean.csv` matched the clone byte for byte.
 
-### DS01 — Bureau of Transportation Statistics
-- Twelve monthly 2025 ZIP archives were downloaded.
-- Dataset family: Marketing Carrier On-Time Performance.
-- January–December 2025 are stored in `data/raw/flights/`.
-- Original ZIP files are preserved unchanged.
-
-### DS02 — Delta Air Lines / SEC
-- Delta Air Lines 2025 Form 10-K Excel workbook.
-- Delta Air Lines 2023 Form 10-K Excel workbook.
-- Delta Air Lines 2022 Form 10-K Excel workbook.
-- The 2025 and 2023 filings provide the core 2021–2025 financial statements; the 2022 filing is retained to complete and validate 2021 operating statistics such as RPM, ASM, passenger load factor, fuel gallons consumed and average fuel price.
-- Original workbooks are stored unchanged in `data/raw/financials/`.
-
-### DS03 — U.S. Energy Information Administration
-- Monthly U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB spreadsheet.
-- Original workbook is stored unchanged in `data/raw/fuel/`.
-
-## Source URLs
-
-### DS01 — Bureau of Transportation Statistics
-
-Bureau of Transportation Statistics — Marketing Carrier On-Time Performance
-
-https://www.transtats.bts.gov/Marketing_Annual.aspx
-
-### DS02 — Delta Air Lines / SEC
-
-Delta Air Lines Investor Relations
-
-https://ir.delta.com/
-
-U.S. Securities and Exchange Commission — Delta Air Lines filings
-
-https://www.sec.gov/edgar/browse/?CIK=27904
-
-### DS03 — U.S. Energy Information Administration
-
-U.S. Gulf Coast Kerosene-Type Jet Fuel Spot Price FOB
-
-https://www.eia.gov/dnav/pet/hist/eer_epjk_pf4_rgc_dpgM.htm
-
-## Source Management Rules
-
-- Original downloaded files will remain unchanged.
-- Raw files will be stored only in `data/raw/`.
-- Raw datasets are not committed to GitHub unless intentionally selected for publication.
-- Cleaning and transformations will be performed using Python scripts.
-- Processed files will be stored separately in `data/interim/` or `data/processed/`.
-- Exact source filenames will be captured during the local inspection step before transformation begins.
+The original source-register download dates (October 2026) are unverified local notes. The manifest records the files actually available on November 4, 2026. Re-downloading BTS or EIA later could yield revised source bytes; use the recorded files to reproduce the existing outputs.
